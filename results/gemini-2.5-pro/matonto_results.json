@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TT_14fbac11",
+    "types": [
+      "information unit"
+    ],
+    "reason": "The term 'byte' is a standard unit for measuring digital information or computer data storage. Therefore, it is classified as an 'information unit'."
+  },
+  {
+    "id": "TT_177b58ec",
+    "types": [
+      "length unit"
+    ],
+    "reason": "The term \"micrometer\" is a unit of measurement for length, equivalent to 10^-6 meters. It is a standard unit in the metric system for measuring small distances."
+  },
+  {
+    "id": "TT_f8e74193",
+    "types": [
+      "plane angle unit"
+    ],
+    "reason": "The term \"radian\" is a standard unit of measurement for angles. It is defined as the angle subtended at the center of a circle by an arc that is equal in length to the radius. This directly corresponds to the \"plane angle unit\" classification."
+  },
+  {
+    "id": "TT_fac88931",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "The term 'unit_megapascal' contains 'megapascal'. The pascal (Pa) is the SI derived unit of pressure, used to quantify internal pressure, stress, and tensile strength. Therefore, 'megapascal' is a pressure unit."
+  },
+  {
+    "id": "TT_8a920749",
+    "types": [
+      "molar energy unit"
+    ],
+    "reason": "The term 'joule per mole' is a unit of energy (joule) divided by the amount of substance (mole). This corresponds to the physical quantity of molar energy. Therefore, 'joule per mole' is classified as a 'molar energy unit'."
+  },
+  {
+    "id": "TT_e707b15a",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "The term 'unit_gigapascal' is identified as a 'pressure unit' because 'pascal' is the standard SI unit for measuring pressure. The prefix 'giga' simply indicates a specific multiple (one billion) of this base unit."
+  },
+  {
+    "id": "TT_5ba78869",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term \"hertz\" is the SI unit of frequency, which measures cycles per second. Since there is no \"frequency unit\" in the list of possible types, the more general category \"unit\" is the most appropriate classification for this standard measure of a physical quantity."
+  },
+  {
+    "id": "TT_a0402f84",
+    "types": [
+      "catalytic activity unit"
+    ],
+    "reason": "The becquerel (Bq) is the SI derived unit of radioactivity. It is defined as the activity of a quantity of radioactive material in which one nucleus decays per second. This falls under the broader classification of a catalytic activity unit."
+  },
+  {
+    "id": "TT_9e7440e4",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'watt per meter per kelvin' is the unit of thermal conductivity. Since this specific type is not in the list of possible answers, the most appropriate classification is the general type 'unit'."
+  },
+  {
+    "id": "TT_e2c90a21",
+    "types": [
+      "temperature unit"
+    ],
+    "reason": "The term 'fahrenheit' refers to a scale and unit of measurement for temperature. Therefore, it is classified as a 'temperature unit'."
+  },
+  {
+    "id": "TT_e8ee7e46",
+    "types": [
+      "power unit"
+    ],
+    "reason": "The term 'watt' is a standard unit of power, representing the rate of energy transfer. It is defined as one joule per second."
+  },
+  {
+    "id": "TT_71796178",
+    "types": [
+      "magnetic flux density unit"
+    ],
+    "reason": "The tesla (T) is the SI derived unit of magnetic flux density, which is a measure of the strength of a magnetic field. Therefore, 'tesla' is correctly classified as a 'magnetic flux density unit'."
+  },
+  {
+    "id": "TT_5a5763f5",
+    "types": [
+      "force unit"
+    ],
+    "reason": "The newton (N) is the standard international (SI) unit of force. It is named after Sir Isaac Newton for his contributions to classical mechanics, and it is defined as the force required to accelerate a one-kilogram mass at a rate of one meter per second squared in the direction of the applied force."
+  },
+  {
+    "id": "TT_4c87c381",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'unit_kelvin_-1' represents the unit 'per Kelvin' (K\u207b\u00b9). As there is no specific type for an inverse temperature unit in the provided list and based on similar examples like 'per meter', the most suitable classification is the general 'unit'."
+  },
+  {
+    "id": "TT_dae2a7a6",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'per kilogram' signifies a unit of reciprocal mass (1/kg). It is a component used to derive other units, such as specific energy (e.g., J/kg) or specific volume (e.g., m\u00b3/kg). Since no numerator is specified, it does not represent a specific quantity on its own. Following the example of 'per meter' being classified as a generic 'unit', 'per kilogram' is most appropriately classified as a general 'unit' from the provided list."
+  },
+  {
+    "id": "TT_f15ef7cd",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The joule is a derived unit of energy in the International System of Units. It is used to quantify heat, electricity, and mechanical work, making \"energy unit\" the most appropriate classification."
+  },
+  {
+    "id": "TT_300a8cf0",
+    "types": [
+      "angular velocity unit"
+    ],
+    "reason": "The term 'reciprocal second' refers to the unit 1/s or s\u207b\u00b9. This is the standard unit for frequency (Hertz) and also for angular velocity (radians per second), as radians are dimensionless. Since 'frequency unit' is not an option, 'angular velocity unit' is the most appropriate classification."
+  },
+  {
+    "id": "TT_c4f339b8",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The term \"newton meter\" represents a unit of energy. A newton is the unit of force, and a meter is the unit of length. The product of force and length (distance) is work or energy. The standard unit of energy is the Joule, which is equivalent to one newton meter."
+  },
+  {
+    "id": "TT_f1361175",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "The term 'coulomb per kilogram' is the unit of measurement for radiation exposure. In the International System of Units (SI), it measures the electric charge freed by radiation in a specific amount of matter. This concept is fundamentally linked to the absorbed dose of radiation, as exposure is a prerequisite for dose absorption. Therefore, 'absorbed dose unit' is the most fitting classification from the list provided."
+  },
+  {
+    "id": "TT_4e46b6d7",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "The term 'gray per second' is a unit of measurement. 'Gray' is the SI unit for the absorbed dose of ionizing radiation. 'Per second' indicates a rate. Therefore, 'gray per second' measures the absorbed dose rate, which falls under the category of 'absorbed dose unit'."
+  },
+  {
+    "id": "TT_d714834e",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The term 'unit_electron_volt' explicitly mentions 'electron volt', which is a well-established unit of energy, commonly used in particle physics and quantum mechanics. It represents the kinetic energy gained by an electron when it accelerates through a potential difference of one volt."
+  },
+  {
+    "id": "TT_8182f530",
+    "types": [
+      "solid angle unit"
+    ],
+    "reason": "The term \"per steradian\" refers to the unit for measuring solid angles. A steradian is the standard unit of solid angle in the International System of Units (SI). Therefore, \"per steradian\" falls under the category of 'solid angle unit'."
+  },
+  {
+    "id": "TT_981df168",
+    "types": [
+      "magnetic field strength"
+    ],
+    "reason": "The term \"ampere per square meter\" is the unit of current density. In physics, particularly in electromagnetism, current density is directly related to the magnetic field strength through Ampere's Law. It acts as the source of the magnetic field. Therefore, it is classified under the broader category of magnetic field strength."
+  },
+  {
+    "id": "TT_46dad9e9",
+    "types": [
+      "solid angle unit"
+    ],
+    "reason": "The term 'm2\u00c2\u00b7m-2' simplifies to a dimensionless quantity. The solid angle unit, steradian (sr), is defined in SI units as m\u00c2\u00b2/m\u00c2\u00b2, which exactly matches the term provided. Therefore, 'm2\u00c2\u00b7m-2' represents a solid angle unit."
+  },
+  {
+    "id": "TT_a9f30802",
+    "types": [
+      "entropy unit"
+    ],
+    "reason": "The term 'joule per kilogram per kelvin' represents a unit of specific entropy. A joule is the unit of energy, a kilogram is the unit of mass, and a kelvin is the unit of temperature. Therefore, the combination represents energy per unit mass per unit temperature, which is a measure of entropy."
+  },
+  {
+    "id": "TT_08f9b767",
+    "types": [
+      "capacitance unit"
+    ],
+    "reason": "The farad is the SI unit of capacitance, named after the English physicist Michael Faraday. It measures the ability of a body to store an electrical charge. One farad is defined as the capacitance of a capacitor which has a potential difference of one volt when charged with one coulomb of electricity. Therefore, 'farad' is classified as a 'capacitance unit'."
+  },
+  {
+    "id": "TT_ce5417fc",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'newton per meter' is a unit of measurement, specifically for surface tension or the spring constant. Since 'surface tension unit' is not an available option in the provided list, the general category 'unit' is the most fitting classification."
+  },
+  {
+    "id": "TT_9aec366c",
+    "types": [
+      "entropy unit"
+    ],
+    "reason": "The term \"joule per mole per kelvin\" is a unit for molar entropy. A joule is a unit of energy, \"per mole\" indicates a quantity per amount of substance, and \"per kelvin\" is a unit of temperature. This combination precisely defines the unit for entropy on a molar basis."
+  },
+  {
+    "id": "TT_b9a7fd17",
+    "types": [
+      "luminous flux unit"
+    ],
+    "reason": "The term 'lumen' is the standard SI unit for measuring luminous flux, which represents the total perceived power of light emitted by a source. Therefore, its classification is 'luminous flux unit'."
+  },
+  {
+    "id": "TT_ab85a470",
+    "types": [
+      "catalytic activity unit"
+    ],
+    "reason": "The term 'second per mole' (s/mol) represents a unit of time per amount of substance. This is the inverse of the unit for catalytic activity (katal), which is defined as moles per second (mol/s). As it quantifies a rate related to a chemical or catalytic process, it is classified as a 'catalytic activity unit'."
+  },
+  {
+    "id": "TT_b8e7ebae",
+    "types": [
+      "volume density unit"
+    ],
+    "reason": "The term 'coulomb per cubic meter' is a unit of electric charge density. A coulomb is the unit of electric charge, and a cubic meter is the unit of volume. This represents a quantity per unit volume, which is a volume density."
+  },
+  {
+    "id": "TT_4cff4fec",
+    "types": [
+      "mass unit"
+    ],
+    "reason": "The Dalton (Da) or unified atomic mass unit (u) is a standard unit of mass that quantifies mass on an atomic or molecular scale. It is defined as 1/12 of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state. Therefore, 'dalton' is correctly classified as a 'mass unit'."
+  },
+  {
+    "id": "TT_ce2b537c",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term \"second power 4\" represents the unit of time, \"second\", raised to the fourth power. This does not correspond to a specific physical quantity with a dedicated unit type in the provided list, so it falls under the general category of a 'unit'."
+  },
+  {
+    "id": "TT_25014bd4",
+    "types": [
+      "electric charge unit"
+    ],
+    "reason": "The term 'coulomb per square meter' is a unit of surface charge density. The coulomb is the unit of electric charge, and the 'per square meter' indicates a density over an area. Therefore, the most fitting classification is 'electric charge unit' as it represents the fundamental physical quantity being measured."
+  },
+  {
+    "id": "TT_40a02db8",
+    "types": [
+      "permeability unit"
+    ],
+    "reason": "The term \"meter squared\" (m\u00b2) is the standard SI unit for area. In the context of material science, a key property measured in units of area is permeability, which quantifies the ability of a porous material to allow fluids to flow through it. Therefore, \"meter squared\" is classified as a permeability unit."
+  },
+  {
+    "id": "TT_49ab10c7",
+    "types": [
+      "volume density unit"
+    ],
+    "reason": "The term 'mole per cubic meter' represents the amount of a substance (in moles) per unit of volume. This corresponds to the physical quantity of molar concentration, which is a measure of volume density. Therefore, 'volume density unit' is the most fitting classification from the available options."
+  },
+  {
+    "id": "TT_ab5a8ad6",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'per ampere' represents the reciprocal of the SI unit for electric current. It is a unit of measurement, but it does not correspond to a more specific, named unit type in the provided list, similar to how 'per meter' was classified. Therefore, the general category 'unit' is the most suitable classification."
+  }
+]

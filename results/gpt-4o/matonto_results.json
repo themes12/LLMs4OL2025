@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TT_5a5763f5",
+    "types": [
+      "force unit"
+    ],
+    "reason": "The term 'newton' is a unit of force in the International System of Units (SI). It measures the amount of force required to accelerate a one-kilogram object by one meter per second squared."
+  },
+  {
+    "id": "TT_c4f339b8",
+    "types": [
+      "force unit"
+    ],
+    "reason": "The term 'newton meter' refers to a unit of torque, which is a type of force applied over a distance. Since torque is calculated as force times distance, 'newton meter' is classified under 'force unit'."
+  },
+  {
+    "id": "TT_ce5417fc",
+    "types": [
+      "force unit"
+    ],
+    "reason": "The term 'newton per meter' describes the distribution of force across a given length, which directly correlates to the force applied (Newtons) per meter. In material science, force units quantify how forces are exerted or distributed, and 'newton per meter' is a specific unit related to force or tension across a linear space."
+  },
+  {
+    "id": "TT_25014bd4",
+    "types": [
+      "electric charge unit"
+    ],
+    "reason": "The term 'coulomb per square meter' represents a measurement of electric charge distributed over an area, which aligns with the category of 'electric charge unit'."
+  },
+  {
+    "id": "TT_46dad9e9",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'm2\u00b7m-2' represents a dimensionless unit or a unit that cancels out dimensions when multiplied or divided, keeping the result dimensionless, hence classified as a general 'unit'."
+  },
+  {
+    "id": "TT_49ab10c7",
+    "types": [
+      "catalytic concentration unit"
+    ],
+    "reason": "The term 'mole per cubic meter' is used to describe the concentration of a substance in a given volume. In material ontology, such a term is classified as a 'catalytic concentration unit' because it measures the amount of substance per unit volume, which aligns with the principles of catalytic concentration."
+  },
+  {
+    "id": "TT_ab5a8ad6",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'per ampere' refers to a unit of measure that involves the standard unit of electric current, 'ampere'. In the absence of further context, 'per ampere' is generally categorized under the basic unit classification, as it denotes a relationship expressed in terms of inverse electric current."
+  },
+  {
+    "id": "TT_08f9b767",
+    "types": [
+      "capacitance unit"
+    ],
+    "reason": "'Farad' is the unit of capacitance, which measures a capacitor's ability to store an electrical charge. The term matches the description of a capacitance unit based on its role in electrical systems."
+  },
+  {
+    "id": "TT_4cff4fec",
+    "types": [
+      "mass unit"
+    ],
+    "reason": "Dalton, also known as atomic mass unit (amu), is used to express atomic and molecular weights, thus classifying it as a mass unit."
+  },
+  {
+    "id": "TT_ce2b537c",
+    "types": [
+      "time unit"
+    ],
+    "reason": "'second power 4' suggests a unit related to time, as 'second' is the base unit for time measurements in the International System of Units (SI). The mention of 'power 4' might imply a complex unit derivation, but fundamentally, the term is linked to time."
+  },
+  {
+    "id": "TT_dae2a7a6",
+    "types": [
+      "mass unit"
+    ],
+    "reason": "The term 'per kilogram' indicates a measurement that is based upon mass, and thus it is classified under 'mass unit'. It is used to express a unit that is inversely related to mass."
+  },
+  {
+    "id": "TT_f8e74193",
+    "types": [
+      "plane angle unit"
+    ],
+    "reason": "A radian is a unit of plane angle in mathematics. It is commonly used in various fields such as physics and engineering."
+  },
+  {
+    "id": "TT_8a920749",
+    "types": [
+      "molar energy unit"
+    ],
+    "reason": "The term 'joule per mole' is a unit commonly used to express molar energy, which is the amount of energy per mole of substance. This aligns with units like 'kJ/mol', which is classified as a molar energy unit."
+  },
+  {
+    "id": "TT_a0402f84",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'becquerel' is a unit of measurement for radioactivity in the International System of Units (SI). It represents the amount of radioactive decay or activity which is considered a general unit."
+  },
+  {
+    "id": "TT_14fbac11",
+    "types": [
+      "information unit"
+    ],
+    "reason": "The term 'byte' is widely recognized as a unit of digital information in computing and telecommunications. It typically represents 8 bits and is a fundamental unit for representing data storage capacity."
+  },
+  {
+    "id": "TT_f1361175",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "The term 'coulomb per kilogram' is a unit that measures absorbed dose, indicating the amount of ionizing radiation energy deposited in a substance. It relates to dose equivalent and absorbed dose measurements, typically used in nuclear physics and radiation protection contexts."
+  },
+  {
+    "id": "TT_981df168",
+    "types": [
+      "electric current unit"
+    ],
+    "reason": "The term 'ampere per square meter' describes the measure of electric current density, which fits the classification of 'electric current unit.' In scientific and material ontology, this is used to quantify the flow of electric charge across a surface, essential for understanding electrical properties and behaviors in materials."
+  },
+  {
+    "id": "TT_4c87c381",
+    "types": [
+      "temperature unit"
+    ],
+    "reason": "The term 'unit_kelvin_-1' relates to the inverse of the Kelvin unit, commonly used in temperature measurements. Kelvin is an absolute temperature unit in the international system of units (SI). As it represents temperature or temperature difference, the most suitable classification for 'unit_kelvin_-1' involves a unit related to temperature."
+  },
+  {
+    "id": "TT_f15ef7cd",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The term 'joule' is the SI unit of energy. It is used to measure energy, work, or amount of heat in physics and material science. Based on the list of possible types, 'energy unit' is the most accurate classification for 'joule'."
+  },
+  {
+    "id": "TT_40a02db8",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'meter squared' represents a unit of area, typically used to measure surfaces. While the term explicitly refers to a square measure, it falls under the broader classification of 'unit' in the context of measurement systems."
+  },
+  {
+    "id": "TT_d714834e",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The term 'unit_electron_volt' refers to a unit of energy commonly used in particle physics to measure small amounts of energy. Thus, it classifies as an 'energy unit'."
+  },
+  {
+    "id": "TT_a9f30802",
+    "types": [
+      "specific energy unit"
+    ],
+    "reason": "The term 'joule per kilogram per kelvin' represents a unit of specific energy, often referred to in the context of specific heat capacity, indicating the amount of energy per amount of mass per unit temperature."
+  },
+  {
+    "id": "TT_8182f530",
+    "types": [
+      "solid angle unit"
+    ],
+    "reason": "The term 'per steradian' is related to measuring solid angles in three-dimensional geometry, which fits with 'solid angle unit' classification."
+  },
+  {
+    "id": "TT_ab85a470",
+    "types": [
+      "catalytic activity unit"
+    ],
+    "reason": "The term 'second per mole' implies a relation between time and amount of substance, which aligns with units like 'second per mole' used in catalytic activity measurement, therefore classifying it as a 'catalytic activity unit'."
+  },
+  {
+    "id": "TT_b8e7ebae",
+    "types": [
+      "electric charge unit"
+    ],
+    "reason": "The term 'coulomb per cubic meter' indicates a charge concentration and is related to the measurement of electric charge in a given volume, thus it is identified as an 'electric charge unit' type."
+  },
+  {
+    "id": "TT_9aec366c",
+    "types": [
+      "entropy unit"
+    ],
+    "reason": "Joule per mole per kelvin is a unit that measures entropy, as it describes the distribution of energy per temperature increment per mole of substance."
+  },
+  {
+    "id": "TT_b9a7fd17",
+    "types": [
+      "luminous flux unit"
+    ],
+    "reason": "The term 'lumen' is the SI unit of luminous flux, which quantifies the amount of light emitted from a source. It aligns perfectly with the luminous flux unit category, making it the correct classification for this term."
+  },
+  {
+    "id": "TT_5ba78869",
+    "types": [
+      "frequency unit"
+    ],
+    "reason": "The term 'hertz' is a standard unit of frequency representing the number of cycles per second. It measures the frequency of periodic events, such as sound waves or electromagnetic radiation, and is not explicitly listed in the provided 49 possible answers but logically fits as a frequency unit."
+  },
+  {
+    "id": "TT_9e7440e4",
+    "types": [
+      "thermal conductivity unit"
+    ],
+    "reason": "The term 'watt per meter per kelvin' corresponds to a unit of thermal conductivity, as it describes the transfer of heat energy per meter through a material per unit temperature difference in kelvins."
+  },
+  {
+    "id": "TT_177b58ec",
+    "types": [
+      "length unit"
+    ],
+    "reason": "The term 'micrometer' is a unit of length, commonly used in scientific and engineering contexts to measure very small distances or thicknesses, equivalent to one millionth of a meter."
+  },
+  {
+    "id": "TT_e707b15a",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "The term 'unit_gigapascal' implies a unit of measurement known as gigapascal, which is commonly used to measure pressure. A gigapascal is a derived metric unit of pressure defined as one billion pascals (10^9 pascal). Therefore, the corresponding type for this term is 'pressure unit'."
+  },
+  {
+    "id": "TT_fac88931",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "The term 'megapascal' is a unit of pressure, widely used to quantify internal pressure, stress, Young's modulus, and ultimate tensile strength. It is part of the Pascal unit grouping which is standard for pressure measurements in the SI system."
+  },
+  {
+    "id": "TT_300a8cf0",
+    "types": [
+      "angular velocity unit"
+    ],
+    "reason": "'reciprocal second' is commonly used to express frequencies and oscillations, which relate to rotational speed. In physics, it is often associated with 'angular velocity unit', describing how quickly an angle is changing."
+  },
+  {
+    "id": "TT_e2c90a21",
+    "types": [
+      "temperature unit"
+    ],
+    "reason": "The term 'fahrenheit' is widely recognized as a unit of temperature used to measure thermal conditions. It's part of the Fahrenheit scale, a thermodynamic temperature scale, where water freezes at 32 degrees and boils at 212 degrees under standard atmospheric conditions."
+  },
+  {
+    "id": "TT_71796178",
+    "types": [
+      "magnetic flux density unit"
+    ],
+    "reason": "The term 'tesla' is a unit of measurement used in physics to quantify magnetic flux density or magnetic induction. It represents how much magnetic field passes through a given area and is commonly used in various scientific and engineering applications."
+  },
+  {
+    "id": "TT_e8ee7e46",
+    "types": [
+      "power unit"
+    ],
+    "reason": "The term 'watt' refers to a unit of power, which is the rate at which energy is used or transferred."
+  },
+  {
+    "id": "TT_4e46b6d7",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "The term 'gray per second' refers to the rate of dose delivery in radiation therapy, where 'gray' is the unit of absorbed dose and 'per second' indicates a rate, confirming this as an absorbed dose unit."
+  }
+]

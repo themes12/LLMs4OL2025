@@ -1,0 +1,4384 @@
+[
+  {
+    "id": "TT_f34384ab",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'joule per meter squared' is a unit of measurement, specifically representing energy per unit area, which aligns with the 'unit' category."
+  },
+  {
+    "id": "TT_0ed0295a",
+    "types": [
+      "biological state"
+    ],
+    "reason": "All predictions unanimously agree that 'dead' refers to a biological state, describing the condition of an organism no longer being alive."
+  },
+  {
+    "id": "TT_7cec8bfd",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower imbrian' refers to a specific geological time period on the Moon, which is classified as an epoch in lunar stratigraphy."
+  },
+  {
+    "id": "TT_fd2cb425",
+    "types": [
+      "unit"
+    ],
+    "reason": "All predictions agree that 'meter per second' is a unit, and 'unit' is the most general and accurate classification in this context."
+  },
+  {
+    "id": "TT_ad17cba3",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "All three predictions agree that the term 'marine life management act' is best categorized as 'environmental law' due to its legal and regulatory nature concerning marine ecosystems."
+  },
+  {
+    "id": "TT_4bef7005",
+    "types": [
+      "unit"
+    ],
+    "reason": "All predictions correctly identify 'pascal' as a unit of pressure, which is consistent with the SWEET ontology."
+  },
+  {
+    "id": "TT_1bc143e7",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x47 class' aligns with the 'x class' classification system for solar flares, as indicated by the predictions and the SWEET Ontology list."
+  },
+  {
+    "id": "TT_0f9b8039",
+    "types": [
+      "age"
+    ],
+    "reason": "The notation 'mya' stands for 'million years ago', which is a direct measurement of geological age, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_9627d0c1",
+    "types": [
+      "shape"
+    ],
+    "reason": "All three predictions unanimously agree that 'arched' refers to a shape, specifically a curved or bow-like form, which aligns perfectly with the provided options."
+  },
+  {
+    "id": "TT_34b2d975",
+    "types": [
+      "solid state"
+    ],
+    "reason": "The term 'brittle' describes a material's tendency to break easily under stress, which is a defining characteristic of the 'solid state' in the context of material properties."
+  },
+  {
+    "id": "TT_f75b0090",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "The Robinson projection is a type of spatial reference system used in cartography to represent the Earth's surface on maps."
+  },
+  {
+    "id": "TT_f5d80214",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions agree that 'Middle Ordovician' refers to a specific geological time period, which is classified as an 'epoch' in the SWEET ontology."
+  },
+  {
+    "id": "TT_0c882d10",
+    "types": [
+      "magnetic pole"
+    ],
+    "reason": "All three predictions correctly identify 'north pole' as a 'magnetic pole,' which is the most accurate and relevant type from the given options."
+  },
+  {
+    "id": "TT_d807c3f9",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x30 class' is a specific classification within the X-class system, commonly used for solar flare intensity, making 'x class' the most relevant type."
+  },
+  {
+    "id": "TT_8079a887",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'metallic' describes a physical property or state of matter, such as conductivity and luster, which aligns with the SWEET ontology's classification of physical states."
+  },
+  {
+    "id": "TT_777105aa",
+    "types": [
+      "alkane"
+    ],
+    "reason": "C3H8 is the chemical formula for propane, which is a saturated hydrocarbon and fits the definition of an alkane."
+  },
+  {
+    "id": "TT_f70ab457",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "All three predictions correctly identify chromium as a transition metal, which is accurate based on its position in the periodic table and chemical properties."
+  },
+  {
+    "id": "TT_35848db2",
+    "types": [
+      "period"
+    ],
+    "reason": "The term 'nectarian' refers to a specific geological period in lunar chronology, aligning with the SWEET Ontology type 'period'."
+  },
+  {
+    "id": "TT_ebdf34c3",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'level' is most commonly associated with measures or intensities of environmental processes, making 'activity level' the most appropriate choice."
+  },
+  {
+    "id": "TT_0532c3cf",
+    "types": [
+      "component"
+    ],
+    "reason": "A conduit is a channel or tube that conveys a substance, fitting the definition of a 'component' as it is a part of a larger system, such as a volcanic conduit or water management system."
+  },
+  {
+    "id": "TT_465e8904",
+    "types": [
+      "chemical property"
+    ],
+    "reason": "Electronegativity is a measure of an atom's ability to attract and hold electrons, which is a fundamental chemical property, not a role or constant."
+  },
+  {
+    "id": "TT_06e0a9c2",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'joule per kelvin' is a derived unit formed by dividing energy (joule) by temperature (kelvin), which aligns with the definition of a 'unit defined by product' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_01c7707e",
+    "types": [
+      "vertical coordinate"
+    ],
+    "reason": "Sigma is commonly used in atmospheric and oceanographic sciences as a vertical coordinate system, particularly sigma coordinates which follow terrain or pressure surfaces."
+  },
+  {
+    "id": "TT_0c440bac",
+    "types": [
+      "moisture state"
+    ],
+    "reason": "The term 'saturated' is commonly used in earth and environmental science to describe the condition of a medium (e.g., soil or air) holding the maximum amount of water, which aligns with the 'moisture state' concept in SWEET Ontology."
+  },
+  {
+    "id": "TT_f04682e8",
+    "types": [
+      "physical property"
+    ],
+    "reason": "Elastic refers to a material's ability to return to its original shape after deformation, which is a fundamental physical characteristic, aligning with 'physical property' in SWEET Ontology."
+  },
+  {
+    "id": "TT_a109007e",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "All three predictions correctly identify carbohydrates as organic compounds due to their composition of carbon, hydrogen, and oxygen, which aligns with the definition of organic compounds in environmental science."
+  },
+  {
+    "id": "TT_b20cb478",
+    "types": [
+      "b class"
+    ],
+    "reason": "The term 'b8 class' is a specific instance or subtype of the broader 'b class' category, as indicated by all three predictions."
+  },
+  {
+    "id": "TT_95cdaebc",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "The term 'gentle' is specifically used in the Beaufort scale to describe wind speeds, making it the most accurate classification."
+  },
+  {
+    "id": "TT_136ee6bc",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'ferroelectric' describes a material's spontaneous electric polarization, which is a distinct physical property, making 'physical state' the most fitting classification."
+  },
+  {
+    "id": "TT_50c80693",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'uninterrupted' describes a continuous condition or state without breaks, which aligns with the concept of a 'system state' in environmental and earth sciences."
+  },
+  {
+    "id": "TT_d67b8385",
+    "types": [
+      "unit"
+    ],
+    "reason": "All predictions agree that the term is a unit, and 'unit' is the most general and accurate classification for this measurement."
+  },
+  {
+    "id": "TT_8d61c5c2",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'stressor' describes the function of an entity within a system, specifically an agent that causes stress, aligning with the concept of a 'role'."
+  },
+  {
+    "id": "TT_e2be01a5",
+    "types": [
+      "saffir simpson scale"
+    ],
+    "reason": "All three predictions agree that 'category2' refers to the Saffir-Simpson scale, which is used for categorizing hurricane intensity, aligning with the pattern observed in similar terms."
+  },
+  {
+    "id": "TT_73209875",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'crystal structure' describes the ordered arrangement of atoms or molecules in a crystalline solid, which is a specific spatial configuration."
+  },
+  {
+    "id": "TT_3a87c4f0",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'inhibitor' refers to a substance's function in slowing or preventing chemical reactions, aligning with the 'chemical role' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_cdf9829d",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'sharp' is used to describe a characteristic or quality of something else, making 'qualifier' the most fitting category."
+  },
+  {
+    "id": "TT_23f84dcf",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "The term 'eutrophic' describes a condition involving both chemical (nutrient levels) and biological (productivity) aspects, making 'biochemical state' the most accurate classification."
+  },
+  {
+    "id": "TT_d9978a79",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "Anoxia describes a condition of total oxygen depletion, which directly relates to biochemical processes in biological systems, making 'biochemical state' the most accurate classification."
+  },
+  {
+    "id": "TT_db0ed17b",
+    "types": [
+      "biological role"
+    ],
+    "reason": "A micronutrient is a substance required in small quantities for an organism's health and metabolism, which aligns with the 'biological role' classification as it describes its function within a biological system."
+  },
+  {
+    "id": "TT_7ba31ed5",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "The term 'calm' is explicitly defined as the first level (force 0) of the Beaufort scale, which measures wind speeds."
+  },
+  {
+    "id": "TT_343e2868",
+    "types": [
+      "provenance role"
+    ],
+    "reason": "The term 'signer' denotes an entity that performs the action of signing, which serves to indicate origin, authorship, or authentication, fitting the 'provenance role' concept."
+  },
+  {
+    "id": "TT_abb2e0e5",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '445.6mya' represents a specific point in time (445.6 million years ago), which aligns with the concept of 'age' as a temporal measurement in earth science."
+  },
+  {
+    "id": "TT_8b290782",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '311.7mya' represents a specific point in geological time, which aligns with the 'age' category in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_3b24b0ec",
+    "types": [
+      "era"
+    ],
+    "reason": "The Cenozoic is universally recognized as a geological era in the geologic time scale, marking a significant period in Earth's history."
+  },
+  {
+    "id": "TT_17b968f2",
+    "types": [
+      "conduction role"
+    ],
+    "reason": "All three predictions agree that 'conductor' relates to the role of substances in conducting energy, making 'conduction role' the most accurate classification."
+  },
+  {
+    "id": "TT_e1af4347",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 's34' as Sulfur-34, an isotope of sulfur, which aligns with the SWEET Ontology classification for isotopes."
+  },
+  {
+    "id": "TT_044d65d3",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "Non-Newtonian substances are classified by their behavior under stress, which is a defining characteristic of fluid states."
+  },
+  {
+    "id": "TT_4da461b5",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'siemens per kilogram' is a unit of measurement, and while it is derived from other units, the most straightforward classification is 'unit'."
+  },
+  {
+    "id": "TT_f367c52e",
+    "types": [
+      "period"
+    ],
+    "reason": "The Tonian is a geological period within the Proterozoic Eon, making 'period' the most accurate classification."
+  },
+  {
+    "id": "TT_d425750d",
+    "types": [
+      "age"
+    ],
+    "reason": "All predictions unanimously agree that 'old growth' refers to the age of forests, making 'age' the most appropriate classification."
+  },
+  {
+    "id": "TT_fca5f9f9",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'acidify' describes a process of increasing acidity, which aligns with the concept of a chemical role in SWEET Ontology."
+  },
+  {
+    "id": "TT_e61af733",
+    "types": [
+      "biological role"
+    ],
+    "reason": "An enzyme's primary function is as a biological catalyst, which aligns with the 'biological role' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_fa785f5b",
+    "types": [
+      "equilibrium state"
+    ],
+    "reason": "The term 'balanced' directly refers to a state of equilibrium, which is a more general and accurate classification than 'fluid equilibrium state'."
+  },
+  {
+    "id": "TT_125ec8a6",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The term 'central dense overcast' is a meteorological feature describing dense cloud formations in tropical cyclones, which are atmospheric phenomena."
+  },
+  {
+    "id": "TT_3390cdcb",
+    "types": [
+      "period"
+    ],
+    "reason": "The Paleogene is a geologic period within the Cenozoic Era, as confirmed by multiple sources, making 'period' the most accurate classification."
+  },
+  {
+    "id": "TT_b2668e3d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Ypresian is a recognized epoch in the geological timescale, specifically part of the Eocene epoch, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_ffe53db9",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x2 class' is a specific level within the 'x class' classification system for solar flares, and 'x class' is the most precise and appropriate choice from the given options."
+  },
+  {
+    "id": "TT_42fb6810",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x42 class' aligns with the 'x class' classification in the SWEET ontology, which is used for categorizing solar flares or similar hierarchical classifications."
+  },
+  {
+    "id": "TT_152f3a8d",
+    "types": [
+      "alkaline earth metal"
+    ],
+    "reason": "Beryllium is a chemical element classified under alkaline earth metals, consistent with its period and group in the periodic table."
+  },
+  {
+    "id": "TT_83040b6e",
+    "types": [
+      "hcfc"
+    ],
+    "reason": "The term 'hclfc' is a likely typo or variant of 'hcfc' (hydrochlorofluorocarbon), a known environmental science term related to ozone-depleting substances."
+  },
+  {
+    "id": "TT_183271fa",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'elevated' is commonly used to describe levels or states, such as activity levels, which fits the context of earth and environmental science."
+  },
+  {
+    "id": "TT_03db7b11",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "All three predictions correctly identify 'oxidizer' as a 'chemical role' due to its function in chemical reactions, specifically oxidation."
+  },
+  {
+    "id": "TT_ecb9fcc7",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'landward' specifies a direction relative to the sea, indicating movement or orientation towards the land, which aligns with 'horizontal direction' in earth sciences."
+  },
+  {
+    "id": "TT_062e9b61",
+    "types": [
+      "m class"
+    ],
+    "reason": "The term 'm2 class' is a specific variant or subclass within the broader 'm class' category, as indicated by all three predictions."
+  },
+  {
+    "id": "TT_93eb6d00",
+    "types": [
+      "cfc"
+    ],
+    "reason": "The term 'cfc' directly matches the provided list and represents Chlorofluorocarbon, a specific chemical compound."
+  },
+  {
+    "id": "TT_13327caf",
+    "types": [
+      "format"
+    ],
+    "reason": "The term 'serializes' refers to converting data into a storable or transmittable format, aligning with the general concept of data representation."
+  },
+  {
+    "id": "TT_088755b7",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "All three predictions correctly identify Lambert conformal conic as a spatial reference system, which is accurate for this map projection type."
+  },
+  {
+    "id": "TT_94b2fbcc",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions agree that 'vague' relates to uncertainty or lack of clarity, aligning with the SWEET Ontology concept of 'trust'."
+  },
+  {
+    "id": "TT_3edea2ca",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '93.6mya' refers to a geological time measurement, specifically 93.6 million years ago, which clearly indicates an age."
+  },
+  {
+    "id": "TT_e9354ba4",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The term 'cos' refers to the cosine function, which outputs a dimensionless ratio derived from the sides of a right-angled triangle."
+  },
+  {
+    "id": "TT_0ccb2235",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'suspended' indicates a state where something is temporarily inactive or paused, fitting the 'binary state' category in environmental and earth sciences."
+  },
+  {
+    "id": "TT_79f3f382",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'north' is a cardinal direction used for horizontal navigation and spatial orientation, fitting the 'horizontal direction' category."
+  },
+  {
+    "id": "TT_7a45e8bb",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'silicate' refers to a chemical compound composed of silicon and oxygen, which is inorganic in nature and aligns with the SWEET ontology's classification of such substances."
+  },
+  {
+    "id": "TT_951722ac",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "The term 'geostationary' describes a specific type of orbit where a satellite remains fixed relative to the Earth's surface, which aligns with the concept of 'orbital configuration'."
+  },
+  {
+    "id": "TT_432d65d3",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'contributor' aligns with the concept of a functional role in scientific or environmental contexts, as it describes an entity's participatory function."
+  },
+  {
+    "id": "TT_a0dc5361",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'binder' describes a functional role in holding or linking materials together, which aligns with the 'role' concept in the SWEET Ontology."
+  },
+  {
+    "id": "TT_40ebd1cb",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'dissolved' describes the state of a solute within a solution, which is a fundamental concept in chemistry, making 'chemical state' the most appropriate classification."
+  },
+  {
+    "id": "TT_3a1937c1",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The Rouse number is a dimensionless parameter used in sediment transport theory, representing the ratio of particle settling velocity to shear velocity, fitting the 'dimensionless ratio' category."
+  },
+  {
+    "id": "TT_9ab9afbc",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'trace' is used to specify the role or significance of a component within a system, indicating a very small or insignificant amount, which aligns with the 'role' classification."
+  },
+  {
+    "id": "TT_bee9eb1d",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '0.126mya' refers to a specific point in time 126,000 years ago, which is commonly expressed as an age measurement in years throughout the field of earth and environmental sciences."
+  },
+  {
+    "id": "TT_e8d6b32f",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'uva' refers to Ultraviolet A, a specific range in the electromagnetic spectrum, making 'spectral band' the most appropriate classification."
+  },
+  {
+    "id": "TT_9782704d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '3.600mya' refers to a specific geological time period, which is best classified as an 'epoch' in the context of Earth's history and geological time scales."
+  },
+  {
+    "id": "TT_68a600c3",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'bubble' refers to a gas-filled cavity in a liquid, which aligns with the 'fluid state' concept in the SWEET ontology."
+  },
+  {
+    "id": "TT_0d8981ec",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '23.03mya' refers to a geological time period, which aligns with the 'epoch' category in the SWEET Ontology, as epochs are subdivisions of geological time."
+  },
+  {
+    "id": "TT_b5b09234",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'dendritic' describes a branching, tree-like pattern, which is a type of shape. This is commonly observed in earth and environmental sciences, such as in drainage patterns or crystal formations."
+  },
+  {
+    "id": "TT_ec2a8602",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions correctly identify nitrogen monoxide (NO) as an inorganic compound, as it lacks carbon-hydrogen bonds and consists of inorganic elements."
+  },
+  {
+    "id": "TT_7ce655e9",
+    "types": [
+      "visibility"
+    ],
+    "reason": "The term 'dim' refers to reduced brightness or low light conditions, which directly relates to the concept of visibility in environmental contexts."
+  },
+  {
+    "id": "TT_099918b5",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "All predictions correctly identify 'beaufort5' as a reference to the Beaufort scale, which measures wind force, with the number 5 indicating a specific level on the scale."
+  },
+  {
+    "id": "TT_c926cc33",
+    "types": [
+      "substance form"
+    ],
+    "reason": "The term 'polycrystalline' describes a substance composed of multiple crystals, which aligns with the concept of 'substance form' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ede7b3f1",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "FCAA stands for the Federal Clean Air Act, a significant piece of environmental legislation, making 'environmental law' the most accurate classification."
+  },
+  {
+    "id": "TT_283e33c2",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'uvb' refers to a specific range of the ultraviolet spectrum, making 'spectral band' the most accurate classification."
+  },
+  {
+    "id": "TT_e443a420",
+    "types": [
+      "star"
+    ],
+    "reason": "The term 'sun' refers to the G-type main-sequence star at the center of our solar system, which is accurately classified as a 'star' in astronomical terms."
+  },
+  {
+    "id": "TT_7ff90784",
+    "types": [
+      "trust"
+    ],
+    "reason": "All predictions unanimously agree that 'acceptable' aligns with the concept of 'trust' in environmental standards and decision-making contexts."
+  },
+  {
+    "id": "TT_6b101b0a",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'submarginal' functions as a descriptive modifier, indicating a condition below a margin or threshold, which aligns with the concept of a qualifier."
+  },
+  {
+    "id": "TT_8b5c0524",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'flake' primarily describes the physical form or geometry of an object, such as a thin, flat piece, making 'shape' the most fitting classification."
+  },
+  {
+    "id": "TT_3747460e",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'pb204' as an isotope of lead (Pb-204), which is consistent with the SWEET Ontology classification for earth and environmental science concepts."
+  },
+  {
+    "id": "TT_53c5bd17",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions unanimously agree that 'unconfident' relates to a measure of belief or reliability, aligning with the 'trust' type in the SWEET ontology."
+  },
+  {
+    "id": "TT_d0d2658e",
+    "types": [
+      "period"
+    ],
+    "reason": "The term 'Triassic' refers to a geologic period within the Mesozoic Era, as confirmed by all three predictions."
+  },
+  {
+    "id": "TT_73163901",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'dormant' specifically refers to a biological state of reduced activity, aligning with the SWEET Ontology's 'biological state' category."
+  },
+  {
+    "id": "TT_158a5f30",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "All three predictions unanimously agree that 'horizontal direction' is the most accurate and specific classification for the term 'horizontal' in the given context."
+  },
+  {
+    "id": "TT_40496536",
+    "types": [
+      "solid state"
+    ],
+    "reason": "A crystal is defined by its highly ordered atomic structure, which is a characteristic of the solid state of matter."
+  },
+  {
+    "id": "TT_30dfa770",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x13 class' refers to a solar flare classification, with 'x class' being the category for the most intense solar flares, aligning with the provided options."
+  },
+  {
+    "id": "TT_154d3230",
+    "types": [
+      "angular coordinate"
+    ],
+    "reason": "Theta is widely recognized as an angular coordinate in mathematical and scientific contexts, particularly in polar and spherical coordinate systems."
+  },
+  {
+    "id": "TT_3a11961a",
+    "types": [
+      "format"
+    ],
+    "reason": "All three predictions agree that NetCDF3 is a format, and it is widely recognized as a standardized data format in scientific contexts."
+  },
+  {
+    "id": "TT_6135b3e1",
+    "types": [
+      "angular direction"
+    ],
+    "reason": "The term 'pitch' refers to the angular orientation or inclination of an object or surface, fitting the definition of 'angular direction' in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_05bf2ab1",
+    "types": [
+      "c class"
+    ],
+    "reason": "All three predictions agree that 'c7 class' is a specific classification within the broader 'c class' category, which is a valid type in the ontology."
+  },
+  {
+    "id": "TT_9de88d2d",
+    "types": [
+      "format"
+    ],
+    "reason": "All three predictions correctly identify 'ascii' as a format, as it is a character encoding standard for digital representation."
+  },
+  {
+    "id": "TT_d8989b95",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "The term 'peroxy radical' contains the peroxy functional group (-O-O-), which aligns with the 'peroxide' classification in the provided list, reflecting its chemical structure."
+  },
+  {
+    "id": "TT_c266fa07",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'extraordinary' functions as a descriptive adjective, modifying or specifying an attribute, which aligns with the 'qualifier' category in the ontology."
+  },
+  {
+    "id": "TT_53426ba9",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'orange' refers to a specific portion of the electromagnetic spectrum, aligning with the SWEET Ontology concept of spectral band."
+  },
+  {
+    "id": "TT_ea721ede",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x37 class' aligns with the 'x class' category, which is consistent with the SWEET Ontology's classification system."
+  },
+  {
+    "id": "TT_56ae0af3",
+    "types": [
+      "chemical property"
+    ],
+    "reason": "The term 'hydrophobic' refers to a chemical property of repelling water, which is a specific behavior of molecules in a chemical context."
+  },
+  {
+    "id": "TT_1b4c6276",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions unanimously classify silicon dioxide as an inorganic compound due to its composition of silicon and oxygen without carbon-hydrogen bonds."
+  },
+  {
+    "id": "TT_f7bb9b77",
+    "types": [
+      "biological role"
+    ],
+    "reason": "A biomarker indicates a biological state or condition, aligning with the 'biological role' type in the SWEET ontology."
+  },
+  {
+    "id": "TT_03ced6f3",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'uphill' specifically denotes an upward direction against gravity, aligning with the concept of 'vertical direction' in spatial contexts."
+  },
+  {
+    "id": "TT_76cbacc3",
+    "types": [
+      "ocean area"
+    ],
+    "reason": "The term 'underwater' directly refers to areas beneath water surfaces, which is best described by 'ocean area' in the context of earth and environmental sciences."
+  },
+  {
+    "id": "TT_ad1bbe57",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "All three predictions agree that 'c10h16' is a hydrocarbon, as it consists solely of carbon and hydrogen atoms, fitting the definition of hydrocarbons in the SWEET Ontology."
+  },
+  {
+    "id": "TT_1091e607",
+    "types": [
+      "spectral line"
+    ],
+    "reason": "The term 'he1083' refers to a specific spectral line of Helium at 1083 nm, which is a standard notation in spectroscopy."
+  },
+  {
+    "id": "TT_5c033064",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "HDFEOS2 is a version of the Hierarchical Data Format (HDF) for Earth Observing System data, which is inherently self-describing, bundling metadata and data into a single file."
+  },
+  {
+    "id": "TT_bcb95918",
+    "types": [
+      "consistence property"
+    ],
+    "reason": "The term 'rough' describes a physical texture or surface quality, which aligns with the 'consistence property' in the SWEET ontology."
+  },
+  {
+    "id": "TT_babaeba5",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x8 class' refers to a classification of solar flares, which aligns with the 'x class' category in the provided options."
+  },
+  {
+    "id": "TT_d1fb6213",
+    "types": [
+      "ion"
+    ],
+    "reason": "HCO3- is the bicarbonate ion, a negatively charged ion, making 'ion' the most accurate classification."
+  },
+  {
+    "id": "TT_9c8ac160",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'negative' represents a binary classification or state, often used to describe conditions like negative feedback or anomalies in environmental science."
+  },
+  {
+    "id": "TT_0c6f7ee7",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'potable' refers to liquids safe for drinking, aligning with the 'fluid state' as it describes the state of matter (water) in a consumable form."
+  },
+  {
+    "id": "TT_22e1ddd0",
+    "types": [
+      "geospatial interface protocol"
+    ],
+    "reason": "The term 'remote' is commonly associated with remote sensing technologies, which involve geospatial data acquisition, making 'geospatial interface protocol' the most fitting classification."
+  },
+  {
+    "id": "TT_7e6b4b4a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Thanetian' refers to a specific interval of geological time within the Paleocene epoch, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_8c4a8268",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'hauterivian' refers to a geological age/stage in the Early Cretaceous epoch, making 'age' the most accurate classification in the SWEET Ontology context."
+  },
+  {
+    "id": "TT_4722ce3e",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The ionosphere is a layer of Earth's upper atmosphere, ionized by solar and cosmic radiation, making 'atmosphere' the most accurate classification."
+  },
+  {
+    "id": "TT_d5e03d4a",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x25 class' refers to the 'x class' classification, which is consistent with the pattern of scientific classifications in the ontology."
+  },
+  {
+    "id": "TT_9e372b05",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Rust is iron oxide (Fe2O3), which is an inorganic compound formed through the oxidation of iron when exposed to oxygen and moisture in the environment."
+  },
+  {
+    "id": "TT_5b035ac1",
+    "types": [
+      "physical constant"
+    ],
+    "reason": "All predictions agree that 'solar constant' is a 'physical constant' due to its role as a quantified, unchanging measure of solar radiation."
+  },
+  {
+    "id": "TT_e179b811",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "All three predictions unanimously agree that 'even' functions as a qualifier, describing uniformity or balance in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_8b4cdf58",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "All three predictions agree that 'west' is a cardinal direction indicating horizontal orientation, making 'horizontal direction' the most appropriate type."
+  },
+  {
+    "id": "TT_99e68702",
+    "types": [
+      "period"
+    ],
+    "reason": "All three predictions correctly identify 'Ordovician' as a geological period, which is a division of time in Earth's history."
+  },
+  {
+    "id": "TT_ab07d5e8",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'hour' is a standard unit of time measurement, making 'unit' the most appropriate classification."
+  },
+  {
+    "id": "TT_583c6331",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'he4' refers to Helium-4, a specific isotope of helium, which aligns with the SWEET Ontology's classification of isotopes."
+  },
+  {
+    "id": "TT_f21c7a7b",
+    "types": [
+      "geosphere"
+    ],
+    "reason": "The term 'geologic' is directly related to the study of the Earth's solid structure and processes, which aligns with the 'geosphere' concept in the SWEET Ontology."
+  },
+  {
+    "id": "TT_b5a3b61a",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "'meter cubed per kilogram' is a derived unit of density, indicating it is a 'unit derived by scaling' from base units."
+  },
+  {
+    "id": "TT_7f00cf84",
+    "types": [
+      "physical constant"
+    ],
+    "reason": "The von K\u00e1rm\u00e1n constant is a dimensionless constant used in fluid dynamics, making 'physical constant' the most accurate classification."
+  },
+  {
+    "id": "TT_2c72a2bd",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'precise' functions as a qualifier to describe the accuracy or exactness of measurements or observations, aligning with the ontology's definition of qualifiers."
+  },
+  {
+    "id": "TT_b8e624c9",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "All three predictions agree that 'semi precious' functions as a qualifier, describing a classification or quality level of gemstones or minerals."
+  },
+  {
+    "id": "TT_ec64041e",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'light' is best described as a 'spectral band' because it refers to a specific range of wavelengths in the electromagnetic spectrum, which is a key concept in earth and environmental science, particularly in remote sensing."
+  },
+  {
+    "id": "TT_551094cc",
+    "types": [
+      "cfc"
+    ],
+    "reason": "The term 'cfc114' is a specific chlorofluorocarbon, as indicated by all three predictions, which consistently classify it under the 'cfc' category due to its chemical composition and environmental impact."
+  },
+  {
+    "id": "TT_a2c7b4bc",
+    "types": [
+      "eon"
+    ],
+    "reason": "The Ediacaran is a geological eon, representing a significant span of geological time, as confirmed by the SWEET Ontology."
+  },
+  {
+    "id": "TT_391a36c6",
+    "types": [
+      "reference frame"
+    ],
+    "reason": "All three predictions unanimously agree that 'lagrangian' refers to a reference frame, particularly in fluid dynamics and physics, where it tracks particles or parcels as they move."
+  },
+  {
+    "id": "TT_49de527d",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'pan' refers to a shallow, flat-bottomed geographical feature, which aligns with the 'shape' classification in earth and environmental science."
+  },
+  {
+    "id": "TT_b4ab2f6c",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Lutetian is a stage in the geologic time scale and corresponds to a period in the middle Eocene epoch, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_f255806a",
+    "types": [
+      "age"
+    ],
+    "reason": "Moscovian is a geological stage within the Carboniferous period, and 'age' is the appropriate SWEET ontology category for such chronostratigraphic units."
+  },
+  {
+    "id": "TT_947c1323",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The Gulf Stream is specifically a western boundary current, a narrow, deep, and fast-flowing current along the western boundaries of ocean basins, making this the most precise classification."
+  },
+  {
+    "id": "TT_4b97f1ec",
+    "types": [
+      "angular direction"
+    ],
+    "reason": "All predictions agree that 'clockwise' refers to a rotational or circular direction, fitting the 'angular direction' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_228c9a24",
+    "types": [
+      "season"
+    ],
+    "reason": "Autumn is one of the four temperate seasons, making 'season' the most appropriate type from the provided ontology list."
+  },
+  {
+    "id": "TT_a4d6b9e2",
+    "types": [
+      "enhanced fujita scale"
+    ],
+    "reason": "All three predictions correctly identify 'ef0' as a category on the Enhanced Fujita Scale, which measures tornado intensity."
+  },
+  {
+    "id": "TT_eda17fd6",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Priabonian is a stage in the geological timescale, representing the last age of the Eocene Epoch, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_2cc3ee4e",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "Hydroperoxyl (HO2) is a radical species containing the peroxide functional group (-O-O-), fitting the classification of 'peroxide'."
+  },
+  {
+    "id": "TT_759d97c4",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'stratified' describes a physical arrangement of materials in layers, which is a common concept in earth sciences for describing layered structures like rock formations or atmospheric layers."
+  },
+  {
+    "id": "TT_8f2fc778",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "All three predictions agree that 'aphelion' refers to the farthest point in an orbit, which aligns with the concept of an 'orbital configuration'."
+  },
+  {
+    "id": "TT_d1e324ef",
+    "types": [
+      "alkane"
+    ],
+    "reason": "CH4 is the chemical formula for methane, which is the simplest alkane. The prediction 'alkane' is more specific and accurate than the broader 'hydrocarbon'."
+  },
+  {
+    "id": "TT_49557da8",
+    "types": [
+      "unit"
+    ],
+    "reason": "All three predictions correctly identify 'millimeter' as a unit of measurement, which aligns with the SWEET Ontology's classification of units for physical quantities."
+  },
+  {
+    "id": "TT_8eba593b",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "The term 'cl2o2' refers to dichlorine peroxide, which contains a peroxide group (-O-O-), making 'peroxide' the most specific and accurate classification."
+  },
+  {
+    "id": "TT_66903bd5",
+    "types": [
+      "solid state"
+    ],
+    "reason": "The term 'indurated' refers to the process of hardening into a solid state, which aligns with geological contexts."
+  },
+  {
+    "id": "TT_0bfde7be",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions agree that 'unpredictable' aligns with the concept of 'trust' in the SWEET Ontology, as it relates to uncertainty or reliability."
+  },
+  {
+    "id": "TT_81173ce7",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'cambrian stage3' refers to a specific subdivision of the Cambrian Period, which is best classified as an 'epoch' in geological timescales."
+  },
+  {
+    "id": "TT_b003bc45",
+    "types": [
+      "unit derived by raising to power"
+    ],
+    "reason": "The term 'per pascal' involves taking the reciprocal of the pascal unit, which mathematically corresponds to raising the base unit to the power of -1, fitting the definition of a unit derived by raising to power."
+  },
+  {
+    "id": "TT_fac9ffac",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'unscheduled' is a descriptor that qualifies or modifies a noun, indicating the absence of a predetermined timeline, which aligns with the definition of a qualifier in the SWEET ontology."
+  },
+  {
+    "id": "TT_1c3cb20d",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'disturbed' refers to a condition where a system has been altered from its normal state, fitting the concept of 'system state' in environmental science."
+  },
+  {
+    "id": "TT_a2f64713",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "NetCDF4 is a self-describing data format used in earth and environmental sciences, embedding metadata within the dataset to describe its structure and content."
+  },
+  {
+    "id": "TT_84664adb",
+    "types": [
+      "solid state"
+    ],
+    "reason": "All three predictions agree that 'amorphous' refers to a solid material lacking crystalline structure, making 'solid state' the most appropriate classification."
+  },
+  {
+    "id": "TT_bda5805a",
+    "types": [
+      "role"
+    ],
+    "reason": "All three predictions agree that 'dominant' fits the 'role' category, as it describes a position or function of prominence or control in a system."
+  },
+  {
+    "id": "TT_a4fc1bf8",
+    "types": [
+      "provenance role"
+    ],
+    "reason": "The term 'anthropogenic' refers to effects or processes originating from human activity, which aligns with the concept of a 'provenance role' indicating origin or source."
+  },
+  {
+    "id": "TT_9a890078",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Neogene is more accurately classified as an 'epoch' because it is a subdivision of the Cenozoic Era and includes the Miocene and Pliocene epochs, fitting the definition of an epoch in geological time scales."
+  },
+  {
+    "id": "TT_e03d6775",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'suboptimal' is a descriptive qualifier indicating something is below the optimal level, fitting the SWEET Ontology's 'qualifier' category."
+  },
+  {
+    "id": "TT_238f77a8",
+    "types": [
+      "size"
+    ],
+    "reason": "The term 'tiny' directly describes a small magnitude on a scale of size, making 'size' the most appropriate classification."
+  },
+  {
+    "id": "TT_6de53a88",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "Cadmium is classified as a transition metal due to its position in the d-block of the periodic table and its characteristic properties."
+  },
+  {
+    "id": "TT_c99b05db",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The Benguela Current is a well-known western boundary current along the western coast of southern Africa, transporting cold, nutrient-rich waters, as confirmed by multiple reliable sources."
+  },
+  {
+    "id": "TT_3e9eaf0e",
+    "types": [
+      "saffir simpson scale"
+    ],
+    "reason": "All three predictions unanimously agree that 'category4' refers to the Saffir-Simpson Hurricane Wind Scale, a classification system for hurricane intensity."
+  },
+  {
+    "id": "TT_6924dd35",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions unanimously agree that 'spectral' refers to 'spectral band,' which is a specific range of wavelengths in the electromagnetic spectrum, relevant in earth and environmental science."
+  },
+  {
+    "id": "TT_11ac2bd4",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Acenaphthylene is a polycyclic aromatic hydrocarbon, composed solely of carbon and hydrogen, making 'hydrocarbon' the most accurate classification."
+  },
+  {
+    "id": "TT_b463247f",
+    "types": [
+      "period"
+    ],
+    "reason": "All three LLMs agree that 'Permian' is a geological period, which is a well-established classification in Earth Sciences."
+  },
+  {
+    "id": "TT_c7f6cba8",
+    "types": [
+      "age"
+    ],
+    "reason": "All three predictions correctly identify '443.7mya' as a geological age, which is the most accurate classification."
+  },
+  {
+    "id": "TT_26b1777c",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "All three predictions agree that 'dwb' refers to a 'dry winter climate' based on the K\u00f6ppen climate classification."
+  },
+  {
+    "id": "TT_13acc069",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'c band' refers to a specific range of frequencies within the electromagnetic spectrum, fitting the definition of a 'spectral band'."
+  },
+  {
+    "id": "TT_71b92c17",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '2300mya' refers to a geological time span, and 'eon' is the most appropriate classification as it represents a significant division of geological time."
+  },
+  {
+    "id": "TT_485cb62f",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "PPM (parts per million) is a dimensionless ratio used to express concentrations, making 'dimensionless ratio' the most accurate classification."
+  },
+  {
+    "id": "TT_498b53c9",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'thermal plasma' describes a specific type of plasma, which is fundamentally recognized as the fourth state of matter, making this the most accurate classification."
+  },
+  {
+    "id": "TT_efe70492",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'basin groups' refers to the arrangement of geological basins, which is a spatial organization of features, making 'spatial configuration' the most appropriate type."
+  },
+  {
+    "id": "TT_0bf5fc0b",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x28 class' is a specific instance of the broader 'x class' classification, which aligns with the SWEET ontology for earth and environmental sciences."
+  },
+  {
+    "id": "TT_1c3ef1e4",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'submitter' refers to a functional role or position in a process or system, which aligns with the 'role' category."
+  },
+  {
+    "id": "TT_a7863b9a",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'regular' is a descriptive word that modifies or qualifies other concepts, fitting the definition of a 'qualifier' in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_7ea00ec3",
+    "types": [
+      "compression method"
+    ],
+    "reason": "All three predictions unanimously agree that 'bzip2' is a compression method, which accurately describes its function as a data compression algorithm."
+  },
+  {
+    "id": "TT_30fdd67b",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three LLMs agree that ClONO2 (chlorine nitrate) is an inorganic compound, which is accurate given its composition and role in atmospheric chemistry."
+  },
+  {
+    "id": "TT_b7fbffd3",
+    "types": [
+      "bathypelagic zone"
+    ],
+    "reason": "The mesopelagic zone is a specific oceanic layer, and 'bathypelagic zone' is the most precise match among the options, as it directly refers to a defined depth range in the ocean."
+  },
+  {
+    "id": "TT_c03ee39c",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '1.806mya' refers to a specific span of geological time, which aligns with the definition of an epoch in earth sciences."
+  },
+  {
+    "id": "TT_f097302a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'subordinate' describes a position or function within a hierarchy, which aligns with the concept of a 'role' in hierarchical relationships."
+  },
+  {
+    "id": "TT_f18536fc",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'optimal' is a descriptive adjective indicating the best or most favorable condition, aligning with the qualitative assessment and specification in environmental sciences."
+  },
+  {
+    "id": "TT_e147d398",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'bwk' is a K\u00f6ppen climate classification code for cold semi-arid climates with wet summers and dry winters, aligning with the 'wet summer dry winter climate' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_27c8410a",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions unanimously agree that 'imprecise' relates to the concept of 'trust' due to its association with uncertainty and reliability in data or information."
+  },
+  {
+    "id": "TT_e19227e5",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'million km2' is a scaled version of the base unit km2, fitting the definition of a unit derived by scaling."
+  },
+  {
+    "id": "TT_4e3c03ca",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'dynamic' describes a state of constant change or activity, which is a fundamental characteristic of physical systems and aligns with the SWEET Ontology's definition of 'physical state'."
+  },
+  {
+    "id": "TT_e0cf60cf",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Anisotropic refers to the directional dependence of a material's physical properties, which is a fundamental characteristic of its physical state."
+  },
+  {
+    "id": "TT_cfa5f1e6",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "All three predictions agree that 'azimuthal equidistant' is a type of spatial reference system, as it is a mapping projection used in geospatial contexts."
+  },
+  {
+    "id": "TT_66498bf9",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "Refractive index is a dimensionless physical quantity that describes how light propagates through a medium, defined as the ratio of the speed of light in vacuum to the speed of light in the medium."
+  },
+  {
+    "id": "TT_ba8eaef6",
+    "types": [
+      "eon"
+    ],
+    "reason": "All three predictions agree that 'Archean' is classified as an 'eon', which is a major division of geological time."
+  },
+  {
+    "id": "TT_ae276477",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'th231' as an isotope, specifically Thorium-231, which is consistent with the standard notation for isotopes in the SWEET Ontology."
+  },
+  {
+    "id": "TT_93b3fbeb",
+    "types": [
+      "habitat"
+    ],
+    "reason": "All three predictions agree that 'spawning ground' is a type of habitat, as it is a specific area where aquatic organisms reproduce, fitting the definition of a habitat in environmental science."
+  },
+  {
+    "id": "TT_6ffae85d",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'concentric' describes a spatial arrangement where objects share the same center, which is a fundamental spatial configuration concept in earth and environmental sciences."
+  },
+  {
+    "id": "TT_ac0ff00a",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'biaxial' refers to having two axes, which is a geometric property describing the form or structure of an object, making 'shape' the most suitable type."
+  },
+  {
+    "id": "TT_f47a659c",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'flattend' (likely 'flattened') describes a physical characteristic or form, which aligns with the 'shape' type in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_0175db7e",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "All three predictions agree that 'specific yield' is a hydrogeological property, as it describes the drainable pore space in aquifers, a key concept in groundwater studies."
+  },
+  {
+    "id": "TT_ac3340ac",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "All three predictions agree that the Reynolds number is a dimensionless ratio, which is accurate as it represents the ratio of inertial to viscous forces in fluid mechanics."
+  },
+  {
+    "id": "TT_9d4b19e1",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'quasi neutral' refers to a state of charge balance in systems like plasma, which aligns with the broader concept of 'system state' in SWEET Ontology."
+  },
+  {
+    "id": "TT_c36dc3e1",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower devonian' refers to a subdivision of the Devonian period, which is classified as an 'epoch' in geological time."
+  },
+  {
+    "id": "TT_c0b1f0dc",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'upflow' specifically describes movement in an upward direction, which directly aligns with the 'vertical direction' type."
+  },
+  {
+    "id": "TT_b9cf4a5b",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c12' refers to a hydrocarbon with 12 carbon atoms, which is consistent with the predictions from GPT-4o and Claude-Sonnet-4."
+  },
+  {
+    "id": "TT_03502850",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'eoarchean' is widely recognized as a subdivision of the Archean Eon, making 'eon' the most accurate classification among the given predictions."
+  },
+  {
+    "id": "TT_876e178a",
+    "types": [
+      "unit"
+    ],
+    "reason": "Joule is a standard unit of energy in the International System of Units, making it a basic 'unit'."
+  },
+  {
+    "id": "TT_0d16d6ef",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'emerging' describes a role or status of something newly developing, aligning with the 'role' categorization."
+  },
+  {
+    "id": "TT_9a696758",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "Leaf area index (LAI) is a dimensionless ratio representing the total leaf area per unit ground area, making 'dimensionless ratio' the most accurate classification."
+  },
+  {
+    "id": "TT_29a10f10",
+    "types": [
+      "provenance role"
+    ],
+    "reason": "The term 'analyzed' describes the processing history or lineage of data, which aligns with the concept of a provenance role in scientific contexts."
+  },
+  {
+    "id": "TT_a9eb0505",
+    "types": [
+      "time frame"
+    ],
+    "reason": "All three predictions unanimously agree that 'past' refers to a temporal concept, making 'time frame' the most appropriate classification."
+  },
+  {
+    "id": "TT_5d38f17b",
+    "types": [
+      "ion"
+    ],
+    "reason": "The term 'no3' represents the nitrate ion, which is a charged particle, making 'ion' the most accurate classification."
+  },
+  {
+    "id": "TT_a7579eb1",
+    "types": [
+      "trust"
+    ],
+    "reason": "All predictions unanimously agree that 'unacceptable' relates to trust, as it involves judgments about reliability or acceptability, similar to training examples."
+  },
+  {
+    "id": "TT_43cd8189",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions agree that 'upper Triassic' refers to a subdivision of the Triassic period, which is classified as an epoch in the geologic timescale."
+  },
+  {
+    "id": "TT_fb12991a",
+    "types": [
+      "halon"
+    ],
+    "reason": "The term 'halon1211' is a specific type of halon, a halogenated hydrocarbon, as confirmed by all three predictions."
+  },
+  {
+    "id": "TT_5216aacc",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'diluted' refers to the state of a substance where its concentration has been reduced, which is a chemical property."
+  },
+  {
+    "id": "TT_a31e7083",
+    "types": [
+      "interface protocol"
+    ],
+    "reason": "NFS is a distributed file system protocol, which defines rules for communication and data exchange between systems, aligning with the concept of an interface protocol."
+  },
+  {
+    "id": "TT_1b3f402d",
+    "types": [
+      "frequency"
+    ],
+    "reason": "The term 'frequent' directly corresponds to the noun 'frequency', which describes the rate of occurrence of an event over time, fitting the SWEET Ontology concept."
+  },
+  {
+    "id": "TT_7092fa8b",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Dry ice is the solid form of carbon dioxide (CO2), which is classified as an inorganic compound due to its composition of carbon and oxygen without hydrogen."
+  },
+  {
+    "id": "TT_cdf20def",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions agree that 'proven' aligns with the concept of 'trust' in the SWEET ontology, as it denotes reliability and verification."
+  },
+  {
+    "id": "TT_75bcd3a5",
+    "types": [
+      "consistence property"
+    ],
+    "reason": "The term 'rigid' refers to a property of consistency, such as soil or rock rigidity, which is a key aspect of material behavior in earth and environmental science."
+  },
+  {
+    "id": "TT_fd1d6b94",
+    "types": [
+      "noble gas"
+    ],
+    "reason": "The term 'inert' is commonly associated with noble gases, known for their low reactivity due to having complete valence electron shells."
+  },
+  {
+    "id": "TT_b7153dff",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term is a compound unit of measurement, commonly used in heat transfer and thermal conductivity calculations, fitting the 'unit' classification."
+  },
+  {
+    "id": "TT_ba270c97",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Hexachlorobiphenyl is a chlorinated derivative of biphenyl, a carbon-based compound, fitting the 'organic compound' category."
+  },
+  {
+    "id": "TT_13835c44",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'hazard' refers to potential risks or dangers, which aligns with categorizing it as a 'role' that involves an element of threat assessment or risk management in various contexts."
+  },
+  {
+    "id": "TT_9cdca9d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions correctly identify 'Cisuralian' as an epoch in the geologic time scale, aligning with the SWEET Ontology."
+  },
+  {
+    "id": "TT_727b2aef",
+    "types": [
+      "moisture state"
+    ],
+    "reason": "All three predictions agree that 'humid' refers to a state of moisture in the air, making 'moisture state' the most accurate classification."
+  },
+  {
+    "id": "TT_82c035d5",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x16 class' is a variant or specific type of 'x class', fitting the hierarchical naming convention and classification system."
+  },
+  {
+    "id": "TT_13fc695d",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'visible' refers to the visible light portion of the electromagnetic spectrum, which is a specific spectral band."
+  },
+  {
+    "id": "TT_a6279275",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions correctly identify 'nox' as an inorganic compound, specifically nitrogen oxides, which are well-known in environmental science."
+  },
+  {
+    "id": "TT_99aa35a9",
+    "types": [
+      "representative role"
+    ],
+    "reason": "The term 'instance' refers to a specific example or occurrence of a particular class, aligning with the definition of a 'representative role' as it acts as a typical example of a larger group."
+  },
+  {
+    "id": "TT_ea11cc8f",
+    "types": [
+      "unit"
+    ],
+    "reason": "All three predictions agree that 'meter squared per kilogram' is a unit, which is the most straightforward and accurate classification."
+  },
+  {
+    "id": "TT_55705978",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'dfc' is a K\u00f6ppen climate classification code for a subarctic climate, which aligns with the 'wet summer dry winter climate' category in the SWEET ontology, as both are part of the K\u00f6ppen system."
+  },
+  {
+    "id": "TT_cc8239f8",
+    "types": [
+      "base unit"
+    ],
+    "reason": "All three predictions correctly identify 'kelvin' as a base unit, which is the fundamental unit of thermodynamic temperature in the SI system."
+  },
+  {
+    "id": "TT_6c7c19aa",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'violet' refers to a specific range of wavelengths in the visible light spectrum, classifying it as a 'spectral band' in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_9e99064e",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions correctly identify 'ku band' as a 'spectral band' due to its classification as a specific segment of the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_c3122e54",
+    "types": [
+      "spectral line"
+    ],
+    "reason": "All three predictions correctly identify 'hbeta' as the Hydrogen-beta spectral line, a well-known concept in spectroscopy and astronomy."
+  },
+  {
+    "id": "TT_ae016874",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '510mya' refers to a specific point in geological time, which aligns with the 'age' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_8e56cd85",
+    "types": [
+      "post transition metal"
+    ],
+    "reason": "All three LLMs unanimously agree that lead is classified as a post-transition metal, aligning with its properties and periodic table position."
+  },
+  {
+    "id": "TT_2d6bbd7d",
+    "types": [
+      "enhanced fujita scale"
+    ],
+    "reason": "All three predictions correctly identify 'ef5' as a category within the Enhanced Fujita scale, which is used to classify tornado intensity."
+  },
+  {
+    "id": "TT_0d0e9987",
+    "types": [
+      "role"
+    ],
+    "reason": "All three predictions agree that 'indirect' fits the 'role' category in the SWEET Ontology, as it describes a non-direct mode of action or influence."
+  },
+  {
+    "id": "TT_96809d66",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x31 class' is a specific classification within the 'x class' category, commonly used for solar flare intensity."
+  },
+  {
+    "id": "TT_81671ca6",
+    "types": [
+      "reference frame"
+    ],
+    "reason": "The term 'sidereal' is commonly associated with celestial reference frames, particularly in astronomy and earth science, where it describes measurements relative to distant stars."
+  },
+  {
+    "id": "TT_7404313a",
+    "types": [
+      "impact"
+    ],
+    "reason": "The term 'disasterous' relates to severe negative effects, which aligns with the concept of 'impact' in environmental and earth sciences."
+  },
+  {
+    "id": "TT_9a8b99a3",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'pb206' as an isotope of lead, distinguished by its mass number."
+  },
+  {
+    "id": "TT_8ca71121",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "All three predictions agree that 'hydraulic gradient' is a hydrogeological property, as it describes the slope of the water table and groundwater flow direction."
+  },
+  {
+    "id": "TT_2ead1d3f",
+    "types": [
+      "vertical extent"
+    ],
+    "reason": "The term 'deep' refers to a measurement of vertical distance, which aligns with the concept of 'vertical extent' in earth and environmental science."
+  },
+  {
+    "id": "TT_5e2d045f",
+    "types": [
+      "era"
+    ],
+    "reason": "The term 'Tertiary' is widely recognized as a geological era within the Cenozoic era, making 'era' the most appropriate classification."
+  },
+  {
+    "id": "TT_449c56bb",
+    "types": [
+      "connectivity"
+    ],
+    "reason": "All three predictions agree that 'connected' aligns with the concept of 'connectivity' in the SWEET Ontology, as it describes the state of being linked or joined together."
+  },
+  {
+    "id": "TT_bbd3cfac",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'stationary' refers to a state of no change over time, which aligns with the broader concept of a 'system state' that encompasses stability and lack of movement."
+  },
+  {
+    "id": "TT_7e9f2338",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'hot low latitude desert climate' describes a climate type with low precipitation, and 'dry winter climate' is the closest match from the provided options, aligning with the core concept of the term."
+  },
+  {
+    "id": "TT_e57fb4fb",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "Non-thermal plasma describes a distinct state of matter where electrons and ions are not in thermal equilibrium, fitting the 'state of matter' category."
+  },
+  {
+    "id": "TT_6e8c3afe",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions agree that 'Upper Jurassic' is classified as an 'epoch' in the geological time scale, which is the most accurate and consistent choice."
+  },
+  {
+    "id": "TT_0670c288",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '199.6mya' refers to a specific point in geological time, which aligns with the concept of 'age' in the SWEET Ontology, representing a temporal measurement in Earth's history."
+  },
+  {
+    "id": "TT_689a2c23",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "The Montreal Protocol is an international treaty aimed at protecting the ozone layer, making it a clear example of environmental law."
+  },
+  {
+    "id": "TT_564cdfe4",
+    "types": [
+      "halogen"
+    ],
+    "reason": "The term 'clox' refers to chlorine oxides, which involve chlorine, a member of the halogen group, making 'halogen' the most accurate classification."
+  },
+  {
+    "id": "TT_53a8c1d7",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '0mya' refers to '0 million years ago,' which is a geological time period, fitting the 'eon' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_590b4d40",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Plastics are synthetic materials made from polymers, which are organic compounds composed primarily of carbon and hydrogen atoms, making 'organic compound' the most accurate classification."
+  },
+  {
+    "id": "TT_e984cede",
+    "types": [
+      "shape"
+    ],
+    "reason": "All three predictions agree that 'trigonal' refers to a geometric shape, specifically a three-sided structure or symmetry, making 'shape' the most appropriate category."
+  },
+  {
+    "id": "TT_14c9c5fa",
+    "types": [
+      "byte order"
+    ],
+    "reason": "All three predictions correctly identify 'big endian' as a byte order, a fundamental concept in computing for data representation."
+  },
+  {
+    "id": "TT_2bbcc3cb",
+    "types": [
+      "spectral line"
+    ],
+    "reason": "CAK refers to the calcium K-line, a specific spectral feature used in solar physics and atmospheric studies, making 'spectral line' the most accurate classification."
+  },
+  {
+    "id": "TT_824659f4",
+    "types": [
+      "wave state"
+    ],
+    "reason": "Free oscillation describes a wave-like behavior in a system oscillating at its natural frequency, aligning with the 'wave state' concept in earth and environmental sciences."
+  },
+  {
+    "id": "TT_d3c6a0f8",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'dirty' functions as a descriptor or modifier, indicating a state of uncleanliness or contamination, which aligns with the role of a qualifier in specifying properties of an entity."
+  },
+  {
+    "id": "TT_42af1091",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'contaminant' describes the role a substance plays in polluting or harming a system, which aligns with the 'chemical role' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_6cb0388a",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'void' describes a state of emptiness or absence of matter, which aligns with the concept of physical state in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_57ed716e",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "All three predictions unanimously agree that 'global scale' refers to the worldwide spatial extent, aligning perfectly with 'spatial scale' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_6b955ce9",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'trapped' describes a condition of confinement within a system, such as trapped gases or heat, aligning with the concept of a system state in environmental science."
+  },
+  {
+    "id": "TT_18b12175",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions agree that 'upper ordovician' refers to a specific subdivision of geological time, which is classified as an epoch in the SWEET Ontology."
+  },
+  {
+    "id": "TT_7ca28dc2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '850mya' refers to a time period in the geological timescale, aligning with the SWEET Ontology concept of 'epoch' as it denotes a significant span of geological time."
+  },
+  {
+    "id": "TT_a59ba01f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Pliensbachian is a stage in the geologic timescale, specifically part of the Jurassic period, which is classified as an epoch in the SWEET Ontology."
+  },
+  {
+    "id": "TT_21576447",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '237.0mya' refers to a specific point in geological time, which aligns with the 'age' type in the SWEET ontology."
+  },
+  {
+    "id": "TT_87ea5142",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'minute' is a standard unit of measurement for time or angle, fitting the 'unit' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_9af56f67",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '253.8mya' represents a specific measurement of time in millions of years ago, which aligns with the concept of 'age' in geological and paleontological contexts."
+  },
+  {
+    "id": "TT_87174f1a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Gelasian' refers to a specific time period in the geological time scale, specifically an epoch within the Pleistocene, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_fe68f28c",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'microwave' refers to a specific range of electromagnetic radiation, classifying it as a 'spectral band' in the context of earth and environmental sciences."
+  },
+  {
+    "id": "TT_c2252590",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "CH3COOH is the chemical formula for acetic acid, a well-known organic compound, as confirmed by all three predictions."
+  },
+  {
+    "id": "TT_7a75248d",
+    "types": [
+      "earth ocean"
+    ],
+    "reason": "The term 'Arctic Ocean' refers to one of the major oceanic divisions of Earth's hydrosphere, fitting the 'earth ocean' category in the SWEET ontology."
+  },
+  {
+    "id": "TT_b40f6e8c",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "All three predictions unanimously agree that 'reagent' fits the 'chemical role' category in the SWEET ontology, as it describes the function of a substance in chemical reactions."
+  },
+  {
+    "id": "TT_dd0074b9",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "All three predictions agree that 'viscous' refers to viscosity, a fundamental property of fluids, making 'fluid property' the correct classification."
+  },
+  {
+    "id": "TT_0a916ef2",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "All three predictions correctly identify hydrobromous acid as an inorganic acid due to its composition and lack of carbon-hydrogen bonds, aligning with the SWEET Ontology classification."
+  },
+  {
+    "id": "TT_48d53d50",
+    "types": [
+      "halon"
+    ],
+    "reason": "All three predictions correctly identify 'halon1301' as a type of halon, a halogenated hydrocarbon used in fire suppression."
+  },
+  {
+    "id": "TT_1004783c",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions correctly identify 'lower cretaceous' as an epoch, which is a subdivision of a geological period."
+  },
+  {
+    "id": "TT_14debe7d",
+    "types": [
+      "eon"
+    ],
+    "reason": "A millennium is a long duration of 1000 years, fitting the geologic time scale classification of 'eon'."
+  },
+  {
+    "id": "TT_a2e8c926",
+    "types": [
+      "environmental standard"
+    ],
+    "reason": "All three predictions agree that the term 'pollutant standards index' is an 'environmental standard,' as it measures and communicates pollutant levels."
+  },
+  {
+    "id": "TT_0c637e6b",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'coulomb meter' is derived by multiplying the unit of electric charge (coulomb) by the unit of distance (meter), fitting the definition of a 'unit defined by product'."
+  },
+  {
+    "id": "TT_6e26f239",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'tenuous' describes a physical condition, such as low density or thinness, which aligns with the 'physical state' type in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_b6835c45",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'continental' refers to the large-scale spatial extent of continents, which is a key concept in earth science for classifying geographical features or phenomena."
+  },
+  {
+    "id": "TT_89cc5306",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'paleoarchean' is a subdivision of geological time, specifically an eon, as it represents a major division in Earth's history."
+  },
+  {
+    "id": "TT_2091a92f",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '268.0mya' refers to a specific point in geological time, which aligns with the concept of 'age' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_1a5d1ce3",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "All three predictions unanimously agree that 'vertical' refers to 'vertical direction,' which is the most accurate and specific classification for the term in the context of SWEET Ontology."
+  },
+  {
+    "id": "TT_35930fb1",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'non stationary' describes a dynamic condition of a system that changes over time, aligning with the concept of 'system state'."
+  },
+  {
+    "id": "TT_9a8c04ca",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "All three predictions agree that C2H6O is an organic compound, specifically ethanol or dimethyl ether, which aligns with the SWEET Ontology classification."
+  },
+  {
+    "id": "TT_54c60e59",
+    "types": [
+      "distance"
+    ],
+    "reason": "The term 'nearby' refers to a relative spatial proximity, which is best captured by the concept of 'distance' in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_e0f6581a",
+    "types": [
+      "earth ocean current"
+    ],
+    "reason": "All three predictions unanimously agree that the Antarctic Circumpolar Current is best classified as an 'earth ocean current' due to its nature as a significant oceanic circulation pattern."
+  },
+  {
+    "id": "TT_66f8101d",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'lte' is widely recognized as an abbreviation for 'less than or equal to,' which functions as a qualifier in mathematical and scientific contexts."
+  },
+  {
+    "id": "TT_0132cc6e",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Wuchiapingian is a stage of geological time, which belongs to the Late Permian epoch, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_879d6c41",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'tilted' describes an object's orientation or arrangement in space, which aligns with the concept of 'spatial configuration' as it encompasses positional and orientational properties."
+  },
+  {
+    "id": "TT_eddfe9d3",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x24 class' is a specific instance of the broader 'x class' category, commonly used in scientific classifications like solar flares."
+  },
+  {
+    "id": "TT_50a38da7",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'upwind' describes a direction relative to wind flow, which is a horizontal phenomenon, making 'horizontal direction' the most accurate classification."
+  },
+  {
+    "id": "TT_ea105023",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'maximum entropy' is fundamentally a thermodynamic concept describing the equilibrium state of a system, making 'thermodynamic state' the most accurate classification."
+  },
+  {
+    "id": "TT_f4a40e4d",
+    "types": [
+      "classifier"
+    ],
+    "reason": "The term 'indicator' aligns with 'classifier' as it categorizes or identifies states or conditions based on specific criteria."
+  },
+  {
+    "id": "TT_613ffa4a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions agree that 'upper cretaceous' refers to a geological epoch, specifically the later part of the Cretaceous Period."
+  },
+  {
+    "id": "TT_d77621e8",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "All three predictions agree that 'c2h6s' is an organic compound due to its chemical structure containing carbon and hydrogen atoms."
+  },
+  {
+    "id": "TT_7e60eaf9",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '4600mya' refers to a geological time scale, specifically the formation of Earth, which is categorized under 'eon' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_fdf6296a",
+    "types": [
+      "water treatment process"
+    ],
+    "reason": "The term 'desalinize' refers to the process of removing salt from water, which is a specific type of water treatment process."
+  },
+  {
+    "id": "TT_e58fc888",
+    "types": [
+      "speed state"
+    ],
+    "reason": "All three predictions agree that 'slow' describes a rate or speed, making 'speed state' the most appropriate classification."
+  },
+  {
+    "id": "TT_65d03cef",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "The term 'explicit' aligns with the concept of a 'self describing format' as it implies clarity and detail, often used in data contexts where information is inherently understandable without additional explanation."
+  },
+  {
+    "id": "TT_d937cdce",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'chattian' refers to a geological epoch in the Oligocene era, which is a subdivision of geological time."
+  },
+  {
+    "id": "TT_6e4530c0",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify C14 as Carbon-14, a radioactive isotope of carbon, which is the most accurate classification from the provided list."
+  },
+  {
+    "id": "TT_a6f221ec",
+    "types": [
+      "age"
+    ],
+    "reason": "The Rhaetian is a geological age within the Late Triassic period, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_997f0b42",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "Stereographic is a type of map projection used in cartography and GIS, which aligns with the definition of a spatial reference system."
+  },
+  {
+    "id": "TT_41ca3c25",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'noy' is commonly associated with nitrogen oxides, which are significant in atmospheric chemistry, fitting the 'chemical role' category."
+  },
+  {
+    "id": "TT_1dbfa101",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'selandian' refers to a stage in the Paleogene Period, which is classified as an 'epoch' in the geological time scale."
+  },
+  {
+    "id": "TT_9ef7cab0",
+    "types": [
+      "age"
+    ],
+    "reason": "The Kimmeridgian is a specific geological age within the Late Jurassic Epoch, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_258b7310",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'u238' as Uranium-238, an isotope of uranium, which is the most accurate classification from the provided list."
+  },
+  {
+    "id": "TT_2a177d49",
+    "types": [
+      "habitat"
+    ],
+    "reason": "The term 'subaqueous' refers to underwater environments, which aligns with the concept of a habitat in earth and environmental science."
+  },
+  {
+    "id": "TT_195151ca",
+    "types": [
+      "duration"
+    ],
+    "reason": "A century is a specific span of 100 years, which aligns with the concept of 'duration' as a measure of time."
+  },
+  {
+    "id": "TT_e634b4e0",
+    "types": [
+      "retrieval approach"
+    ],
+    "reason": "The term 'random' is commonly associated with methods or approaches in scientific contexts, such as random sampling, which aligns with the concept of a retrieval approach."
+  },
+  {
+    "id": "TT_18388d26",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term is a derived unit formed by the product of kilogram, radian, and second, fitting the definition of 'unit defined by product'."
+  },
+  {
+    "id": "TT_1d20f8f3",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '299.0mya' refers to a specific point in geological time, which aligns with the concept of 'age' in earth and environmental science."
+  },
+  {
+    "id": "TT_46a5c696",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 's36' refers to sulfur-36, a specific isotope, which aligns with the ontology's definition of isotopes."
+  },
+  {
+    "id": "TT_0b973939",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '251.0mya' refers to a specific geological epoch, the Permian-Triassic boundary, which is a well-defined time period in Earth's history."
+  },
+  {
+    "id": "TT_c35addc3",
+    "types": [
+      "biological role"
+    ],
+    "reason": "All three predictions correctly identify 'anadromous' as a biological role due to its description of a specific migratory behavior in fish."
+  },
+  {
+    "id": "TT_93235603",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Hydrogen cyanide (HCN) is a well-known inorganic compound, and while it can act as a weak acid, its primary classification is as an inorganic compound."
+  },
+  {
+    "id": "TT_fa75de12",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "All predictions correctly identify 'c6h6' as benzene, a hydrocarbon, based on its chemical formula."
+  },
+  {
+    "id": "TT_c45088ab",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'contained' describes a spatial relationship where something is held or enclosed by something else, which aligns with the concept of 'spatial configuration' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_478b6356",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'al26' as Aluminum-26, a radioactive isotope of aluminum, which aligns with the SWEET Ontology category 'isotope'."
+  },
+  {
+    "id": "TT_0ea60382",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'enrich' describes a function or action that increases the concentration or quality of something, which aligns with the general concept of a 'role' in environmental or earth science contexts."
+  },
+  {
+    "id": "TT_5d844340",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'sensible' is most commonly associated with 'sensible heat,' a key concept in thermodynamics, which directly relates to the thermodynamic state of a system."
+  },
+  {
+    "id": "TT_4ea59887",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'severe' is a descriptive adjective used to qualify the intensity or magnitude of a phenomenon, aligning with the 'qualifier' category in SWEET ontology."
+  },
+  {
+    "id": "TT_d5cdb49f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'serravallian' is a subdivision of the Miocene Epoch, which is a geologic time interval, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_80eb0b14",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'imbricated' describes an overlapping arrangement or pattern, which is fundamentally about how components are organized in space, making 'spatial configuration' the most fitting classification."
+  },
+  {
+    "id": "TT_8a35dea3",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'bartonian' refers to a stage of the Eocene Epoch, which is a subdivision of geological time, making 'epoch' the most accurate classification."
+  },
+  {
+    "id": "TT_408846c2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper pleistocene' refers to a subdivision of the Pleistocene epoch, a recognized geological time period, making 'epoch' the most appropriate classification."
+  },
+  {
+    "id": "TT_664dd05f",
+    "types": [
+      "vertical coordinate"
+    ],
+    "reason": "The term 'hybrid height' refers to a method of defining vertical positions in the atmosphere, aligning with the concept of vertical coordinates."
+  },
+  {
+    "id": "TT_ba921809",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "The Environmental Protection Agency (EPA) is a federal agency responsible for environmental regulation and protection, aligning with the type 'federal governing body.'"
+  },
+  {
+    "id": "TT_95b328fb",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "'upslope' specifically refers to a vertical (upward) direction, distinguishing it from general directional terms."
+  },
+  {
+    "id": "TT_9dd26ab9",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Aquitanian is the first age of the Miocene epoch, making 'epoch' the most relevant classification in the geologic timescale."
+  },
+  {
+    "id": "TT_abc41f06",
+    "types": [
+      "era"
+    ],
+    "reason": "The term 'paleozoic' refers to a major geological era in Earth's history, making 'era' the most accurate classification."
+  },
+  {
+    "id": "TT_ab4a1d2a",
+    "types": [
+      "format"
+    ],
+    "reason": "All three predictions unanimously agree that 'xls' is a file format, specifically for Microsoft Excel, fitting the 'format' type in the context of data handling."
+  },
+  {
+    "id": "TT_4eda8ff9",
+    "types": [
+      "noble gas"
+    ],
+    "reason": "All three predictions correctly identify neon as a noble gas, which is accurate based on its chemical properties and periodic table classification."
+  },
+  {
+    "id": "TT_59ddd3ff",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "NetCDF is a self-describing format as it includes metadata about the data it contains, which is a defining feature of such formats."
+  },
+  {
+    "id": "TT_28165e62",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'halosteric' describes the contribution of salinity changes to sea level variations, which is a fundamental property of fluids, specifically seawater."
+  },
+  {
+    "id": "TT_c3a6dee5",
+    "types": [
+      "a class"
+    ],
+    "reason": "The term 'a7 class' is a specific variant or subclass within the broader 'a class' classification, as indicated by all three predictions."
+  },
+  {
+    "id": "TT_d427d188",
+    "types": [
+      "biological role"
+    ],
+    "reason": "Forage refers to the act of searching for food, particularly by herbivores, which is a biological function or role in ecosystems."
+  },
+  {
+    "id": "TT_7f5f4a19",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'pb202' refers to a specific isotope of lead (Pb) with mass number 202, which is the most accurate classification."
+  },
+  {
+    "id": "TT_9fcdfe3e",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "All three predictions agree that 'sonic mach number' is a dimensionless ratio, as it represents the ratio of speed to the speed of sound."
+  },
+  {
+    "id": "TT_55f474ac",
+    "types": [
+      "physical role"
+    ],
+    "reason": "Transit refers to the movement or passage of an object, which aligns with the concept of a physical role in the SWEET Ontology."
+  },
+  {
+    "id": "TT_61e6d5a1",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Bashkirian is a geologic epoch within the Carboniferous period, fitting into the 'epoch' type among geological timescales."
+  },
+  {
+    "id": "TT_1838b11c",
+    "types": [
+      "prefix"
+    ],
+    "reason": "The term 'deca' is a metric prefix denoting a factor of ten, fitting the 'prefix' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_211e9755",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'newtonian' describes a fluid where the viscosity is constant regardless of the shear stress applied, which is a fundamental property of fluids."
+  },
+  {
+    "id": "TT_a167723a",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'o18' as Oxygen-18, a stable isotope of oxygen, used in earth and environmental sciences."
+  },
+  {
+    "id": "TT_90a49eb6",
+    "types": [
+      "impact"
+    ],
+    "reason": "All three predictions unanimously agree that 'disaster' aligns with the type 'impact' due to its significant and often destructive consequences on systems, environments, or populations."
+  },
+  {
+    "id": "TT_7a51dc0e",
+    "types": [
+      "period"
+    ],
+    "reason": "The term '503mya' refers to a geological time frame, and 'period' is the most appropriate classification in the SWEET Ontology for such divisions of time."
+  },
+  {
+    "id": "TT_2e260457",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'th230' as Thorium-230, an isotope of thorium, which is consistent with the SWEET Ontology category for isotopes."
+  },
+  {
+    "id": "TT_1e9ed9ae",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'far field' refers to a region far from a source, often in wave phenomena, which aligns with the concept of direction in earth and environmental science."
+  },
+  {
+    "id": "TT_f3ca47f9",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions unanimously classify iron oxide as an inorganic compound due to its composition of iron and oxygen without carbon-hydrogen bonds."
+  },
+  {
+    "id": "TT_d90aaa2a",
+    "types": [
+      "halon"
+    ],
+    "reason": "All three predictions correctly identify dibromotetrafluoroethane as a halon due to its chemical composition and role in fire suppression, aligning with the SWEET Ontology."
+  },
+  {
+    "id": "TT_290dc01c",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term '1day' refers to a specific length of time, which is universally recognized as a duration in temporal measurements."
+  },
+  {
+    "id": "TT_366ad7df",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The Rossby number is a dimensionless ratio used in geophysics to describe the balance between inertial and Coriolis forces, making 'dimensionless ratio' the most accurate type."
+  },
+  {
+    "id": "TT_5c920fb8",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three predictions agree that 'pentad' refers to a five-day period, which is a measure of time, making 'duration' the correct classification."
+  },
+  {
+    "id": "TT_d03eec09",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "All predictions agree on 'chemical role' as the most fitting classification, as photodissociation involves a chemical process driven by light."
+  },
+  {
+    "id": "TT_366ae90f",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions unanimously agree that 'x45 class' is a variant or specific instance of the 'x class' classification system, making it the most appropriate match."
+  },
+  {
+    "id": "TT_422ba0cb",
+    "types": [
+      "cfc"
+    ],
+    "reason": "All three predictions correctly identify 'dichlorodifluoromethane' as a CFC, a type of organic compound known for its environmental impact."
+  },
+  {
+    "id": "TT_e090a1fc",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions agree that 'ultraviolet' is a 'spectral band', which is the most accurate classification for this term in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_77ee9e2c",
+    "types": [
+      "frequency"
+    ],
+    "reason": "Terahertz is a unit of frequency, specifically 10^12 hertz, widely used in electromagnetic spectrum analysis and scientific measurements."
+  },
+  {
+    "id": "TT_444cb580",
+    "types": [
+      "angular extent"
+    ],
+    "reason": "The term 'acute' is commonly used in geometry to describe angles less than 90 degrees, making 'angular extent' the most accurate classification."
+  },
+  {
+    "id": "TT_703bd7c8",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'down' signifies a direction along the vertical axis, pointing towards a lower position, which directly corresponds to the 'vertical direction' classification in the ontology."
+  },
+  {
+    "id": "TT_207122bf",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'neutralize' describes a chemical process where acids and bases react to form neutral compounds, fitting the definition of a 'chemical role' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_386ec924",
+    "types": [
+      "age"
+    ],
+    "reason": "The Rhuddanian is a specific geological age within the Silurian period, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_5782aa24",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions unanimously agree that 'trusted' aligns with the 'trust' concept in the SWEET ontology, reflecting reliability or confidence."
+  },
+  {
+    "id": "TT_feec0db3",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three LLMs agree that 'v band' refers to a specific range in the electromagnetic spectrum, making 'spectral band' the most appropriate classification."
+  },
+  {
+    "id": "TT_8e352005",
+    "types": [
+      "shape"
+    ],
+    "reason": "All three predictions agree that 'spherical' refers to a geometric form, and 'shape' is the most accurate classification from the given options."
+  },
+  {
+    "id": "TT_2282ee39",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions correctly identify 'peer reviewed' as a concept related to trust, as it involves validation by experts to ensure credibility."
+  },
+  {
+    "id": "TT_081502f5",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'passive' describes a characteristic or function of something that does not actively participate or initiate processes, aligning with the concept of a 'role' in earth and environmental science."
+  },
+  {
+    "id": "TT_4f1c6fe7",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'Drumian' refers to a specific stage in the geologic time scale, which aligns with the 'age' category as a chronostratigraphic unit."
+  },
+  {
+    "id": "TT_a04cec09",
+    "types": [
+      "unit"
+    ],
+    "reason": "All predictions agree that 'meter cubed' is a unit, and 'unit' is the most straightforward and accurate classification."
+  },
+  {
+    "id": "TT_2496d964",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'ice cap climate' refers to extremely cold, arid conditions with permanent ice cover, aligning with the 'dry winter climate' classification in the SWEET ontology."
+  },
+  {
+    "id": "TT_b64a0544",
+    "types": [
+      "age"
+    ],
+    "reason": "The Furongian Stage 9 is a specific subdivision of the Furongian epoch, and in geological terminology, stages correspond to 'age' in the SWEET ontology."
+  },
+  {
+    "id": "TT_e3c314db",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "All three predictions agree that 'eastward' refers to a horizontal direction, which is consistent with its definition as movement or orientation toward the east."
+  },
+  {
+    "id": "TT_1ee8de3d",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'undefendable' aligns with the concept of reliability or credibility, fitting the 'trust' category in the SWEET ontology."
+  },
+  {
+    "id": "TT_b8e6880d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'terreneuvian' refers to a geological time period, specifically the first epoch of the Cambrian Period, making 'epoch' the correct classification."
+  },
+  {
+    "id": "TT_67841b01",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'vulnerable' is commonly used in conservation biology to describe the risk status of species, making 'biological state' the most fitting classification."
+  },
+  {
+    "id": "TT_cd08f314",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '265.8mya' refers to a specific point in geological time, measured in millions of years ago, which aligns with the concept of 'age' in earth sciences."
+  },
+  {
+    "id": "TT_650c1dd0",
+    "types": [
+      "eon"
+    ],
+    "reason": "The Precambrian is the earliest of the geological eons, preceding the Phanerozoic eon. It is a major division of geologic time, making 'eon' the appropriate classification."
+  },
+  {
+    "id": "TT_9acace53",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term is a composite unit formed by combining base units (kilogram, meter, second, kelvin) through multiplication and division, fitting the 'unit defined by product' category."
+  },
+  {
+    "id": "TT_35a67213",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'thermodynamic equilibrium' describes a specific condition or state of a thermodynamic system, making 'thermodynamic state' the most accurate classification."
+  },
+  {
+    "id": "TT_1d45bcb9",
+    "types": [
+      "cfc"
+    ],
+    "reason": "Freon-12 is a chlorofluorocarbon (CFC), specifically dichlorodifluoromethane, widely recognized for its use as a refrigerant and its ozone-depleting properties."
+  },
+  {
+    "id": "TT_4ff65db6",
+    "types": [
+      "visibility"
+    ],
+    "reason": "The term 'translucent' describes a property related to how light passes through a substance, which directly pertains to visibility in environmental contexts."
+  },
+  {
+    "id": "TT_4db26c71",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Visean' is a stage within the Mississippian epoch, making 'epoch' the most accurate classification from the given options."
+  },
+  {
+    "id": "TT_83ca6886",
+    "types": [
+      "ion"
+    ],
+    "reason": "The term 'no3minus' refers to the nitrate ion (NO3-), a charged particle, aligning with the 'ion' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_6812e41f",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three predictions correctly identify 'day' as a duration, which is a unit of time, aligning with the SWEET Ontology."
+  },
+  {
+    "id": "TT_26692b9f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower jurassic' refers to a subdivision of the Jurassic period in geologic time, classifying it as an epoch."
+  },
+  {
+    "id": "TT_52f53eb6",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Acrylonitrile is a chemical compound with the formula C3H3N, which is an organic compound containing carbon, hydrogen, and nitrogen atoms. It's a synthetic organic compound used in polymer production."
+  },
+  {
+    "id": "TT_38b88834",
+    "types": [
+      "b class"
+    ],
+    "reason": "All three predictions agree that 'b7 class' is a subtype of 'b class', aligning with the classification pattern observed in the dataset."
+  },
+  {
+    "id": "TT_597ec3d6",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'joule per mole per kelvin' is a composite unit derived from the product of other fundamental units (Joule, Mole, and Kelvin), making 'unit defined by product' the most accurate classification."
+  },
+  {
+    "id": "TT_ec452f99",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'local thermodynamic equilibrium' describes a condition where a system is in thermal balance locally, which aligns with the concept of a 'thermodynamic state' in earth and environmental science."
+  },
+  {
+    "id": "TT_057105f0",
+    "types": [
+      "earth eastern boundary current"
+    ],
+    "reason": "The California Current is a Pacific Ocean current flowing southwards along the western coast of North America, fitting the definition of an eastern boundary current."
+  },
+  {
+    "id": "TT_2d5075a6",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'seaward' indicates a directional orientation toward the sea, which fits the general concept of 'direction' in spatial and geographical contexts."
+  },
+  {
+    "id": "TT_e432bce3",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The Piacenzian is a formal subdivision of the Pliocene Epoch, making 'epoch' the most accurate classification among the options."
+  },
+  {
+    "id": "TT_02158935",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "All three predictions correctly identify acrolein as an organic compound due to its chemical formula (C3H4O) and classification in organic chemistry."
+  },
+  {
+    "id": "TT_cb331185",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "HCN (hydrogen cyanide) contains carbon and is classified as an organic compound, aligning with its chemical structure and properties."
+  },
+  {
+    "id": "TT_6fdd769f",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions unanimously agree that 'infrared' is a 'spectral band' in the context of the SWEET Ontology, as it represents a specific range of the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_a8e341cb",
+    "types": [
+      "halon"
+    ],
+    "reason": "All three predictions correctly identify 'halon2402' as a specific type of halon, which is a known category of chemical compounds used in fire suppression."
+  },
+  {
+    "id": "TT_e31c1951",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'untrusted' directly relates to the concept of trust, indicating a lack of confidence or reliability, as supported by the predictions."
+  },
+  {
+    "id": "TT_621d98b1",
+    "types": [
+      "component"
+    ],
+    "reason": "All three predictions unanimously agree that 'segment' refers to a part or section of a larger whole, aligning perfectly with the 'component' type in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_eaf26b59",
+    "types": [
+      "isotope"
+    ],
+    "reason": "Deuterium is a stable isotope of hydrogen, fitting the SWEET Ontology classification for isotopes in earth and environmental science."
+  },
+  {
+    "id": "TT_3ad9cee4",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The term 'earth troposphere' refers to the lowest layer of Earth's atmosphere, where weather phenomena occur, making 'atmosphere' the most accurate classification."
+  },
+  {
+    "id": "TT_83d744bc",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Kungurian' refers to a specific period in geological time, which fits under the concept of an 'epoch' in earth science."
+  },
+  {
+    "id": "TT_6704bb92",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "All three predictions correctly identify 'beaufort10' as a level on the Beaufort scale, which measures wind speed."
+  },
+  {
+    "id": "TT_2eae24b7",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '133.9mya' represents a specific point in geological time, which aligns with the concept of 'age' in the SWEET ontology."
+  },
+  {
+    "id": "TT_6b380c65",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'he3' as an isotope of helium, with consistent reasoning about its composition and properties."
+  },
+  {
+    "id": "TT_4363869f",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'compact' describes the spatial arrangement of an object or substance, indicating that its constituent parts are closely packed together, which aligns with the concept of spatial configuration."
+  },
+  {
+    "id": "TT_045d5490",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'farad' is universally recognized as the SI unit of electrical capacitance, making 'unit' the most accurate classification."
+  },
+  {
+    "id": "TT_639a7302",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'poison' describes the harmful effect of a substance, which aligns with the 'chemical role' category in the SWEET Ontology, as it defines the functional property of a chemical."
+  },
+  {
+    "id": "TT_fb95f603",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "All three predictions correctly identify 'mesoscale' as a spatial scale, which is consistent with its usage in meteorology and oceanography to describe medium-sized phenomena."
+  },
+  {
+    "id": "TT_0e80f3c9",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "All three predictions agree that 'albers conical equal area' is a type of spatial reference system, as it is a map projection used for spatial representation."
+  },
+  {
+    "id": "TT_f7fad713",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "All three predictions agree that 'nmhc' refers to Non-Methane Hydrocarbons, which are a subset of hydrocarbons."
+  },
+  {
+    "id": "TT_63262db4",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "Copper is classified as a transition metal in the periodic table, which is a more specific and accurate categorization than 'post transition metal' or generic 'element'."
+  },
+  {
+    "id": "TT_226a0085",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "The term 'opposition' in astronomy refers to the alignment of celestial bodies, specifically when they are on opposite sides of the sky, which fits the 'orbital configuration' category."
+  },
+  {
+    "id": "TT_04bcd131",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "All three predictions agree that 'specific retention' is a hydrogeological property, as it describes water retention in soil or rock, a key concept in hydrogeology."
+  },
+  {
+    "id": "TT_839d6369",
+    "types": [
+      "unit derived by raising to power"
+    ],
+    "reason": "The term 'per tesla' is a derived unit formed by taking the reciprocal of the tesla unit, which aligns with the concept of raising a unit to a power (in this case, -1)."
+  },
+  {
+    "id": "TT_fda19db9",
+    "types": [
+      "radioactive substance"
+    ],
+    "reason": "The term 'radioactive decay' directly relates to the properties and behavior of radioactive substances, making this the most accurate classification."
+  },
+  {
+    "id": "TT_0f09cf8c",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "PCB (polychlorinated biphenyl) is a synthetic organic chemical compound, fitting the broader classification of organic compounds due to its carbon-based structure and known environmental impact."
+  },
+  {
+    "id": "TT_d5288fcb",
+    "types": [
+      "latitude line"
+    ],
+    "reason": "Latitude directly corresponds to the concept of 'latitude line' in geospatial terms, as it represents the geographic coordinate for north-south positioning on Earth's surface."
+  },
+  {
+    "id": "TT_633af82a",
+    "types": [
+      "difference"
+    ],
+    "reason": "Surplus refers to an excess amount, which is a positive difference between supply and demand or availability and requirement, aligning with the concept of 'difference' in SWEET Ontology."
+  },
+  {
+    "id": "TT_d9536b24",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "The term 'brno3' refers to bromic acid, which is a specific type of inorganic acid, making this the most precise classification among the options."
+  },
+  {
+    "id": "TT_f16225dc",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "All three predictions agree that 'h10' resembles a chemical formula for a hydrocarbon, aligning with the pattern seen in similar terms like 'c12h8'."
+  },
+  {
+    "id": "TT_e457ad55",
+    "types": [
+      "land use"
+    ],
+    "reason": "All three predictions unanimously agree that 'irrigated' pertains to 'land use' as it involves the agricultural management of land through water application."
+  },
+  {
+    "id": "TT_419a37a9",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'prior' refers to something that comes before in time or sequence, making 'time frame' the most fitting classification among the options."
+  },
+  {
+    "id": "TT_c6825c5c",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'brackish' describes a specific state of water (salinity level), which aligns with the 'fluid state' concept in the SWEET Ontology."
+  },
+  {
+    "id": "TT_599f422e",
+    "types": [
+      "alkane"
+    ],
+    "reason": "Methane (CH4) is the simplest alkane, a saturated hydrocarbon, and the most precise classification available in the list."
+  },
+  {
+    "id": "TT_879093fb",
+    "types": [
+      "b class"
+    ],
+    "reason": "The term 'b3 class' is a specific subcategory or variant of 'b class', aligning with the broader classification system."
+  },
+  {
+    "id": "TT_2ebbbf3e",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '2.588mya' refers to a specific point in geological time, aligning with the definition of an epoch in the SWEET Ontology, which categorizes distinct periods of Earth's history."
+  },
+  {
+    "id": "TT_c6262816",
+    "types": [
+      "latitude line"
+    ],
+    "reason": "The equator is the primary line of latitude at 0 degrees, making it the most significant and fundamental latitude line in geographic coordinate systems."
+  },
+  {
+    "id": "TT_c31e8a87",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '635mya' refers to a specific point in geological time, indicating an age, which is the most accurate classification among the options."
+  },
+  {
+    "id": "TT_54e29617",
+    "types": [
+      "provenance role"
+    ],
+    "reason": "The term 'published' describes the origin or history of a resource, indicating its public availability, which aligns with the concept of a 'provenance role' in the lifecycle of data or objects."
+  },
+  {
+    "id": "TT_bfd638aa",
+    "types": [
+      "ion"
+    ],
+    "reason": "The term 'co3minusminus' represents the carbonate ion (CO\u2083\u00b2\u207b), which is a charged species, making 'ion' the most accurate classification."
+  },
+  {
+    "id": "TT_4610dbef",
+    "types": [
+      "alkane"
+    ],
+    "reason": "C2H6 is the chemical formula for ethane, which is specifically classified as an alkane, a subset of hydrocarbons."
+  },
+  {
+    "id": "TT_772516cd",
+    "types": [
+      "age"
+    ],
+    "reason": "The Sinemurian is a specific geological age within the Early Jurassic epoch, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_38841047",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'unpressurized' describes a physical condition, specifically the absence of pressure, which aligns with the concept of a physical state in environmental science."
+  },
+  {
+    "id": "TT_4a2916b8",
+    "types": [
+      "vertical coordinate"
+    ],
+    "reason": "The term 'hybrid sigma' is a vertical coordinate system used in atmospheric modeling, combining terrain-following and pressure coordinates, making 'vertical coordinate' the most accurate classification."
+  },
+  {
+    "id": "TT_693428c6",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Ethanol is a simple alcohol with carbon-hydrogen bonds, fitting the definition of an organic compound."
+  },
+  {
+    "id": "TT_2a962967",
+    "types": [
+      "solstice"
+    ],
+    "reason": "The term 'winter solstice' is a specific astronomical event that falls under the broader category of 'solstice' in the SWEET Ontology, which is the most accurate classification."
+  },
+  {
+    "id": "TT_175c85af",
+    "types": [
+      "latitude band"
+    ],
+    "reason": "The term 'tropics' refers to a specific latitudinal region between the Tropic of Cancer and the Tropic of Capricorn, making 'latitude band' the most accurate classification."
+  },
+  {
+    "id": "TT_1e29ff2b",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'Gzhelian' refers to a specific stage or age in the ICS geologic time scale, which is a subdivision of an epoch. The most fitting and specific category from the provided list for this geological time unit is 'age'."
+  },
+  {
+    "id": "TT_32986cf2",
+    "types": [
+      "latitude band"
+    ],
+    "reason": "The term 'tropical' refers to the geographical region between the Tropic of Cancer and Tropic of Capricorn, which is a specific latitudinal zone on Earth."
+  },
+  {
+    "id": "TT_094dc640",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "All three predictions agree that 'nfma' refers to the National Forest Management Act, which is classified as 'environmental law' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_9b23cc92",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "All three predictions unanimously agree on 'dry winter climate' as the most suitable classification for 'cold midlatitude desert climate,' as it aligns with the dry and arid conditions characteristic of desert climates."
+  },
+  {
+    "id": "TT_de983990",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "All three predictions unanimously agree that the term refers to a federal governing body, as it is a governmental agency with regulatory authority."
+  },
+  {
+    "id": "TT_35d587e7",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'lower' specifically denotes a position along the vertical axis, making 'vertical direction' the most precise choice."
+  },
+  {
+    "id": "TT_f7557642",
+    "types": [
+      "unit"
+    ],
+    "reason": "All predictions agree that 'micron' is a unit of length, specifically one millionth of a meter."
+  },
+  {
+    "id": "TT_a28f8d1b",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'tropical savanna climate' is best described by 'wet summer dry winter climate' as it captures the distinct seasonal precipitation patterns characteristic of savannas."
+  },
+  {
+    "id": "TT_0de64f49",
+    "types": [
+      "radioactive substance"
+    ],
+    "reason": "The term 'radioactivity' directly relates to substances that emit radiation, making 'radioactive substance' the most accurate classification."
+  },
+  {
+    "id": "TT_ec20605d",
+    "types": [
+      "earth ocean current"
+    ],
+    "reason": "The term 'ageostrophic' refers to deviations from geostrophic balance, commonly associated with ocean currents, making 'earth ocean current' the most relevant type."
+  },
+  {
+    "id": "TT_c28bffeb",
+    "types": [
+      "alkane"
+    ],
+    "reason": "Ethane (C2H6) is a saturated hydrocarbon with single bonds, fitting the definition of an alkane, which is more specific than the broader term 'hydrocarbon'."
+  },
+  {
+    "id": "TT_a06614de",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'cryptic' is an adjective used to describe hidden or concealed phenomena, making it a qualifier in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_389427ae",
+    "types": [
+      "temperature range"
+    ],
+    "reason": "All three predictions agree that 'cold' refers to a low temperature condition, making 'temperature range' the most appropriate category."
+  },
+  {
+    "id": "TT_536e1c01",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'flat' describes a geometric property of an object, specifically its lack of curvature, which aligns with the concept of 'shape' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_03554dcb",
+    "types": [
+      "consumer"
+    ],
+    "reason": "All predictions agree that 'primary consumer' is a type of 'consumer' in ecological contexts, describing its role in the food chain."
+  },
+  {
+    "id": "TT_132cec32",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'Sakmarian' refers to a specific geological age within the Early Permian epoch, making 'age' the most accurate classification."
+  },
+  {
+    "id": "TT_de3b52c2",
+    "types": [
+      "speed state"
+    ],
+    "reason": "All three predictions agree that 'subsonic' refers to a state of speed below the speed of sound, making 'speed state' the most accurate classification."
+  },
+  {
+    "id": "TT_ae9a7394",
+    "types": [
+      "season"
+    ],
+    "reason": "All three predictions unanimously agree that 'winter' is classified as a 'season', which is the most accurate and direct classification for this term."
+  },
+  {
+    "id": "TT_ba644037",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '391.8mya' represents a specific point in geological time, which aligns with the 'age' type in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_db9a42b9",
+    "types": [
+      "unit"
+    ],
+    "reason": "All three predictions agree that 'lux' is a unit of measurement for illuminance, fitting the 'unit' category in SWEET Ontology."
+  },
+  {
+    "id": "TT_db03f52d",
+    "types": [
+      "environmental standards body"
+    ],
+    "reason": "The term 'dwd' refers to the Deutsche Wetterdienst, which is a national meteorological service responsible for setting environmental and meteorological standards, aligning with the 'environmental standards body' classification."
+  },
+  {
+    "id": "TT_354827c9",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'berriasian' refers to a specific subdivision of a geologic epoch, classified as an 'age' within the geological time scale, representing the earliest age of the Cretaceous Period."
+  },
+  {
+    "id": "TT_d9f667fc",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Sulfur oxide is a compound of sulfur and oxygen, lacking carbon-hydrogen bonds, which classifies it as an inorganic compound."
+  },
+  {
+    "id": "TT_564eacdc",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'curator' refers to a functional position or responsibility, aligning with the 'role' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_8a7f0d7c",
+    "types": [
+      "frequency"
+    ],
+    "reason": "A radian per second is a unit for measuring angular velocity, which relates to the frequency of rotation."
+  },
+  {
+    "id": "TT_b42a538a",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term 'short' is most commonly associated with time or length, and 'duration' is the most fitting type in the context of Earth and environmental sciences for describing brief time spans."
+  },
+  {
+    "id": "TT_d1522284",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'low' is a descriptive qualifier used to indicate a reduced level or intensity, fitting well within the SWEET Ontology's focus on modifying concepts like measurements or states."
+  },
+  {
+    "id": "TT_186b1f24",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "Superadiabatic refers to a condition where the temperature lapse rate exceeds the adiabatic lapse rate, which is a specific thermodynamic state describing atmospheric stability conditions."
+  },
+  {
+    "id": "TT_7e817a15",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'migrating' is most commonly associated with biological entities like animals, making 'biological state' the most accurate classification."
+  },
+  {
+    "id": "TT_7f34b856",
+    "types": [
+      "period"
+    ],
+    "reason": "The Siderian is a geologic period, specifically the first period of the Paleoproterozoic Era, which aligns with the geological time scale."
+  },
+  {
+    "id": "TT_e9bfa8d0",
+    "types": [
+      "base unit"
+    ],
+    "reason": "The metre is the fundamental unit of length in the SI system, making 'base unit' the most accurate classification."
+  },
+  {
+    "id": "TT_caf65747",
+    "types": [
+      "prefix"
+    ],
+    "reason": "The term 'semi' is a prefix meaning 'half' or 'partial', which aligns with its common usage in scientific terminology."
+  },
+  {
+    "id": "TT_3eb51fd2",
+    "types": [
+      "horizontal coordinate system"
+    ],
+    "reason": "The term 'nad2' is commonly associated with geodetic datums like NAD27 or NAD83, which are horizontal coordinate systems used in mapping and earth sciences."
+  },
+  {
+    "id": "TT_a091b375",
+    "types": [
+      "unit"
+    ],
+    "reason": "Ohm is the SI unit of electrical resistance, making 'unit' the most accurate classification."
+  },
+  {
+    "id": "TT_53fa014e",
+    "types": [
+      "fujita pearson scale"
+    ],
+    "reason": "The term 'violent' is specifically associated with the Fujita Pearson Scale, which classifies tornado intensity, making it the most accurate match."
+  },
+  {
+    "id": "TT_35ba8e5b",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '2800mya' refers to a geological time scale division, specifically an 'eon', as it represents a vast timescale (2.8 billion years ago)."
+  },
+  {
+    "id": "TT_78770291",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "'Burn' involves a chemical reaction (combustion), making 'chemical role' the most accurate classification."
+  },
+  {
+    "id": "TT_353baff5",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '150.8mya' refers to a time approximately 150.8 million years ago, which fits the concept of 'age' in geological or paleontological contexts."
+  },
+  {
+    "id": "TT_d04ed815",
+    "types": [
+      "visibility"
+    ],
+    "reason": "The term 'clear' directly relates to atmospheric visibility, describing conditions free from obstructions like clouds or fog."
+  },
+  {
+    "id": "TT_4b6372a6",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '245.9mya' refers to a specific point in geological time, measured in million years ago (mya), which aligns with the 'age' type in the SWEET ontology."
+  },
+  {
+    "id": "TT_551a76a9",
+    "types": [
+      "role"
+    ],
+    "reason": "All three predictions agree that 'minor' fits the 'role' category, as it describes a level of importance or significance, similar to 'major'."
+  },
+  {
+    "id": "TT_d3f17702",
+    "types": [
+      "interval"
+    ],
+    "reason": "The term 'weekly' refers to a recurring time interval, which aligns with the concept of 'interval' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_e492e0a2",
+    "types": [
+      "unit derived by raising to power"
+    ],
+    "reason": "The term 'per second squared' describes a unit derived from a base unit (second) raised to a power (-2), which aligns with the definition of 'unit derived by raising to power'."
+  },
+  {
+    "id": "TT_79e6e8f3",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions agree that carbonyl sulfide is an inorganic compound due to its composition of carbon, oxygen, and sulfur without hydrocarbon structures."
+  },
+  {
+    "id": "TT_a57744b1",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "All three predictions correctly identify HNO3 as an inorganic acid, which is accurate based on its chemical properties and the SWEET Ontology."
+  },
+  {
+    "id": "TT_433a6162",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x4 class' refers to a specific classification within the 'x class' category, which is a known classification system in the SWEET Ontology."
+  },
+  {
+    "id": "TT_85709309",
+    "types": [
+      "fluid equilibrium state"
+    ],
+    "reason": "The term 'sverdrup balance' describes a state of equilibrium in ocean currents, aligning with the concept of a fluid equilibrium state in oceanography."
+  },
+  {
+    "id": "TT_0bf392df",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'pollinated' describes a specific condition in the biological life cycle of a plant, aligning with 'biological state'."
+  },
+  {
+    "id": "TT_206baa40",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "All three LLMs correctly identified 'H2O2' as a peroxide, which is the accurate classification for hydrogen peroxide."
+  },
+  {
+    "id": "TT_37299a2d",
+    "types": [
+      "magnetic pole"
+    ],
+    "reason": "All three predictions correctly identify 'south pole' as a 'magnetic pole' due to its association with Earth's geomagnetic field."
+  },
+  {
+    "id": "TT_a2d62c2b",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'earth atmosphere mesoscale' refers to a specific range of dimensions within the Earth's atmosphere, which aligns with the concept of a spatial scale in meteorology."
+  },
+  {
+    "id": "TT_51efe021",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x21 class' is a specific instance of the broader 'x class' classification system, commonly used in solar flare categorization."
+  },
+  {
+    "id": "TT_84fd3b77",
+    "types": [
+      "ocean area"
+    ],
+    "reason": "The term 'neritic' refers to the shallow part of the ocean above the continental shelf, which is a specific ocean area."
+  },
+  {
+    "id": "TT_a5a76e1f",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'total' is a qualifier that describes the complete or entire amount of something, commonly used in scientific contexts to modify measurements or quantities."
+  },
+  {
+    "id": "TT_bb3cad11",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'sheinwoodian' refers to an epoch in the geological time scale, part of the Silurian period, which is a more precise classification than 'age' in this context."
+  },
+  {
+    "id": "TT_3d62f841",
+    "types": [
+      "duration"
+    ],
+    "reason": "A 'month' is a specific and standard period of time, fitting the 'duration' category as it represents a continuous length or interval of time."
+  },
+  {
+    "id": "TT_2ad655c1",
+    "types": [
+      "latitude band"
+    ],
+    "reason": "The term 'equatorial' refers to a specific geographical zone around the Earth's equator, which aligns with the concept of a 'latitude band' in the SWEET ontology."
+  },
+  {
+    "id": "TT_77a1a730",
+    "types": [
+      "post transition metal"
+    ],
+    "reason": "All three predictions correctly identify aluminum as a post-transition metal, aligning with its classification in the periodic table."
+  },
+  {
+    "id": "TT_d62f61ff",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "All three predictions unanimously classify 'propellant' as a 'chemical role' due to its function in propulsion systems."
+  },
+  {
+    "id": "TT_269be637",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions unanimously agree that 'accurate' aligns with 'trust' due to its association with reliability and precision in data or measurements."
+  },
+  {
+    "id": "TT_ef6b368f",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "All three predictions correctly identify HClO4 as perchloric acid, an inorganic acid, which is the most accurate classification from the given options."
+  },
+  {
+    "id": "TT_b4309245",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '422.9mya' refers to a large division of geological time, which aligns with the 'eon' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_f9b19c79",
+    "types": [
+      "age"
+    ],
+    "reason": "The Darriwilian is a specific stage in the geologic time scale, representing a time interval, which aligns with the 'age' category in Earth Sciences."
+  },
+  {
+    "id": "TT_5c769f64",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "All three predictions correctly identify the National Forest Service as a federal governing body, as it is a government agency responsible for managing national forests."
+  },
+  {
+    "id": "TT_78dca7c3",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three predictions agree that 'x49 class' is a variant of 'x class', which is a recognized classification in the SWEET Ontology for spectral or climatic categorizations."
+  },
+  {
+    "id": "TT_7b667ecd",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'endogenous' refers to processes or substances originating from within an organism, which aligns with the concept of a biological state."
+  },
+  {
+    "id": "TT_f2483127",
+    "types": [
+      "allotrope"
+    ],
+    "reason": "Ozone (O3) is an allotrope of oxygen, representing a different structural form of the same element, which is more accurate than classifying it as an inorganic compound."
+  },
+  {
+    "id": "TT_0a6e5fcc",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'positive' is used to qualify or describe the state or value of something, making 'qualifier' the most appropriate choice among the given predictions."
+  },
+  {
+    "id": "TT_796a74a4",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "The term 'sun synchronous' describes a specific type of orbit where a satellite passes over a point on Earth at the same local solar time, which aligns with the concept of 'orbital configuration'."
+  },
+  {
+    "id": "TT_f809eb1b",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify Th234 as an isotope of thorium, which is accurate given its definition and role in environmental science."
+  },
+  {
+    "id": "TT_eade4643",
+    "types": [
+      "provenance role"
+    ],
+    "reason": "The term 'archivist' aligns with the concept of managing and preserving records, which is a specific type of role focused on provenance."
+  },
+  {
+    "id": "TT_96912c6c",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 's32' as an isotope of sulfur, specifically Sulfur-32, which is a stable isotope commonly referenced in earth and environmental science."
+  },
+  {
+    "id": "TT_68e541dd",
+    "types": [
+      "size"
+    ],
+    "reason": "The term 'pt3million_km2' represents a measurement of area (3 million square kilometers), which is a quantitative measure of spatial extent, fitting the 'size' category in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_e6f7c502",
+    "types": [
+      "isotope"
+    ],
+    "reason": "N14 refers to nitrogen-14, a specific isotope of nitrogen, which is a variant of the element with a distinct mass number."
+  },
+  {
+    "id": "TT_668c3d0d",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'saturate' is primarily used in chemistry to describe a state where no more of a substance can be absorbed or dissolved, aligning with the 'chemical state' classification."
+  },
+  {
+    "id": "TT_1e14da83",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'inhomogeneous' describes a state where properties or composition vary spatially, which aligns with the concept of a physical state."
+  },
+  {
+    "id": "TT_5b582857",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "All three predictions unanimously agree that 'very' functions as a qualifier, modifying the intensity or degree of other terms, which aligns with its linguistic and ontological role."
+  },
+  {
+    "id": "TT_e0ae6e29",
+    "types": [
+      "x class"
+    ],
+    "reason": "All three LLMs unanimously predict 'x class' as the type for 'x39 class', aligning with the pattern of classification systems in the given dataset."
+  },
+  {
+    "id": "TT_e51f0b7f",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three LLMs agree that '5day' refers to a period of time, specifically five days, which aligns with the SWEET Ontology concept of 'duration'."
+  },
+  {
+    "id": "TT_8555a64f",
+    "types": [
+      "halogen"
+    ],
+    "reason": "Bromine is a chemical element classified as a halogen in the periodic table, which is consistent across all predictions."
+  },
+  {
+    "id": "TT_1c18e3bb",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'he304' follows the notation for isotopes (element symbol followed by mass number), suggesting it is an isotope of helium."
+  },
+  {
+    "id": "TT_588f1443",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '275.6mya' is a temporal reference point in geological context, representing a specific age in Earth's history."
+  },
+  {
+    "id": "TT_0ccea7c2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Artinskian' is a stage in the geological time scale, which is typically classified as an epoch in the SWEET Ontology."
+  },
+  {
+    "id": "TT_aaf3d02b",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'miscible' describes the ability of fluids to mix, which is a property directly related to their state."
+  },
+  {
+    "id": "TT_ae66becd",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '468.1mya' refers to '468.1 million years ago', indicating a specific time in geological history, thus classifying it under 'age'."
+  },
+  {
+    "id": "TT_8d61a931",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three predictions agree that '10year' refers to a time span, making 'duration' the most appropriate type."
+  },
+  {
+    "id": "TT_0a62e7d6",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'deciduous' describes a biological characteristic of plants shedding leaves seasonally, aligning with the concept of a biological state."
+  },
+  {
+    "id": "TT_11eb3e2c",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'recoverable' is often associated with the ability of a fluid to recover its properties, such as energy or composition, which aligns with 'fluid property'."
+  },
+  {
+    "id": "TT_812f901a",
+    "types": [
+      "geomagnetic field"
+    ],
+    "reason": "All predictions correctly identify 'igrf' as referring to the International Geomagnetic Reference Field, which is a standard model of the Earth's geomagnetic field."
+  },
+  {
+    "id": "TT_724318a8",
+    "types": [
+      "byte order"
+    ],
+    "reason": "All predictions correctly identify 'network endian' as referring to byte order, specifically big-endian in network protocols."
+  },
+  {
+    "id": "TT_ce08b1d0",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'shattered' directly describes a physical condition of matter, specifically the state of being broken into fragments, which aligns with the 'physical state' type."
+  },
+  {
+    "id": "TT_ed9c0294",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "All three predictions correctly identify 'ka band' as a 'spectral band' due to its association with a specific frequency range in the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_e2869a95",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'broad' is more likely to describe a qualitative or descriptive role in the context of earth and environmental sciences, as it often refers to the scope or range of entities or processes."
+  },
+  {
+    "id": "TT_d2e459a3",
+    "types": [
+      "component"
+    ],
+    "reason": "The term 'solute' refers to a substance dissolved in another, making it a component of solutions in environmental and chemical contexts."
+  },
+  {
+    "id": "TT_8a8d0873",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "All three predictions agree that 'non methane hydrocarbon' is a subset of hydrocarbons, making 'hydrocarbon' the most accurate classification."
+  },
+  {
+    "id": "TT_8ecaee8d",
+    "types": [
+      "earth ocean"
+    ],
+    "reason": "The term 'oceanic' directly relates to the Earth's oceans, making 'earth ocean' the most appropriate and fundamental category."
+  },
+  {
+    "id": "TT_22a414e2",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'decomposed' refers to the breakdown of a compound into simpler substances, which aligns with the concept of a chemical state."
+  },
+  {
+    "id": "TT_9ef9897d",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "All three predictions correctly identify 'hclo4' as perchloric acid, an inorganic acid, which aligns with the SWEET Ontology classification."
+  },
+  {
+    "id": "TT_c6e62afd",
+    "types": [
+      "alkene"
+    ],
+    "reason": "All three predictions correctly identify ethene as an alkene due to its carbon-carbon double bond, which is the defining feature of alkenes."
+  },
+  {
+    "id": "TT_386ec02d",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Acenaphthene is a polycyclic aromatic hydrocarbon, which aligns with the SWEET Ontology's classification of hydrocarbons."
+  },
+  {
+    "id": "TT_e6a5222b",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'host' is broadly applicable as a role in various contexts, including biological and physical interactions, making 'role' the most inclusive and accurate classification."
+  },
+  {
+    "id": "TT_dccbed46",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "All three predictions unanimously classify nitric oxide as an inorganic compound due to its composition of nitrogen and oxygen without carbon-hydrogen bonds."
+  },
+  {
+    "id": "TT_e4c33673",
+    "types": [
+      "ocean gyre"
+    ],
+    "reason": "All three predictions unanimously agree that 'north pacific gyre' is classified as 'ocean gyre', which accurately describes a large system of rotating ocean currents."
+  },
+  {
+    "id": "TT_93b9b2bb",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "DMS stands for Dimethyl sulfide, an organic compound relevant to environmental science and marine chemistry."
+  },
+  {
+    "id": "TT_752b69f1",
+    "types": [
+      "classifier"
+    ],
+    "reason": "The term 'zone code' refers to a system used to classify or categorize entities into different zones, which aligns with the 'classifier' type in the SWEET ontology."
+  },
+  {
+    "id": "TT_5c289d05",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'normal' is a general descriptor used to specify a standard or expected state, functioning as a qualifier in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_884318b1",
+    "types": [
+      "temperature range"
+    ],
+    "reason": "All three predictions agree that 'tepid' refers to a moderate or slightly warm temperature, fitting under 'temperature range' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_37268046",
+    "types": [
+      "alkaline earth metal"
+    ],
+    "reason": "All three predictions correctly identify magnesium as an alkaline earth metal, which is accurate based on its position in the periodic table and its chemical properties."
+  },
+  {
+    "id": "TT_9d88fc3c",
+    "types": [
+      "trust"
+    ],
+    "reason": "All predictions agree that 'safe' aligns with the concept of 'trust' due to its association with reliability and confidence in environmental or data contexts."
+  },
+  {
+    "id": "TT_b799d051",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "All three predictions agree on 'wet summer dry winter climate' as the closest match, despite minor differences in reasoning."
+  },
+  {
+    "id": "TT_04e0b6a3",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The term 'earth thermosphere' refers to a specific layer within the Earth's atmosphere, making 'atmosphere' the most accurate and encompassing category from the provided options."
+  },
+  {
+    "id": "TT_c2e60131",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "HCl (hydrochloric acid) is a strong inorganic acid, fitting the 'inorganic acid' type."
+  },
+  {
+    "id": "TT_97b30e0d",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'steric' specifically refers to the three-dimensional arrangement of atoms in molecules, which aligns with the concept of 'spatial configuration' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ad7dee2c",
+    "types": [
+      "ocean area"
+    ],
+    "reason": "All three predictions agree that 'Fram Strait' is best classified as an 'ocean area' due to its geographical nature as a water passage in the Arctic Ocean."
+  },
+  {
+    "id": "TT_18b98482",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'per meter cubed' is a standard unit of measurement for volume density, and 'unit' is the most appropriate classification."
+  },
+  {
+    "id": "TT_38156029",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'robust' signifies reliability and dependability, aligning with the concept of 'trust' in the SWEET ontology."
+  },
+  {
+    "id": "TT_8f99edaa",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "All three LLMs agree that 'slightly' is a qualifier, as it modifies the degree or extent of a property or state."
+  },
+  {
+    "id": "TT_cc9fca33",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "All three predictions agree that 'synoptic' refers to a large-scale view in meteorology, fitting the 'spatial scale' concept in environmental sciences."
+  },
+  {
+    "id": "TT_4f9963fb",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'incomplete' functions as a descriptor or modifier of the state or condition of other entities, making 'qualifier' the most fitting classification."
+  },
+  {
+    "id": "TT_44e8bc52",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "All three predictions correctly identify 'plasma' as a state of matter, which is the most accurate classification from the provided list."
+  },
+  {
+    "id": "TT_d3b1d8d1",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three predictions agree that 'decadal' refers to a period of ten years, which aligns with the concept of 'duration' as a measure of time length."
+  },
+  {
+    "id": "TT_8c4570cc",
+    "types": [
+      "prefix"
+    ],
+    "reason": "All predictions unanimously agree that 'nano' is a prefix, specifically denoting a factor of 10^-9 in scientific measurements."
+  },
+  {
+    "id": "TT_b36eda6e",
+    "types": [
+      "eon"
+    ],
+    "reason": "The Proterozoic is a major geological eon, representing one of the largest divisions of geological time, as confirmed by two of the three predictions."
+  },
+  {
+    "id": "TT_9b96304e",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'isolated' is most commonly associated with a system or state being closed off from its surroundings, which aligns with the concept of 'state of matter' in physics."
+  },
+  {
+    "id": "TT_3b6eae65",
+    "types": [
+      "interpolation method"
+    ],
+    "reason": "All three predictions agree that 'nearest neighbor' is an interpolation method, commonly used in spatial and statistical analysis."
+  },
+  {
+    "id": "TT_518ce6c4",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Methanoic acid (formic acid) is a simple carboxylic acid, fitting the definition of an organic compound due to its carbon-based structure."
+  },
+  {
+    "id": "TT_7f70976c",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'anoxic' describes a condition lacking oxygen, which is most relevant to biological systems and ecosystems, making 'biological state' the most fitting classification."
+  },
+  {
+    "id": "TT_830d57b3",
+    "types": [
+      "frequency"
+    ],
+    "reason": "All three predictions agree that 'semi diurnal' refers to a phenomenon occurring twice daily, which aligns with the concept of frequency in earth and environmental sciences."
+  },
+  {
+    "id": "TT_ef6bdb73",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Sulfate is a chemical compound composed of sulfur and oxygen, typically in the form of salts or esters of sulfuric acid, making it an inorganic compound."
+  },
+  {
+    "id": "TT_18353a89",
+    "types": [
+      "period"
+    ],
+    "reason": "The Stenian is a geologic period within the Mesoproterozoic Era, as confirmed by multiple sources, making 'period' the most accurate classification."
+  },
+  {
+    "id": "TT_ef43035b",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Carnian' is a subdivision of the Triassic period, which is classified as an 'epoch' in geological time scales, making it the most accurate choice."
+  },
+  {
+    "id": "TT_c4f21e14",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'triaxial' describes an object with three axes, which is a geometric property, making 'shape' the most appropriate classification."
+  },
+  {
+    "id": "TT_401733cf",
+    "types": [
+      "halon"
+    ],
+    "reason": "CCl4 (carbon tetrachloride) is a halogenated compound, and while it lacks bromine or fluorine, its properties and usage align with halons in environmental science contexts."
+  },
+  {
+    "id": "TT_e8bdbb83",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "Retardation factor is a measure used in hydrogeology to describe solute movement delay in porous media, making it a hydrogeological property."
+  },
+  {
+    "id": "TT_616a783b",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'dapingian' refers to a subdivision of the Ordovician period in geological time, making it an 'epoch' in earth sciences categorization."
+  },
+  {
+    "id": "TT_b0ca24a8",
+    "types": [
+      "format"
+    ],
+    "reason": "The term 'tac' is an acronym for 'Traditional Alphanumeric Codes', a standardized format for transmitting meteorological and environmental data, making 'format' the most suitable classification."
+  },
+  {
+    "id": "TT_d336960f",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'composite' describes a functional combination of elements, fitting the definition of a role in the context of earth and environmental sciences."
+  },
+  {
+    "id": "TT_44674a24",
+    "types": [
+      "compression method"
+    ],
+    "reason": "All three LLMs unanimously agree that 'gzip' is a compression method, as it is a widely recognized algorithm for file compression and decompression."
+  },
+  {
+    "id": "TT_d4cab41a",
+    "types": [
+      "ion"
+    ],
+    "reason": "Fe2.3 represents an iron ion with a fractional oxidation state, fitting the 'ion' category more precisely than the other options."
+  },
+  {
+    "id": "TT_594e4c76",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "The term 'bsh' is the official acronym for the 'Bundesamt f\u00fcr Seeschifffahrt und Hydrographie', a federal governing body in Germany."
+  },
+  {
+    "id": "TT_dffacd35",
+    "types": [
+      "isotope"
+    ],
+    "reason": "U238 (Uranium-238) is a specific isotope of uranium, fitting the definition of isotopes as variants of an element differing in neutron numbers."
+  },
+  {
+    "id": "TT_dcce5f01",
+    "types": [
+      "isotope"
+    ],
+    "reason": "All three predictions correctly identify 'o16' as an isotope of oxygen, which aligns with the SWEET Ontology's definition of isotopes."
+  },
+  {
+    "id": "TT_1ab8036c",
+    "types": [
+      "wave state"
+    ],
+    "reason": "The term 'sinusoidal' directly describes a waveform, which aligns with the 'wave state' category in the SWEET Ontology for earth and environmental science."
+  },
+  {
+    "id": "TT_cac64dd4",
+    "types": [
+      "angular extent"
+    ],
+    "reason": "An 'arcminute' is a unit of angular measurement, which fits the 'angular extent' category as it measures angles or rotations."
+  },
+  {
+    "id": "TT_be543083",
+    "types": [
+      "time frame"
+    ],
+    "reason": "All three predictions unanimously agree that 'secular' refers to a long-term time scale, making 'time frame' the most appropriate classification."
+  },
+  {
+    "id": "TT_1e5b21c4",
+    "types": [
+      "ion"
+    ],
+    "reason": "Hydroxyl (OH-) is a negatively charged ion, which is a common and significant species in chemistry and environmental science."
+  },
+  {
+    "id": "TT_64729573",
+    "types": [
+      "duration"
+    ],
+    "reason": "All three predictions agree that '2week' refers to a measure of time, specifically a duration of two weeks."
+  },
+  {
+    "id": "TT_b9a6b98f",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'orthorhombic' refers to a crystal system, which is a geometric classification of shapes in crystal structures."
+  },
+  {
+    "id": "TT_e815787c",
+    "types": [
+      "trust"
+    ],
+    "reason": "All three predictions unanimously agree that 'uncertainty' aligns with the 'trust' type, as it pertains to confidence, reliability, and assurance in scientific and decision-making contexts."
+  },
+  {
+    "id": "TT_9acb6bb0",
+    "types": [
+      "environmental standard"
+    ],
+    "reason": "The term refers to a regulatory program under the U.S. Clean Air Act, which establishes standards to prevent air quality degradation, making it an environmental standard."
+  },
+  {
+    "id": "TT_a512aeb3",
+    "types": [
+      "age"
+    ],
+    "reason": "All three predictions correctly identify '130.0mya' as a measure of geological time, fitting the 'age' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_b7d86443",
+    "types": [
+      "unit"
+    ],
+    "reason": "FNU stands for Formazin Nephelometric Unit, a unit used to measure turbidity, aligning with the 'unit' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_8bb56661",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'dwb' is a K\u00f6ppen climate classification code that describes a climate with a distinct dry winter and wet summer, matching the 'wet summer dry winter climate' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_10ffc87b",
+    "types": [
+      "horizontal coordinate"
+    ],
+    "reason": "All three LLMs agree that 'longitude' is a 'horizontal coordinate' as it measures east-west position on Earth's surface, fitting the geospatial context."
+  },
+  {
+    "id": "TT_17afa117",
+    "types": [
+      "format"
+    ],
+    "reason": "PSD is commonly recognized as a file format extension, particularly related to Adobe Photoshop files, which fits within the category of 'format'."
+  },
+  {
+    "id": "TT_4fb0111d",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'buried' describes a physical condition where something is covered or concealed beneath the surface, aligning with the concept of a physical state in earth and environmental science."
+  },
+  {
+    "id": "TT_c04f30ec",
+    "types": [
+      "conduction role"
+    ],
+    "reason": "The term 'electronic' relates to the flow of electrons, which is fundamental to electrical conduction, making 'conduction role' the most precise classification."
+  },
+  {
+    "id": "TT_23e91c8f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "All three predictions correctly identify 'Ludlow' as an epoch in the geological time scale, aligning with the SWEET Ontology."
+  },
+  {
+    "id": "TT_46502cd6",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "ARFF is a self-describing format as it includes metadata about the data it contains, such as attributes and their types, making it clear and interpretable without external context."
+  },
+  {
+    "id": "TT_4e4eef19",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'independent' describes a functional role of an entity or variable within a system, aligning with the concept of 'role' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_f6dc9c6e",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'zenith' refers to the point directly above a specific location, representing the upward vertical direction, which aligns with the concept of 'vertical direction' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_6c5c04e8",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'baroclinic' describes a state in a fluid where density depends on both temperature and pressure, which is a fundamental concept in thermodynamics as applied to fluids in meteorology and oceanography."
+  },
+  {
+    "id": "TT_89378cd3",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'evacuated' refers to the removal of air or gases from a space, which is a specific physical condition or state."
+  },
+  {
+    "id": "TT_dd1b75bf",
+    "types": [
+      "geosphere"
+    ],
+    "reason": "The term 'geological' is directly related to the study of Earth's solid structure, which aligns with the 'geosphere' concept in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ff499be0",
+    "types": [
+      "system state"
+    ],
+    "reason": "Hysteresis describes the dependence of a system's state on its history, making 'system state' the most accurate classification."
+  },
+  {
+    "id": "TT_efe6f8c6",
+    "types": [
+      "ion"
+    ],
+    "reason": "NH4+ is the ammonium ion, a positively charged ion (cation) derived from ammonia, fitting the 'ion' classification."
+  },
+  {
+    "id": "TT_f925045b",
+    "types": [
+      "representative role"
+    ],
+    "reason": "All three predictions unanimously agree on 'representative role' as the best fit, as the term 'representative' inherently implies acting on behalf of or typifying a larger group or concept."
+  },
+  {
+    "id": "TT_00532fc2",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The term 'farad per meter' is a unit of measurement for electric permittivity, which is directly related to electromagnetic phenomena, making 'electromagnetic quantity' the most accurate classification."
+  },
+  {
+    "id": "TT_401ab4fb",
+    "types": [
+      "a class"
+    ],
+    "reason": "The term 'a8 class' aligns with the pattern of classification systems like 'a class', 'b class', etc., where letters denote specific categories."
+  },
+  {
+    "id": "TT_293f559e",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'k41' refers to potassium-41, an isotope of potassium, which fits the definition of an isotope in the SWEET ontology."
+  },
+  {
+    "id": "TT_3c00485a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'recent' is commonly associated with the most recent geological time period, which is referred to as an 'epoch' in earth and environmental sciences."
+  },
+  {
+    "id": "TT_e7695609",
+    "types": [
+      "period"
+    ],
+    "reason": "All three predictions unanimously identify 'Jurassic' as a geological period, which is accurate based on its definition in earth science."
+  },
+  {
+    "id": "TT_8f582671",
+    "types": [
+      "distance"
+    ],
+    "reason": "The term 'near' refers to a spatial relationship indicating proximity or closeness in distance, which aligns with the concept of 'distance' in earth and environmental science contexts."
+  }
+]

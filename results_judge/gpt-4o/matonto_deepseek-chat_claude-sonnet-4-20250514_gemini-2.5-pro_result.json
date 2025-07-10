@@ -1,0 +1,261 @@
+[
+  {
+    "id": "TT_71796178",
+    "types": [
+      "magnetic flux density unit"
+    ],
+    "reason": "All models consistently predict 'tesla' as a 'magnetic flux density unit', aligning with its established role in measuring magnetic flux density (or magnetic field strength)."
+  },
+  {
+    "id": "TT_f1361175",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "The term 'coulomb per kilogram' is correctly associated with absorbed dose unit, particularly in the context of ionizing radiation measurement, indicating that the charge per kilogram measurement pertains to radiation exposure, a precursor to absorption."
+  },
+  {
+    "id": "TT_981df168",
+    "types": [
+      "magnetic field strength"
+    ],
+    "reason": "'ampere per square meter' relates to current density, which is directly tied to magnetic field strength via Ampere's Law. While it describes current per unit area, its function in defining magnetic effects gives it relevance to magnetic field strength, thus making this classification more comprehensive."
+  },
+  {
+    "id": "TT_e8ee7e46",
+    "types": [
+      "power unit"
+    ],
+    "reason": "All three models correctly identified 'watt' as a unit of power, as it measures the rate of energy transfer in joules per second. This is consistent with the International System of Units (SI) definition of power."
+  },
+  {
+    "id": "TT_4c87c381",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'unit_kelvin_-1' is related to the inverse of a temperature unit, representing 'per Kelvin'. It's not directly a temperature unit but rather involves a derived concept, so 'unit' is the most fitting classification."
+  },
+  {
+    "id": "TT_4e46b6d7",
+    "types": [
+      "absorbed dose unit"
+    ],
+    "reason": "All models correctly identified 'gray per second' as an 'absorbed dose unit', since 'gray' is a unit for absorbed dose and 'per second' indicates a rate of absorption. The term represents the absorbed dose rate."
+  },
+  {
+    "id": "TT_5a5763f5",
+    "types": [
+      "force unit"
+    ],
+    "reason": "All predictions accurately identify 'newton' as the SI unit of force, consistent with the definitions in scientific contexts."
+  },
+  {
+    "id": "TT_f15ef7cd",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "All three predictions correctly identify 'joule' as an energy unit based on the International System of Units, with consistent reasoning about its role in quantifying work, heat, and electricity."
+  },
+  {
+    "id": "TT_40a02db8",
+    "types": [
+      "unit"
+    ],
+    "reason": "'meter squared' is indeed a unit of area, but since specific area unit doesn't exist in the provided options, the most fitting choice among them is 'unit'. The use in predicting permeability unit is contextually inaccurate with the provided terms."
+  },
+  {
+    "id": "TT_c4f339b8",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "The majority (2 out of 3) of models correctly classify 'newton meter' as a unit of energy, as it is equivalent to one joule in the SI system. Although it can also represent torque, within the provided options, it fits under 'energy unit.'"
+  },
+  {
+    "id": "TT_d714834e",
+    "types": [
+      "energy unit"
+    ],
+    "reason": "All three models agree that an electron volt (eV) is a unit of energy, commonly used in atomic, particle physics, and quantum mechanics. It represents the energy gained by an electron when accelerated through a potential difference of one volt. Therefore, the consensus is clear and aligns with established scientific definitions."
+  },
+  {
+    "id": "TT_ce5417fc",
+    "types": [
+      "force unit"
+    ],
+    "reason": "Both deepseek-chat and claude-sonnet-4-20250514 agree that 'newton per meter' is associated with measuring force per unit length, which aligns with force-related categories in material science. 'force unit' is specific and reflects its application in cases like surface tension or spring constants, making it a more precise choice than the generic 'unit'."
+  },
+  {
+    "id": "TT_a9f30802",
+    "types": [
+      "specific energy unit"
+    ],
+    "reason": "Both deepseek-chat and claude-sonnet-4-20250514 predict \"specific energy unit,\" and their reasoning aligns with the definition. Joule per kilogram per kelvin is the unit for specific heat capacity, which is indeed a type of specific energy unit. Gemini-2.5-pro's prediction as \"entropy unit\" is interesting but less common for such units, which are often tied to specific heat."
+  },
+  {
+    "id": "TT_25014bd4",
+    "types": [
+      "electric charge unit"
+    ],
+    "reason": "All three LLMs correctly identified 'coulomb per square meter' as an 'electric charge unit' since it measures surface charge density, which fundamentally relates to electric charge distributed over an area."
+  },
+  {
+    "id": "TT_8182f530",
+    "types": [
+      "solid angle unit"
+    ],
+    "reason": "Both deepseek-chat and gemini-2.5-pro accurately identify 'per steradian' as a solid angle unit because a steradian is the SI unit for solid angles, making them correct in this context. Claude-sonnet-4 proposes 'unit', which is less specific in this classification. Therefore, 'solid angle unit' is the most precise and fitting classification for 'per steradian'."
+  },
+  {
+    "id": "TT_46dad9e9",
+    "types": [
+      "solid angle unit"
+    ],
+    "reason": "The term 'm2\u00b7m-2' simplifies to a dimensionless quantity, matching the SI unit definition for a solid angle (steradian), which is expressed as m\u00b2/m\u00b2."
+  },
+  {
+    "id": "TT_49ab10c7",
+    "types": [
+      "amount of substance unit"
+    ],
+    "reason": "'Mole per cubic meter' is a concentration unit that specifically measures the amount of substance, hence it aligns best with 'amount of substance unit' as it indicates moles per unit volume."
+  },
+  {
+    "id": "TT_ab85a470",
+    "types": [
+      "catalytic activity unit"
+    ],
+    "reason": "The term 'second per mole' aligns with a 'catalytic activity unit' since it represents a unit of time per amount of substance, which is the inverse of the catalytic activity unit (mol/s). This relates to measuring rates in chemical processes, hence best classified as a catalytic activity unit."
+  },
+  {
+    "id": "TT_b8e7ebae",
+    "types": [
+      "volume density unit"
+    ],
+    "reason": "Both Claude-sonnet-4-20250514 and Gemini-2.5-pro correctly identify 'coulomb per cubic meter' as a unit measuring electric charge density, aligning with 'volume density unit'. Deepseek-chat's categorization is less specific since it emphasizes electric charge without noting the volume aspect, making the others' classification more precise."
+  },
+  {
+    "id": "TT_ab5a8ad6",
+    "types": [
+      "unit"
+    ],
+    "reason": "Both Claude and Gemini identify 'per ampere' as a general unit without a specific named type in the list. While Deepseek suggests 'electric resistance unit,' \"per ampere\" does not inherently define electric resistance, as it lacks the necessary equivalence to ohm (volt per ampere). Therefore, 'unit' is the most accurate classification considering the current options."
+  },
+  {
+    "id": "TT_08f9b767",
+    "types": [
+      "capacitance unit"
+    ],
+    "reason": "All three models correctly identify 'farad' as the SI unit of capacitance, used to quantify a system's ability to store charge per volt. This is a consensus among the models and is in alignment with standard SI unit definitions. Thus, 'capacitance unit' is the appropriate classification."
+  },
+  {
+    "id": "TT_9aec366c",
+    "types": [
+      "entropy unit"
+    ],
+    "reason": "All three models agree that 'joule per mole per kelvin' is an entropy unit, which is a standard unit for measuring molar entropy and is used in the context of thermodynamics to represent energy per amount of substance per unit of temperature."
+  },
+  {
+    "id": "TT_b9a7fd17",
+    "types": [
+      "luminous flux unit"
+    ],
+    "reason": "All three LLMs agree that 'lumen' is classified as a 'luminous flux unit', which measures the perceived power of light emitted by a source, with consistent reasoning across their responses."
+  },
+  {
+    "id": "TT_4cff4fec",
+    "types": [
+      "mass unit"
+    ],
+    "reason": "All three LLMs agree that 'dalton' is a unit of mass used in chemistry and physics, specifically equivalent to the atomic mass unit (amu), and defined as 1/12 of the carbon-12 atom mass. This consistent consensus provides a strong evidence for 'mass unit' as the most accurate classification."
+  },
+  {
+    "id": "TT_5ba78869",
+    "types": [
+      "unit"
+    ],
+    "reason": "While 'hertz' is indeed a unit of frequency, among the provided categories, the most fitting classification is 'unit' as the more specific type 'frequency unit' is not listed among the options. Both claude-sonnet-4-20250514 and gemini-2.5-pro agree on this classification, making it the best choice."
+  },
+  {
+    "id": "TT_ce2b537c",
+    "types": [
+      "unit"
+    ],
+    "reason": "All three LLM predictions agree that \"second power 4\" represents a derived unit involving time raised to a power. They categorize it under the general 'unit' due to the lack of a specific corresponding type in the given list."
+  },
+  {
+    "id": "TT_dae2a7a6",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'per kilogram' indicates a unit of reciprocal mass (1/kg) and can be used across different physical quantities, without a specified numerator it is best classified as a general 'unit'."
+  },
+  {
+    "id": "TT_9e7440e4",
+    "types": [
+      "unit"
+    ],
+    "reason": "All three LLMs agree that 'watt per meter per kelvin' measures thermal conductivity. While 'thermal conductivity unit' isn't in the list, 'unit' is a valid, non-specific classification. Two models, claude-sonnet-4-20250514 and gemini-2.5-pro, wisely chose 'unit' due to its broad applicability when a more specific option isn't available, making it the best choice given the dataset restrictions."
+  },
+  {
+    "id": "TT_177b58ec",
+    "types": [
+      "length unit"
+    ],
+    "reason": "All three models correctly identified 'micrometer' as a unit of length, equivalent to one-millionth of a meter, and used for measuring small dimensions in scientific contexts."
+  },
+  {
+    "id": "TT_f8e74193",
+    "types": [
+      "plane angle unit"
+    ],
+    "reason": "All three predictions accurately classify 'radian' as a 'plane angle unit,' aligning with its standard usage as an SI unit for measuring plane angles."
+  },
+  {
+    "id": "TT_e707b15a",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "All LLMs correctly identified 'gigapascal' as a unit of pressure in the International System of Units, with 'giga' signifying a billion pascals (pressure unit). This consensus supports the accuracy of the prediction."
+  },
+  {
+    "id": "TT_8a920749",
+    "types": [
+      "molar energy unit"
+    ],
+    "reason": "All three predictions agree that 'joule per mole' is a measure of energy per unit amount of substance, thus classifying it as a molar energy unit. This consensus among the models supports the selection."
+  },
+  {
+    "id": "TT_fac88931",
+    "types": [
+      "pressure unit"
+    ],
+    "reason": "All predictions identify 'unit_megapascal' as a pressure unit, aligning with its standard usage in measuring pressure in engineering and material science contexts."
+  },
+  {
+    "id": "TT_a0402f84",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'becquerel' is officially recognized as the SI unit of radioactivity, measuring decay events per second. It is a specific unit of measurement in the realm of radioactivity and does not fall into more specialized categories like 'catalytic activity unit'. Hence, 'unit' is the most accurate classification here."
+  },
+  {
+    "id": "TT_300a8cf0",
+    "types": [
+      "angular velocity unit"
+    ],
+    "reason": "The term 'reciprocal second' specifically relates to the inverse of time and is used in contexts like angular velocity, which makes 'angular velocity unit' the most fitting classification, especially given the options provided."
+  },
+  {
+    "id": "TT_14fbac11",
+    "types": [
+      "information unit"
+    ],
+    "reason": "All three models agree that 'byte' corresponds to 'information unit' since it measures digital information storage and capacity."
+  },
+  {
+    "id": "TT_e2c90a21",
+    "types": [
+      "temperature unit"
+    ],
+    "reason": "All models agree that 'fahrenheit' is a unit for measuring temperature, and there are no conflicting answers."
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "TT_d539e3e1",
+    "types": [
+      "material supplier"
+    ],
+    "reason": "The term 'eBioscience' refers to a known company that supplies a wide range of products for healthcare research. In the context of biomedical investigations, it is categorized as a 'material supplier' since it provides materials, reagents, and tools essential for experimental processes."
+  },
+  {
+    "id": "TT_65da10e1",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT3 (lung)' indicates a pathologic primary tumor stage for lung, which is categorized in the AJCC 7th edition staging system for cancer. The pT3 classification specifies a particular extent and size of the lung tumor based on AJCC standards."
+  },
+  {
+    "id": "TT_a3dc97d0",
+    "types": [
+      "Karnofsky score vaue specification"
+    ],
+    "reason": "The description fits the Karnofsky Performance Status scale, which assesses patient ability to perform daily activities, where 3 corresponds to 'symptomatic and spends more than 50% time in bed, but not bedridden'. Thus, it's classified under Karnofsky score value specification."
+  },
+  {
+    "id": "TT_05e33e44",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "In the context of biomedical terms, 'Antigenix' likely refers to a company or entity related to the production or supply of antigens or related biotechnological products, thus making it a 'manufacturer.' In biomedical ontologies, manufacturers are entities that produce or supply materials used for experiments or medical use."
+  },
+  {
+    "id": "TT_1ea4dbdc",
+    "types": [
+      "curation status specification"
+    ],
+    "reason": "'metadata complete' likely refers to a stage or specification in data curation or management, indicating that all necessary metadata has been provided and verified. This aligns with 'curation status specification', a category focusing on the completeness or current state of datasets or metadata, ensuring data is ready for analysis or publication."
+  },
+  {
+    "id": "TT_a9116815",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ],
+    "reason": "The term '100: asymptomatic' matches the description for score value specification in the Eastern Cooperative Oncology Group system where '100' might indicate a status of 'asymptomatic' or fully active."
+  },
+  {
+    "id": "TT_0f6a960e",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "'Cytopeia' seems related to a company name or brand often involved in biotechnology equipment or solutions."
+  },
+  {
+    "id": "TT_ea06d5c3",
+    "types": [
+      "data format specification"
+    ],
+    "reason": "The 'Edingburgh handedness inventory' is a standard method to assess handedness and thus aligns with a format specification for data collection and interpretation."
+  },
+  {
+    "id": "TT_47e2f629",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "The term 'BioGents' suggests an entity focused on biosciences. In a biomedical context, it's likely a company or organization involved in manufacturing related products."
+  },
+  {
+    "id": "TT_c69005f8",
+    "types": [
+      "time unit"
+    ],
+    "reason": "The term 'year' is a standard measure of time, commonly used to quantify durations or intervals. It is classified as a 'time unit' in various scientific and practical contexts. Therefore, the type 'time unit' best describes the term 'year' given its contextual usage."
+  },
+  {
+    "id": "TT_da557411",
+    "types": [
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ],
+    "reason": "The term 'Stage IA (FIGO)' refers to a specific staging classification by the International Federation of Gynecology and Obstetrics (FIGO) typically related to gynecologic cancers such as ovarian cancer. The answer aligns with similar instances of FIGO stage specifications provided in the training set examples."
+  },
+  {
+    "id": "TT_65393c3a",
+    "types": [
+      "obsolescence reason specification"
+    ],
+    "reason": "Tar is a format that has largely been replaced by more modern formats for data compression and archival. Therefore, it likely falls under the category of obsolescence reason specification, indicating why a technology might be considered outdated."
+  },
+  {
+    "id": "TT_163f5980",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT2a (ovary)' indicates a specific pathologic primary tumor stage related to ovarian cancer staging, which follows the guidelines of the AJCC 7th edition."
+  },
+  {
+    "id": "TT_ccb5234f",
+    "types": [
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ],
+    "reason": "The term 'Stage 1A (FIGO)' refers to a classification within the International Federation of Gynecology and Obstetrics (FIGO) system, which is used to specify stages of ovarian cancer. FIGO is an international body that provides standardized staging classifications used by healthcare professionals. The choice is based on the context provided by the term 'FIGO' and the reference to a cancer staging system."
+  },
+  {
+    "id": "TT_90fdf1cb",
+    "types": [
+      "organization"
+    ],
+    "reason": "The term 'Advanced Instruments Inc. (AI Companies)' refers to a company's name, indicating its organizational entity status rather than a biomedical term or experimental entity. Thus, it fits as an 'organization' type in this ontology."
+  },
+  {
+    "id": "TT_93c33c2e",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification"
+    ],
+    "reason": "The term 'Stage IIIB (FIGO)' refers to a stage in the International Federation of Gynecology and Obstetrics (FIGO) staging system, commonly used for cervical cancer."
+  },
+  {
+    "id": "TT_2fd89cce",
+    "types": [
+      "substance unit"
+    ],
+    "reason": "The term 'nanomole' refers to a unit of measurement for the amount of substance. In the given ontology list, the type 'substance unit' is the most appropriate designation for this term."
+  },
+  {
+    "id": "TT_e67be5a3",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification"
+    ],
+    "reason": "The term 'Stage IIB (FIGO)' corresponds to the International Federation of Gynecology and Obstetrics (FIGO) staging system, which is used for classifying the stage of cervical cancer."
+  },
+  {
+    "id": "TT_9b926ad9",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ],
+    "reason": "\"pT1b (kidney)\" indicates a specific pathologic primary tumor stage for kidney, aligning with the 7th edition of the AJCC (American Joint Committee on Cancer) staging system."
+  },
+  {
+    "id": "TT_b9588c69",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "The term 'Bruker Corporation' refers to a company that produces scientific instruments, hence it fits the category of 'manufacturer'."
+  },
+  {
+    "id": "TT_ad01c533",
+    "types": [
+      "pathologic distant metastases stage for lung according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pM1b (lung)' refers to a specific stage in the AJCC 7th edition staging system for lung cancer, specifically denoting distant metastasis."
+  },
+  {
+    "id": "TT_9ccf6d5f",
+    "types": [
+      "histologic grade according to AJCC 7th edition"
+    ],
+    "reason": "The term 'G3: Poorly differentiated' refers to a histologic grade, specifically poorly differentiated tumors, which aligns with the histologic grading systems like the AJCC 7th edition used in determining tumor grade."
+  },
+  {
+    "id": "TT_0bc56139",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT1c (ovary)' indicates a specific pathologic primary tumor stage for the ovary, matching the designation used by the AJCC 7th edition, similar to other pathologic primary tumor stages for the ovary previously seen."
+  },
+  {
+    "id": "TT_ed5377fb",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification"
+    ],
+    "reason": "The term 'Stage Unknown (FIGO)' corresponds to a value within the FIGO staging system, which is related to gynecological oncology. Based on the types available which mention the International Federation of Gynecology and Obstetrics, it's reasonable to classify this within the FIGO stage value specification, as it directly matches with an example from the training set labeled similarly."
+  },
+  {
+    "id": "TT_2afe465c",
+    "types": [
+      "material supplier"
+    ],
+    "reason": "Luminex is known as a scientific and medical equipment company, so it can be categorized under 'material supplier' for its role in providing lab and experimental materials."
+  },
+  {
+    "id": "TT_cdedd71b",
+    "types": [
+      "pathologic distant metastases stage for kidney according to AJCC 7th edition"
+    ],
+    "reason": "The term 'cM1 (kidney)' refers to clinical classification of distant metastases stage for kidney cancer, which aligns with the AJCC 7th edition's system for staging cancers, especially in terms of metastasis."
+  },
+  {
+    "id": "TT_cd693ff4",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ],
+    "reason": "Occult carcinoma in the context of AJCC staging is related to tumor staging. Therefore, it aligns with clinical tumor stage groups in the classification system provided by the AJCC, specifically the 7th edition here."
+  },
+  {
+    "id": "TT_d0334c13",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ],
+    "reason": "The term 'Stage IIC (AJCC 7th)' refers to a specific stage grouping according to the AJCC 7th edition. AJCC stands for American Joint Committee on Cancer, which provides standard classifications for describing the extent of cancer spread. Stages typically include Roman numerals with subcategories like 'IIC' that detail specific tumor characteristics, implying it's about clinical staging."
+  },
+  {
+    "id": "TT_cdbdc786",
+    "types": [
+      "pathologic lymph node stage for kidney according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN1 (kidney)' refers to a pathologic lymph node stage classification for kidney cancer, following the 'N' staging in the AJCC system which is specific to lymph node involvement."
+  },
+  {
+    "id": "TT_433908f2",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "Sysmex Corporation is a well-known manufacturer in the biomedical field. Its location in Kobe, Japan supports it as a geographic and organizational reference, which aligns with the term being classified as a 'manufacturer.' Given the potential answers, 'manufacturer' is the most relevant type for an organization associated with production and development in medical technology."
+  },
+  {
+    "id": "TT_2011db40",
+    "types": [
+      "obsolescence reason specification"
+    ],
+    "reason": "The term 'failed exploratory term' is likely used to categorize or label attempts in research that were not fruitful or useful, which fits the description of 'obsolescence reason specification', this categorizes reasons why a term or concept might no longer be relevant or used."
+  },
+  {
+    "id": "TT_084634b3",
+    "types": [
+      "curation status specification"
+    ],
+    "reason": "The term 'metadata incomplete' refers to the status or condition of data. In the ontology, 'curation status specification' matches entities defining statuses related to data management, indicating that the metadata is likely not fully curated or documented."
+  },
+  {
+    "id": "TT_850875ef",
+    "types": [
+      "rate unit"
+    ],
+    "reason": "The term 'count per molar second' is a type of measurement indicating a rate, which is usually categorized under 'rate unit', which aligns with processes involving counts per unit of some other complex measured dimension."
+  },
+  {
+    "id": "TT_c47ba797",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT3a (kidney)' pertains to a specific stage in pathologic primary tumor staging, particularly for the kidney, according to AJCC 7th edition."
+  },
+  {
+    "id": "TT_a1509e48",
+    "types": [
+      "organization"
+    ],
+    "reason": "The term 'organizational term' suggests a classification under types related to organizational structures or entities typically denoted as 'organization.'"
+  },
+  {
+    "id": "TT_fcd2848f",
+    "types": [
+      "volume unit"
+    ],
+    "reason": "The term 'nanoliter' is a measurement of volume, which aligns with the option 'volume unit.' A nanoliter is a unit of volume in the metric system equal to one billionth of a liter."
+  },
+  {
+    "id": "TT_80f3d792",
+    "types": [
+      "pathologic primary tumor stage for kidney according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT1 (kidney)' specifies a primary tumor stage for the kidney, which correlates with the AJCC 7th edition's classification for pathologic primary tumor stages."
+  },
+  {
+    "id": "TT_60e75ce9",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ],
+    "reason": "The term 'Stage IIIC (AJCC 7th)' aligns with the classification system used by the American Joint Committee on Cancer (AJCC) for stages of cancer. It refers to the clinical tumor stage group according to the AJCC 7th edition guidelines."
+  },
+  {
+    "id": "TT_efce7b98",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN2b (colon)' refers to a specific type of pathologic classification relating to lymph node involvement for colon cancer according to the staging guidelines of the AJCC 7th edition. Such terms usually denote stages of cancer involving lymph nodes, and the context aligns with the provided type."
+  },
+  {
+    "id": "TT_43c5fb24",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ],
+    "reason": "The pattern 'pTn (organ)' usually refers to the AJCC pathologic primary tumor stage for that specific organ. Here, 'pT2 (ovary)' matches the format for a pathologic primary tumor stage classification for the ovary according to AJCC standards."
+  },
+  {
+    "id": "TT_b05448bd",
+    "types": [
+      "volume unit"
+    ],
+    "reason": "A milliliter is a unit of volume commonly used in the metric system, thus classified as a 'volume unit'."
+  },
+  {
+    "id": "TT_91c750a8",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ],
+    "reason": "The term '4: bed ridden' is indicative of a performance status often used in clinical settings, such as the Eastern Cooperative Oncology Group (ECOG) score, to evaluate the functioning and ability of patients to care for themselves. ECOG score of 4 means the patient is completely disabled, unable to carry on any self-care, and totally confined to bed or chair."
+  },
+  {
+    "id": "TT_83dd02db",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT2b (lung)' is related to the pathologic classification of primary tumors in lung cancer according to the AJCC 7th edition staging system, as it follows the pattern of specifying stages for tumors in the context of a particular organ, in this case, the lung."
+  },
+  {
+    "id": "TT_0039c388",
+    "types": [
+      "volume unit"
+    ],
+    "reason": "The term 'volume percentage' implies a measurement related to volume, suggesting it belongs to a unit of volume."
+  },
+  {
+    "id": "TT_31d42069",
+    "types": [
+      "data format specification"
+    ],
+    "reason": "'Gating-ML' is likely related to Markup Language used in data processing or formatting, hence it aligns with 'data format specification'."
+  },
+  {
+    "id": "TT_18e34e9c",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ],
+    "reason": "The term 'cM1a (colon)' refers to a clinical designation for distant metastases stage (M1a) specifically for colon cancer, according to staging systems like AJCC."
+  },
+  {
+    "id": "TT_4df6ebf6",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ],
+    "reason": "The term 'cM1 (colon)' likely refers to a specific pathologic stage indicating metastasis in colon cancer, corresponding to the AJCC staging system's category for distant metastases (M1)."
+  },
+  {
+    "id": "TT_8fc89d82",
+    "types": [
+      "pathologic primary tumor stage for lung according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT1 (lung)' indicates a pathologic primary tumor stage specific to the lung, classifying it as per the AJCC 7th edition, which provides standardized tumor staging guidelines."
+  },
+  {
+    "id": "TT_121bebb2",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ],
+    "reason": "The term 'Stage 0 (AJCC 7th)' refers to a cancer stage classification, specifically related to the American Joint Committee on Cancer (AJCC) 7th edition. 'Stage 0' is part of the clinical tumor staging group provided by AJCC, categorizing the progression of tumors in patients."
+  },
+  {
+    "id": "TT_acb30e3a",
+    "types": [
+      "volume unit"
+    ],
+    "reason": "The term 'microliter' is a unit of measurement for volume, commonly used in scientific and biomedical contexts for measuring liquid quantities. It aligns with the type 'volume unit' in the ontology as it describes a metric measure of volume, specifically one millionth of a liter."
+  },
+  {
+    "id": "TT_ced2dffc",
+    "types": [
+      "organization"
+    ],
+    "reason": "The U.S. Food and Drug Administration is a government agency responsible for protecting public health by ensuring the safety and efficacy of drugs, biological products, and medical devices, categorizing it as an 'organization.'"
+  },
+  {
+    "id": "TT_5cfcfb4b",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ],
+    "reason": "The term '2: symptomatic but in bed less than 50% of the day' aligns with the scoring criteria of performance status scales used in oncology, particularly the Eastern Cooperative Oncology Group (ECOG) score. This scale evaluates how a disease impacts a patient's daily living abilities and ranges from 0 to 5, with this description fitting the description for a score of 2."
+  },
+  {
+    "id": "TT_3f3c582e",
+    "types": [
+      "obsolescence reason specification"
+    ],
+    "reason": "The term 'terms merged' implies that it is a status or reason related to the merging or obsolescence of terms, indicating it belongs to an 'obsolescence reason specification'."
+  },
+  {
+    "id": "TT_ebe87765",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN1c (colon)' indicates a specific nodal classification for colon cancer according to the AJCC staging system, thus it relates to the 'pathologic lymph node stage for colon and rectum according to AJCC 7th edition'."
+  },
+  {
+    "id": "TT_3b85bb65",
+    "types": [
+      "pathologic distant metastases stage for ovary according to AJCC 7th edition"
+    ],
+    "reason": "The term 'cM1 (ovary)' refers to a clinical classification stage indicating the presence of distant metastases in ovarian cancer, as per AJCC guidelines. This aligns with the 'pathologic distant metastases stage for ovary according to AJCC 7th edition', which describes the spread of cancer beyond the primary organ."
+  },
+  {
+    "id": "TT_74c463fc",
+    "types": [
+      "curation status specification"
+    ],
+    "reason": "The term 'pending final vetting' is indicative of a status indicating that something is awaiting final review or approval, aligning with 'curation status specification' which involves the categorization or status update within data management processes."
+  },
+  {
+    "id": "TT_cd20bf04",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification"
+    ],
+    "reason": "The term 'Stage 1B (FIGO)' refers to a classification in the FIGO staging system, which is used for staging gynecological cancers, including cervical cancer."
+  },
+  {
+    "id": "TT_9848d593",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ],
+    "reason": "The term '80-90: symptomatic but fully ambulatory' describes a health performance score, which aligns with the Eastern Cooperative Oncology Group (ECOG) performance status. It is a commonly used measure to assess the functional status of a patient in oncology."
+  },
+  {
+    "id": "TT_049df733",
+    "types": [
+      "GenePattern software"
+    ],
+    "reason": "The term 'GenePattern module HierarchicalClustering' implies a software module under the GenePattern toolkit, which is a software suite for genomic analysis, hence matching 'GenePattern software.'"
+  },
+  {
+    "id": "TT_f404121d",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "The term 'Illumina' is recognized as a company known for providing sequencing technologies, making it a manufacturer in the biomedical field."
+  },
+  {
+    "id": "TT_d45eb816",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "Partec is known to be a manufacturer or supplier of laboratory and analytic equipment, making it consistent with the 'manufacturer' type."
+  },
+  {
+    "id": "TT_2fa33051",
+    "types": [
+      "denotator type"
+    ],
+    "reason": "The term 'right handed' refers to a personal attribute or characteristic describing a preference for using the right hand in activities. It fits the description of 'denotator type' as it classifies a specific human trait or feature."
+  },
+  {
+    "id": "TT_2cb446e6",
+    "types": [
+      "organization"
+    ],
+    "reason": "ACS typically stands for 'American Cancer Society', which is an organization. Among the provided ontology types, 'organization' fits the best."
+  },
+  {
+    "id": "TT_eec8e57b",
+    "types": [
+      "time unit"
+    ],
+    "reason": "The term 'hour' is a standard unit of time, commonly used in everyday language and scientific contexts to measure the duration of time. It fits the category of 'time unit' as per the possible answers provided."
+  },
+  {
+    "id": "TT_81deaaf0",
+    "types": [
+      "clinical tumor stage group according to AJCC 7th edition"
+    ],
+    "reason": "The term 'Stage IIA (AJCC 7th)' corresponds to a categorization used in the classification of tumors, which fits under 'clinical tumor stage group according to AJCC 7th edition' as it's part of the clinical staging system."
+  },
+  {
+    "id": "TT_fafe3ddf",
+    "types": [
+      "Eastern Cooperative Oncology Group score value specification"
+    ],
+    "reason": "The term '0: asymptomatic' corresponds to a classification within a score value system, typically indicating a specific health status. The Eastern Cooperative Oncology Group (ECOG) score evaluates performance status including asymptomatic conditions, thus aligning with this classification."
+  },
+  {
+    "id": "TT_afb73856",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ],
+    "reason": "The pattern 'pM1' indicates a pathologic distant metastasis stage. The term specifies 'colon', making the correct type 'pathologic distant metastases stage for colon according to AJCC 7th edition'."
+  },
+  {
+    "id": "TT_3831734a",
+    "types": [
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ],
+    "reason": "The term 'Stage 4 (FIGO)' refers to a classification in the FIGO staging system, which is used internationally for staging ovarian cancer according to the International Federation of Gynecology and Obstetrics."
+  },
+  {
+    "id": "TT_b1d25f4b",
+    "types": [
+      "GenePattern software"
+    ],
+    "reason": "GenePattern is a software platform for integrative genomic analysis, and 'PeakMatch' is a module within GenePattern. Thus, 'GenePattern module PeakMatch' fits under the 'GenePattern software' type, similar to other GenePattern module categorizations, as seen in the training example with 'GenePattern module KMeansClustering' annotated with this type."
+  },
+  {
+    "id": "TT_e2231f84",
+    "types": [
+      "clustered data visualization"
+    ],
+    "reason": "The term 'GenePattern HierarchicalClusteringViewer data visualization' relates to visualizing clustered data, making 'clustered data visualization' the most suitable category from the provided options."
+  },
+  {
+    "id": "TT_b3dc9f32",
+    "types": [
+      "rate unit"
+    ],
+    "reason": "The term 'microliters per minute' describes a unit of measurement indicating how many microliters are moved or processed in one minute, fitting the definition of a 'rate unit' which combines volume per time."
+  },
+  {
+    "id": "TT_d7b3544b",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN1b (colon)' indicates a specific pathologic lymph node stage. In the context of cancer staging, 'pN' refers to pathologic assessment of lymph nodes, and 'colon' specifies the type of cancer. The AJCC 7th edition provides detailed classification for colon and rectum cancer staging, making 'pathologic lymph node stage for colon and rectum according to AJCC 7th edition' the correct type."
+  },
+  {
+    "id": "TT_d6dcaedc",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "'AES Chemunex' is likely a manufacturing company or entity related to biomedical research or equipment supply, hence the type 'manufacturer'."
+  },
+  {
+    "id": "TT_1be9b5b1",
+    "types": [
+      "pathologic lymph node stage for lung according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN1 (lung)' refers to a specific pathologic lymph node stage for lung cancer as per the AJCC classification."
+  },
+  {
+    "id": "TT_ea731405",
+    "types": [
+      "GenePattern software"
+    ],
+    "reason": "The term 'GenePattern peak matching' suggests a computational function within the GenePattern software suite. Since 'GenePattern software' is the only option related to the GenePattern tool, this type is the closest match."
+  },
+  {
+    "id": "TT_fcf479b0",
+    "types": [
+      "temperature unit"
+    ],
+    "reason": "The term 'degree Fahrenheit' refers to a unit of temperature measurement, which aligns with the answer 'temperature unit' from the provided list of possible types."
+  },
+  {
+    "id": "TT_ba88c0c2",
+    "types": [
+      "International Federation of Gynecology and Obstetrics cervical cancer stage value specification"
+    ],
+    "reason": "The term 'Stage IB (FIGO)' refers to a specific stage in the International Federation of Gynecology and Obstetrics (FIGO) staging system, which is used for gynecological cancers including cervical cancer. Since FIGO is the organization responsible for these stages, 'Stage IB' matches the classification for cervical cancer in their system."
+  },
+  {
+    "id": "TT_e5315cd9",
+    "types": [
+      "International Federation of Gynecology and Obstetrics ovarian cancer stage value specification"
+    ],
+    "reason": "The term 'Stage 2C (FIGO)' refers to a staging system from the International Federation of Gynecology and Obstetrics (FIGO), specific to ovarian cancer. FIGO stages are internationally recognized for classifying cancer severity in gynecology."
+  },
+  {
+    "id": "TT_ed4e48b5",
+    "types": [
+      "histologic grade according to AJCC 7th edition"
+    ],
+    "reason": "The term 'G3 (WHO)' likely refers to a histologic grade system. 'G3' suggests a grade within a classification, and WHO is the World Health Organization. This links to histologic grading, which aligns with AJCC's grading systems."
+  },
+  {
+    "id": "TT_f8bc4ca1",
+    "types": [
+      "manufacturer"
+    ],
+    "reason": "'Dako Cytomation' refers to a company known for manufacturing research and diagnostic tools in the fields of pathology and clinical diagnostics, thus it fits under the category of 'manufacturer.'"
+  },
+  {
+    "id": "TT_95daf138",
+    "types": [
+      "histologic grade according to AJCC 7th edition"
+    ],
+    "reason": "The term 'G4: Undifferentiated' indicates a high grade level commonly used in histologic grading of tumors. This aligns with the 'histologic grade according to AJCC 7th edition' as it matches the context of tumor grading systems."
+  },
+  {
+    "id": "TT_77002ba2",
+    "types": [
+      "pathologic primary tumor stage for ovary according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pT3 (ovary)' is identified as a pathologic primary tumor stage for the ovary, consistent with terminologies used in the AJCC 7th edition for tumor staging."
+  },
+  {
+    "id": "TT_a878ad94",
+    "types": [
+      "histologic grade according to the Fuhrman Nuclear Grading System"
+    ],
+    "reason": "The term 'G2 (Fuhrman)' refers to a grade used in the Fuhrman Nuclear Grading System, which is a histologic grading system."
+  },
+  {
+    "id": "TT_cb7b354a",
+    "types": [
+      "GenePattern software"
+    ],
+    "reason": "The term 'GenePattern SVM' corresponds to a module or tool within the GenePattern software suite, specifically related to Support Vector Machine (SVM) methods, thus classified under 'GenePattern software'. GenePattern provides computational tools for analysis, and naming follows its structure."
+  },
+  {
+    "id": "TT_4dc447c1",
+    "types": [
+      "pathologic lymph node stage for colon and rectum according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pN2 (colon)' refers to the pathologic lymph node staging for colon, and AJCC 7th edition provides guidelines for this. Based on the provided options, 'pathologic lymph node stage for colon and rectum according to AJCC 7th edition' matches this classification."
+  },
+  {
+    "id": "TT_bb059332",
+    "types": [
+      "GenePattern software"
+    ],
+    "reason": "The term 'GenePattern module PCA' suggests a software module within the GenePattern suite, specifically related to Principal Components Analysis (PCA). Since PCA is a method for data analysis, the appropriate ontology type is 'GenePattern software', as GenePattern provides modules for bioinformatics analysis, including PCA."
+  },
+  {
+    "id": "TT_f3dcf0ad",
+    "types": [
+      "pathologic distant metastases stage for colon according to AJCC 7th edition"
+    ],
+    "reason": "The term 'pM1b (colon)' refers to a stage in the AJCC cancer staging system specifying a form of pathologic distant metastasis in colon cancer."
+  }
+]

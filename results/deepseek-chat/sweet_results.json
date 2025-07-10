@@ -1,0 +1,4385 @@
+[
+  {
+    "id": "TT_7e817a15",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'migrating' refers to a biological behavior, fitting the 'biological role' type."
+  },
+  {
+    "id": "TT_d9f667fc",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Sulfur oxide is a type of inorganic compound, as it consists of sulfur and oxygen, which are nonmetals."
+  },
+  {
+    "id": "TT_6135b3e1",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'pitch' can refer to a viscous substance, which is a physical state."
+  },
+  {
+    "id": "TT_354827c9",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'berriasian' refers to a geological epoch in the Early Cretaceous period."
+  },
+  {
+    "id": "TT_9a8c04ca",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "The term 'c2h6o' refers to a chemical formula, specifically ethanol, which is classified as an organic compound."
+  },
+  {
+    "id": "TT_f9b19c79",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Darriwilian is a stage in the geologic timescale, which falls under the category of epoch."
+  },
+  {
+    "id": "TT_63262db4",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "Copper is classified as a transition metal in the periodic table."
+  },
+  {
+    "id": "TT_2e260457",
+    "types": [
+      "isotope"
+    ],
+    "reason": "Th230 is an isotope of thorium, commonly used in geological dating."
+  },
+  {
+    "id": "TT_d1522284",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'low' is commonly used to describe levels or states, such as activity levels in environmental contexts."
+  },
+  {
+    "id": "TT_53fa014e",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'violent' describes an extreme level of activity, fitting the 'activity level' category."
+  },
+  {
+    "id": "TT_879093fb",
+    "types": [
+      "b class"
+    ],
+    "reason": "The term 'b3 class' is a subclass of 'b class' in the context of spectral classification."
+  },
+  {
+    "id": "TT_3eb51fd2",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'nad2' is likely related to biological or biochemical roles, such as a gene or enzyme."
+  },
+  {
+    "id": "TT_551a76a9",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'minor' is often used to describe a secondary or less significant role in various contexts."
+  },
+  {
+    "id": "TT_e492e0a2",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'per second squared' is a derived unit representing acceleration, which is derived by scaling the base unit of time."
+  },
+  {
+    "id": "TT_353baff5",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '150.8mya' refers to a time measurement in millions of years ago, which aligns with the 'age' type in the ontology."
+  },
+  {
+    "id": "TT_0bf392df",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'pollinated' refers to a biological process involving the transfer of pollen, which is a biological role."
+  },
+  {
+    "id": "TT_2a177d49",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'subaqueous' refers to something existing, formed, or taking place underwater, which aligns with the concept of a fluid state in environmental science."
+  },
+  {
+    "id": "TT_79e6e8f3",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Carbonyl sulfide is a chemical compound consisting of carbon, oxygen, and sulfur, fitting the definition of an inorganic compound."
+  },
+  {
+    "id": "TT_3d62f841",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'month' refers to a unit of time, fitting the 'time frame' category."
+  },
+  {
+    "id": "TT_37299a2d",
+    "types": [
+      "magnetic pole"
+    ],
+    "reason": "The term 'south pole' refers to one of the Earth's magnetic poles, a key concept in geomagnetic studies."
+  },
+  {
+    "id": "TT_a6f221ec",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Rhaetian' refers to a geological epoch in the Triassic period."
+  },
+  {
+    "id": "TT_b8e6880d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'terreneuvian' refers to a specific epoch in geological time."
+  },
+  {
+    "id": "TT_17b968f2",
+    "types": [
+      "conduction role"
+    ],
+    "reason": "The term 'conductor' refers to a role in conduction, aligning with the 'conduction role' type in the provided list."
+  },
+  {
+    "id": "TT_d62f61ff",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'propellant' refers to a substance used to propel objects, which aligns with the 'chemical role' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_a2d62c2b",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'earth atmosphere mesoscale' refers to a specific scale in the Earth's atmosphere, which is categorized under spatial scale in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ef6b368f",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "The term 'hclo4' refers to perchloric acid, which is classified as an inorganic acid in chemistry."
+  },
+  {
+    "id": "TT_78dca7c3",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x49 class' is a variation of 'x class', which is a known classification in the given ontology."
+  },
+  {
+    "id": "TT_3a87c4f0",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'inhibitor' refers to a substance that slows down or prevents a chemical reaction, fitting the 'chemical role' category."
+  },
+  {
+    "id": "TT_e432bce3",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Piacenzian is a geological epoch within the Neogene period."
+  },
+  {
+    "id": "TT_0a6e5fcc",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'positive' can represent a binary state in various contexts, such as testing or conditions."
+  },
+  {
+    "id": "TT_f809eb1b",
+    "types": [
+      "isotope"
+    ],
+    "reason": "Th234 is an isotope of thorium, commonly referenced in environmental and earth sciences."
+  },
+  {
+    "id": "TT_03db7b11",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "An oxidizer is a substance that facilitates oxidation, fitting the 'chemical role' category."
+  },
+  {
+    "id": "TT_03ced6f3",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'uphill' describes a direction, specifically the upward slope or incline."
+  },
+  {
+    "id": "TT_8555a64f",
+    "types": [
+      "halogen"
+    ],
+    "reason": "Bromine is a halogen element in the periodic table."
+  },
+  {
+    "id": "TT_54c60e59",
+    "types": [
+      "distance"
+    ],
+    "reason": "The term 'nearby' implies a spatial or distance-related concept, fitting the 'distance' type."
+  },
+  {
+    "id": "TT_5b035ac1",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The solar constant is a measure of the solar electromagnetic radiation received per unit area outside Earth's atmosphere."
+  },
+  {
+    "id": "TT_e51f0b7f",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term '5day' refers to a time frame, which aligns with the 'duration' type in the ontology."
+  },
+  {
+    "id": "TT_6fdd769f",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "Infrared refers to a specific range of the electromagnetic spectrum, commonly used in earth and environmental science."
+  },
+  {
+    "id": "TT_e6f7c502",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'n14' refers to nitrogen-14, which is an isotope of nitrogen."
+  },
+  {
+    "id": "TT_0ccea7c2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Artinskian is a geological epoch in the Permian period."
+  },
+  {
+    "id": "TT_8d61a931",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term '10year' refers to a time frame, which aligns with the 'duration' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_812f901a",
+    "types": [
+      "geomagnetic field"
+    ],
+    "reason": "The term 'igrf' refers to the International Geomagnetic Reference Field, which is a model of Earth's geomagnetic field."
+  },
+  {
+    "id": "TT_ed9c0294",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'ka band' refers to a specific range of frequencies in the electromagnetic spectrum, commonly used in satellite communication and radar."
+  },
+  {
+    "id": "TT_444cb580",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'acute' is often used to describe a role or condition, fitting the 'role' category in the ontology."
+  },
+  {
+    "id": "TT_d2e459a3",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "A solute is a substance dissolved in a solvent, representing a chemical state."
+  },
+  {
+    "id": "TT_9ef9897d",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "The term 'hclo4' refers to perchloric acid, which is classified as an inorganic acid."
+  },
+  {
+    "id": "TT_38b88834",
+    "types": [
+      "b class"
+    ],
+    "reason": "The term 'b7 class' is a variation of 'b class', which is a spectral classification in astronomy."
+  },
+  {
+    "id": "TT_386ec02d",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Acenaphthene is a polycyclic aromatic hydrocarbon, fitting the 'hydrocarbon' type."
+  },
+  {
+    "id": "TT_2ad655c1",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'equatorial' refers to a direction related to the equator, fitting the 'direction' type in the ontology."
+  },
+  {
+    "id": "TT_b20cb478",
+    "types": [
+      "b class"
+    ],
+    "reason": "The term 'b8 class' is a variation of 'b class', which is a spectral classification for stars."
+  },
+  {
+    "id": "TT_93b9b2bb",
+    "types": [
+      "degree minute second"
+    ],
+    "reason": "The term 'dms' commonly refers to the degree-minute-second system used for representing geographic coordinates."
+  },
+  {
+    "id": "TT_6704bb92",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "The term 'beaufort10' refers to a level on the Beaufort scale, which measures wind force."
+  },
+  {
+    "id": "TT_0d8981ec",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '23.03mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_884318b1",
+    "types": [
+      "temperature range"
+    ],
+    "reason": "The term 'tepid' refers to a moderate or lukewarm temperature, fitting the 'temperature range' category."
+  },
+  {
+    "id": "TT_d67b8385",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The term describes a unit of electromagnetic radiation intensity."
+  },
+  {
+    "id": "TT_b799d051",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'tropical rain forest climate' is associated with a climate type characterized by high rainfall and consistent temperatures, fitting the 'wet summer dry winter climate' category."
+  },
+  {
+    "id": "TT_c266fa07",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'extraordinary' is a descriptor often used to denote a special or exceptional role or status."
+  },
+  {
+    "id": "TT_bee9eb1d",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '0.126mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_97b30e0d",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'steric' refers to properties related to the volume or density of fluids, which is a fluid property."
+  },
+  {
+    "id": "TT_38156029",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'robust' is commonly used to describe a role or characteristic in various contexts, including environmental science."
+  },
+  {
+    "id": "TT_14debe7d",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'millennium' refers to a period of 1000 years, which fits the 'time frame' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_4f9963fb",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'incomplete' suggests a state or role, fitting the 'role' category in the ontology."
+  },
+  {
+    "id": "TT_0ea60382",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'enrich' is commonly associated with chemical processes, such as enriching a substance with a particular element or compound."
+  },
+  {
+    "id": "TT_93235603",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Hydrogen cyanide is a chemical compound consisting of hydrogen and cyanide, classified as an inorganic compound."
+  },
+  {
+    "id": "TT_8c4570cc",
+    "types": [
+      "prefix"
+    ],
+    "reason": "The term 'nano' is commonly used as a prefix denoting a factor of one billionth."
+  },
+  {
+    "id": "TT_518ce6c4",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "Methanoic acid is a type of inorganic acid."
+  },
+  {
+    "id": "TT_830d57b3",
+    "types": [
+      "frequency"
+    ],
+    "reason": "The term 'semi diurnal' refers to a frequency, specifically occurring twice daily."
+  },
+  {
+    "id": "TT_a04cec09",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'meter cubed' refers to a unit of volume derived by multiplying three lengths, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_18353a89",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'stenian' refers to a geological epoch within the Proterozoic eon."
+  },
+  {
+    "id": "TT_3a11961a",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "NetCDF3 is a self-describing data format commonly used in earth and environmental sciences for storing multidimensional data."
+  },
+  {
+    "id": "TT_d336960f",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'composite' refers to a material made from two or more constituent materials with different physical or chemical properties."
+  },
+  {
+    "id": "TT_b5a3b61a",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'meter cubed per kilogram' is a derived unit representing volume per unit mass, which fits the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_e8bdbb83",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The term 'retardation factor' is commonly used in environmental science to describe a dimensionless ratio related to solute transport in porous media."
+  },
+  {
+    "id": "TT_c2252590",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "CH3COOH is acetic acid, which is an organic compound."
+  },
+  {
+    "id": "TT_650c1dd0",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'Precambrian' refers to a major division of geological time, which is classified as an 'eon' in the geological timescale."
+  },
+  {
+    "id": "TT_dffacd35",
+    "types": [
+      "isotope"
+    ],
+    "reason": "U238 refers to Uranium-238, which is a specific isotope of uranium."
+  },
+  {
+    "id": "TT_1ab8036c",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'sinusoidal' describes a wave-like shape, fitting the 'shape' category."
+  },
+  {
+    "id": "TT_e2be01a5",
+    "types": [
+      "saffir simpson scale"
+    ],
+    "reason": "The term 'category2' is likely referring to a category in the Saffir-Simpson hurricane wind scale, which is used to classify hurricanes."
+  },
+  {
+    "id": "TT_65d03cef",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'explicit' is associated with clarity or trustworthiness in communication."
+  },
+  {
+    "id": "TT_e815787c",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'uncertainty' aligns with the concept of trust or confidence levels in environmental science."
+  },
+  {
+    "id": "TT_76cbacc3",
+    "types": [
+      "habitat"
+    ],
+    "reason": "The term 'underwater' refers to a specific environment or habitat, often associated with aquatic ecosystems."
+  },
+  {
+    "id": "TT_be543083",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'secular' often refers to long-term or non-religious time frames, fitting the context of earth and environmental science."
+  },
+  {
+    "id": "TT_b7d86443",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'fnu' is commonly associated with spectral flux density units, which relate to spectral bands."
+  },
+  {
+    "id": "TT_c04f30ec",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The term 'electronic' relates to electromagnetic phenomena."
+  },
+  {
+    "id": "TT_9de88d2d",
+    "types": [
+      "format"
+    ],
+    "reason": "ASCII is a character encoding standard, which falls under the category of format."
+  },
+  {
+    "id": "TT_28165e62",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'halosteric' relates to the properties of fluids, specifically salinity and density effects in oceanography."
+  },
+  {
+    "id": "TT_23e91c8f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Ludlow' refers to a geological epoch within the Silurian period."
+  },
+  {
+    "id": "TT_f4a40e4d",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'indicator' is commonly used to denote a role in environmental and scientific contexts, such as indicating a condition or state."
+  },
+  {
+    "id": "TT_4f1c6fe7",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Drumian is a stage in the geologic timescale, specifically an epoch within the Cambrian period."
+  },
+  {
+    "id": "TT_f6dc9c6e",
+    "types": [
+      "angular direction"
+    ],
+    "reason": "Zenith refers to the point in the sky directly above an observer, which is an angular direction."
+  },
+  {
+    "id": "TT_dd1b75bf",
+    "types": [
+      "geosphere"
+    ],
+    "reason": "The term 'geological' refers to the study of the Earth's solid materials, which aligns with the 'geosphere' concept in the SWEET Ontology."
+  },
+  {
+    "id": "TT_f925045b",
+    "types": [
+      "representative role"
+    ],
+    "reason": "The term 'representative' aligns with the concept of a role in the SWEET Ontology."
+  },
+  {
+    "id": "TT_293f559e",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'k41' is likely an isotope of potassium (K), as it follows the naming convention for isotopes (element symbol followed by mass number)."
+  },
+  {
+    "id": "TT_ffe53db9",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x2 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_3ad9cee4",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The term 'earth troposphere' refers to the lowest layer of the Earth's atmosphere."
+  },
+  {
+    "id": "TT_7cec8bfd",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower imbrian' refers to a geological epoch."
+  },
+  {
+    "id": "TT_ad17cba3",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "The term refers to a legal framework governing marine life, fitting the 'environmental law' category."
+  },
+  {
+    "id": "TT_fd2cb425",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'meter per second' is a derived unit of speed or velocity in the International System of Units (SI)."
+  },
+  {
+    "id": "TT_136ee6bc",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Ferroelectric refers to a state of matter with spontaneous electric polarization."
+  },
+  {
+    "id": "TT_8f582671",
+    "types": [
+      "distance"
+    ],
+    "reason": "The term 'near' typically refers to a spatial or distance-related concept, fitting the 'distance' type in the ontology."
+  },
+  {
+    "id": "TT_e31c1951",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'untrusted' relates to the concept of trust, which is a category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_f34384ab",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'joule per meter squared' represents a derived unit formed by the product of joule and meter squared, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_0ed0295a",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'dead' refers to a state of biological organisms, indicating the cessation of life."
+  },
+  {
+    "id": "TT_34b2d975",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'brittle' refers to a physical state of matter, specifically a property of materials that fracture under stress."
+  },
+  {
+    "id": "TT_4bef7005",
+    "types": [
+      "unit"
+    ],
+    "reason": "Pascal is a unit of pressure in the International System of Units (SI)."
+  },
+  {
+    "id": "TT_99e68702",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'ordovician' refers to a geological epoch in the Paleozoic era."
+  },
+  {
+    "id": "TT_433a6162",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x4 class' is a variation of 'x class', which is a known spectral classification in astronomy."
+  },
+  {
+    "id": "TT_0f9b8039",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '374.5mya' refers to a geological time measurement, likely indicating an epoch."
+  },
+  {
+    "id": "TT_839d6369",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'per tesla' suggests a derived unit scaled by the tesla, a unit of magnetic flux density."
+  },
+  {
+    "id": "TT_80eb0b14",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'imbricated' refers to an overlapping arrangement, often used in geological contexts, which aligns with 'spatial configuration'."
+  },
+  {
+    "id": "TT_9627d0c1",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'arched' describes a form or configuration, which aligns with the 'shape' category in the ontology."
+  },
+  {
+    "id": "TT_f367c52e",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'tonian' refers to a geological time scale division, specifically an eon."
+  },
+  {
+    "id": "TT_ab07d5e8",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term 'hour' refers to a unit of time, which falls under the category of duration."
+  },
+  {
+    "id": "TT_1bc143e7",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x47 class' follows the naming pattern of spectral classes, which are categorized under 'x class' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_8a7f0d7c",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'radian per second' is a derived unit representing angular velocity, which fits the category of units derived by scaling."
+  },
+  {
+    "id": "TT_f75b0090",
+    "types": [
+      "reference frame"
+    ],
+    "reason": "The term 'robinson' refers to the Robinson projection, a type of map projection, which is a reference frame in geospatial contexts."
+  },
+  {
+    "id": "TT_a0dc5361",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'binder' is commonly associated with a chemical role, as it refers to a substance that holds materials together."
+  },
+  {
+    "id": "TT_f5d80214",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'middle ordovician' refers to a specific time division in the geologic timescale, which is classified as an epoch."
+  },
+  {
+    "id": "TT_0c882d10",
+    "types": [
+      "magnetic pole"
+    ],
+    "reason": "The term 'north pole' refers to a magnetic pole, specifically the Earth's northern magnetic pole."
+  },
+  {
+    "id": "TT_551094cc",
+    "types": [
+      "cfc"
+    ],
+    "reason": "CFC114 is a type of chlorofluorocarbon (CFC), which is a category of organic compounds."
+  },
+  {
+    "id": "TT_c6262816",
+    "types": [
+      "great circle"
+    ],
+    "reason": "The equator is a specific example of a great circle on Earth."
+  },
+  {
+    "id": "TT_8b290782",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '311.7mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_d807c3f9",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x30 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_386ec924",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Rhuddanian is a term referring to a specific geological epoch."
+  },
+  {
+    "id": "TT_8079a887",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "The term 'metallic' is associated with transition metals in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_a59ba01f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'pliensbachian' refers to a specific geological epoch within the Jurassic period."
+  },
+  {
+    "id": "TT_432d65d3",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'contributor' implies a role or function in a context, fitting the 'role' category."
+  },
+  {
+    "id": "TT_35848db2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'nectarian' refers to a geological epoch in the Moon's history."
+  },
+  {
+    "id": "TT_ebdf34c3",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'level' is commonly associated with activity levels in environmental contexts."
+  },
+  {
+    "id": "TT_1dbfa101",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'selandian' refers to a geological epoch within the Paleocene epoch."
+  },
+  {
+    "id": "TT_3edea2ca",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '93.6mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_777105aa",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "C3H8 is a hydrocarbon, specifically propane, which fits the hydrocarbon category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_f70ab457",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "Chromium is classified as a transition metal in the periodic table."
+  },
+  {
+    "id": "TT_7a45e8bb",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Silicate is a type of inorganic compound commonly found in minerals and rocks."
+  },
+  {
+    "id": "TT_35ba8e5b",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '2800mya' refers to a geological age, specifically 2800 million years ago."
+  },
+  {
+    "id": "TT_ec64041e",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The term 'light' refers to a form of electromagnetic radiation, fitting the 'electromagnetic quantity' type."
+  },
+  {
+    "id": "TT_b42a538a",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term 'short' is commonly associated with a measure of time or duration."
+  },
+  {
+    "id": "TT_0532c3cf",
+    "types": [
+      "conduction role"
+    ],
+    "reason": "The term 'conduit' refers to a role in conduction, often used in environmental or geological contexts."
+  },
+  {
+    "id": "TT_06e0a9c2",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'joule per kelvin' represents a derived unit formed by the product of joule and kelvin, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_7f00cf84",
+    "types": [
+      "physical constant"
+    ],
+    "reason": "The von Karman constant is a dimensionless constant used in fluid dynamics, fitting the 'physical constant' category."
+  },
+  {
+    "id": "TT_90a49eb6",
+    "types": [
+      "impact"
+    ],
+    "reason": "The term 'disaster' refers to a significant negative event, aligning with the concept of 'impact' in environmental science."
+  },
+  {
+    "id": "TT_0c440bac",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'saturated' is commonly used to describe a fluid state where no more solute can be dissolved."
+  },
+  {
+    "id": "TT_d427d188",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'forage' refers to the act of searching for food, which aligns with a biological role in ecosystems."
+  },
+  {
+    "id": "TT_a109007e",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen."
+  },
+  {
+    "id": "TT_f04682e8",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'elastic' refers to a physical property or state of matter, often describing materials that can return to their original shape after deformation."
+  },
+  {
+    "id": "TT_536e1c01",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'flat' refers to a geometric shape or form."
+  },
+  {
+    "id": "TT_50c80693",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'uninterrupted' implies a state of continuity or lack of interruption, fitting the 'binary state' category."
+  },
+  {
+    "id": "TT_a06614de",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'cryptic' implies uncertainty or hidden meaning, aligning with the 'trust' category."
+  },
+  {
+    "id": "TT_23f84dcf",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "The term 'eutrophic' refers to a state of water bodies rich in nutrients, which is a biochemical condition."
+  },
+  {
+    "id": "TT_95cdaebc",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'gentle' is often used to describe a low or moderate level of activity or intensity, fitting the 'activity level' category."
+  },
+  {
+    "id": "TT_ab4a1d2a",
+    "types": [
+      "format"
+    ],
+    "reason": "The term 'xls' refers to a file format commonly used for spreadsheets, which fits under the 'format' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_8b4cdf58",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'west' refers to a cardinal direction, which is a horizontal direction in the context of spatial reference."
+  },
+  {
+    "id": "TT_8d61c5c2",
+    "types": [
+      "impact"
+    ],
+    "reason": "A stressor is an agent or factor that causes stress or impact on a system, often used in environmental science."
+  },
+  {
+    "id": "TT_01c7707e",
+    "types": [
+      "physical constant"
+    ],
+    "reason": "The term 'sigma' is commonly used to represent a physical constant in various scientific contexts."
+  },
+  {
+    "id": "TT_73209875",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Crystal structure refers to the arrangement of atoms in a solid material, which is a physical state."
+  },
+  {
+    "id": "TT_5c033064",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "The term 'hdfeos2' refers to a format used in Earth science data, specifically the HDF-EOS2 format, which is self-describing."
+  },
+  {
+    "id": "TT_51efe021",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x21 class' is a variation of the 'x class' category, which is listed as a possible answer."
+  },
+  {
+    "id": "TT_cdf9829d",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'sharp' is often used as a qualifier to describe attributes or conditions."
+  },
+  {
+    "id": "TT_a5a76e1f",
+    "types": [
+      "representative role"
+    ],
+    "reason": "The term 'total' is often used to represent a sum or aggregate, fitting the 'representative role' category."
+  },
+  {
+    "id": "TT_d9978a79",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "Anoxia refers to the absence of oxygen, which is a biochemical condition affecting biological systems."
+  },
+  {
+    "id": "TT_4722ce3e",
+    "types": [
+      "geosphere"
+    ],
+    "reason": "The term 'earth ionosphere' refers to a layer of the Earth's atmosphere, which is part of the geosphere."
+  },
+  {
+    "id": "TT_7ba31ed5",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'calm' refers to a state of matter, specifically a fluid state with minimal motion."
+  },
+  {
+    "id": "TT_9af56f67",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '253.8mya' refers to a geological age, specifically 253.8 million years ago."
+  },
+  {
+    "id": "TT_abb2e0e5",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '445.6mya' refers to a geological age, specifically 445.6 million years ago."
+  },
+  {
+    "id": "TT_ecb9fcc7",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'landward' indicates a direction toward the land, which fits the 'direction' type in the ontology."
+  },
+  {
+    "id": "TT_3b24b0ec",
+    "types": [
+      "era"
+    ],
+    "reason": "The term 'cenozoic' refers to a geological era, which is a major division of geological time."
+  },
+  {
+    "id": "TT_53c5bd17",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'unconfident' relates to a state of trust or confidence, fitting the 'trust' category."
+  },
+  {
+    "id": "TT_4da461b5",
+    "types": [
+      "unit derived by product"
+    ],
+    "reason": "The term 'siemens per kilogram' is a derived unit representing conductivity per unit mass."
+  },
+  {
+    "id": "TT_0b973939",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term '251.0mya' refers to a specific time frame in geological history, which aligns with the concept of an epoch."
+  },
+  {
+    "id": "TT_e1af4347",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 's34' is commonly recognized as an isotope notation, specifically referring to sulfur-34 in scientific contexts."
+  },
+  {
+    "id": "TT_d425750d",
+    "types": [
+      "age"
+    ],
+    "reason": "The term 'old growth' refers to the age of a forest or ecosystem, indicating it has reached a mature stage."
+  },
+  {
+    "id": "TT_1d20f8f3",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '299.0mya' refers to a geological age, specifically 299 million years ago."
+  },
+  {
+    "id": "TT_7ce655e9",
+    "types": [
+      "visibility"
+    ],
+    "reason": "The term 'dim' refers to a state of reduced visibility."
+  },
+  {
+    "id": "TT_fa785f5b",
+    "types": [
+      "equilibrium state"
+    ],
+    "reason": "The term 'balanced' refers to a state of equilibrium, which is a common concept in environmental science."
+  },
+  {
+    "id": "TT_044d65d3",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "Non-Newtonian refers to fluids that do not follow Newton's law of viscosity, making 'fluid state' the appropriate type."
+  },
+  {
+    "id": "TT_b2668e3d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Ypresian is a geological epoch within the Eocene epoch."
+  },
+  {
+    "id": "TT_125ec8a6",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'central dense overcast' refers to a spatial configuration in meteorology, typically describing the dense cloud cover in a storm system."
+  },
+  {
+    "id": "TT_c926cc33",
+    "types": [
+      "solid state"
+    ],
+    "reason": "Polycrystalline refers to a solid material composed of many crystallites of varying size and orientation."
+  },
+  {
+    "id": "TT_32986cf2",
+    "types": [
+      "season"
+    ],
+    "reason": "The term 'tropical' is commonly associated with seasons or climates, such as tropical seasons or tropical climates."
+  },
+  {
+    "id": "TT_ede7b3f1",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'fcaa' is not explicitly defined in the provided examples or possible answers, but it resembles a chemical or biochemical term, so 'chemical state' is a plausible guess."
+  },
+  {
+    "id": "TT_42fb6810",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x42 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_465e8904",
+    "types": [
+      "chemical property"
+    ],
+    "reason": "Electronegativity is a measure of an atom's ability to attract electrons, which is a fundamental chemical property."
+  },
+  {
+    "id": "TT_83040b6e",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'hclfc' resembles hydrocarbon compounds, which are common in environmental science."
+  },
+  {
+    "id": "TT_f3ca47f9",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Iron oxide is a chemical compound composed of iron and oxygen, fitting the definition of an inorganic compound."
+  },
+  {
+    "id": "TT_b8e624c9",
+    "types": [
+      "mineral assessment"
+    ],
+    "reason": "The term 'semi precious' is commonly associated with minerals and gemstones, fitting the 'mineral assessment' category."
+  },
+  {
+    "id": "TT_183271fa",
+    "types": [
+      "vertical extent"
+    ],
+    "reason": "The term 'elevated' refers to a vertical extent or height above a reference point."
+  },
+  {
+    "id": "TT_6b955ce9",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'trapped' refers to a state or condition, which aligns with the concept of 'state of matter' in the given context."
+  },
+  {
+    "id": "TT_062e9b61",
+    "types": [
+      "m class"
+    ],
+    "reason": "The term 'm2 class' is a subclass of 'm class' in the spectral classification of stars."
+  },
+  {
+    "id": "TT_343e2868",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'signer' refers to a role or function, similar to other role-based terms in the examples."
+  },
+  {
+    "id": "TT_1a5d1ce3",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'vertical' refers to a direction or orientation, which aligns with the concept of 'vertical direction' in the given options."
+  },
+  {
+    "id": "TT_088755b7",
+    "types": [
+      "horizontal coordinate system"
+    ],
+    "reason": "Lambert conformal conic is a type of map projection used in cartography, which falls under horizontal coordinate systems."
+  },
+  {
+    "id": "TT_94b2fbcc",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'vague' implies uncertainty or lack of clarity, which aligns with the 'trust' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_152f3a8d",
+    "types": [
+      "alkaline earth metal"
+    ],
+    "reason": "Beryllium is classified as an alkaline earth metal in the periodic table."
+  },
+  {
+    "id": "TT_9c8ac160",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'negative' can represent a binary state, often used to denote opposition or absence."
+  },
+  {
+    "id": "TT_e9bfa8d0",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'metre' is a standard unit of length in the International System of Units (SI)."
+  },
+  {
+    "id": "TT_79f3f382",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'north' refers to a cardinal direction."
+  },
+  {
+    "id": "TT_22e1ddd0",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "The term 'remote' is commonly associated with spatial reference systems in earth and environmental science contexts."
+  },
+  {
+    "id": "TT_e9354ba4",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'cos' is likely a trigonometric function, which is a unit derived by scaling in mathematical contexts."
+  },
+  {
+    "id": "TT_40ebd1cb",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'dissolved' refers to a state where a substance is uniformly dispersed in a solvent, which aligns with the 'chemical state' category."
+  },
+  {
+    "id": "TT_bcb95918",
+    "types": [
+      "consistence property"
+    ],
+    "reason": "The term 'rough' refers to a physical property related to texture or surface quality, which aligns with 'consistence property' in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_951722ac",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "The term 'geostationary' refers to an orbit that matches Earth's rotation, fitting the 'orbital configuration' type."
+  },
+  {
+    "id": "TT_1091e607",
+    "types": [
+      "spectral line"
+    ],
+    "reason": "The term 'he1083' resembles a spectral line notation, commonly used in spectroscopy to denote specific wavelengths or transitions."
+  },
+  {
+    "id": "TT_9ab9afbc",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'trace' is commonly used to describe a minor or insignificant role or presence in a context."
+  },
+  {
+    "id": "TT_caf65747",
+    "types": [
+      "prefix"
+    ],
+    "reason": "The term 'semi' is commonly used as a prefix in various contexts, including scientific terminology."
+  },
+  {
+    "id": "TT_583c6331",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'he4' refers to Helium-4, which is an isotope of helium."
+  },
+  {
+    "id": "TT_3a1937c1",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The Rouse number is a dimensionless quantity used in sediment transport studies, indicating the balance between sediment suspension and settling."
+  },
+  {
+    "id": "TT_ec2a8602",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Nitrogen monoxide is a chemical compound consisting of nitrogen and oxygen, fitting the definition of an inorganic compound."
+  },
+  {
+    "id": "TT_42af1091",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'contaminant' refers to a chemical substance that is present in an environment where it is not desired, fitting the 'chemical state' category."
+  },
+  {
+    "id": "TT_9782704d",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '3.600mya' refers to a time measurement, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_b5b09234",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'dendritic' refers to a branching, tree-like structure, which is a type of shape."
+  },
+  {
+    "id": "TT_68a600c3",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "A bubble is a small pocket of fluid (usually gas) within a liquid or solid, fitting the 'fluid state' category."
+  },
+  {
+    "id": "TT_099918b5",
+    "types": [
+      "beaufort scale"
+    ],
+    "reason": "The term 'beaufort5' refers to a level on the Beaufort scale, which measures wind force."
+  },
+  {
+    "id": "TT_d5e03d4a",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x25 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_2282ee39",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'peer reviewed' is associated with the reliability or trustworthiness of information or processes."
+  },
+  {
+    "id": "TT_7e60eaf9",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '4600mya' refers to a time measurement, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_8a35dea3",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Bartonian' refers to a specific epoch in the geologic timescale."
+  },
+  {
+    "id": "TT_283e33c2",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "UVB is a type of ultraviolet radiation, which falls under spectral bands in the context of environmental science."
+  },
+  {
+    "id": "TT_5c920fb8",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term 'pentad' refers to a period of five days, which aligns with the 'duration' type in the ontology."
+  },
+  {
+    "id": "TT_d1fb6213",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "HCO3- (bicarbonate) is a known inorganic compound in environmental science."
+  },
+  {
+    "id": "TT_ea721ede",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x37 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_93eb6d00",
+    "types": [
+      "cfc"
+    ],
+    "reason": "CFC stands for chlorofluorocarbon, which is a type of organic compound."
+  },
+  {
+    "id": "TT_e443a420",
+    "types": [
+      "planet"
+    ],
+    "reason": "The term 'sun' refers to a celestial body, which fits the 'planet' category in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_83ca6886",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'no3minus' refers to the nitrate ion, which is an inorganic compound."
+  },
+  {
+    "id": "TT_6b101b0a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'submarginal' suggests a classification or role, often used to describe something below a certain threshold or standard."
+  },
+  {
+    "id": "TT_30dfa770",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x13 class' is a variation of 'x class', which is a spectral classification for stars."
+  },
+  {
+    "id": "TT_158a5f30",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'horizontal' refers to a direction or orientation, fitting the 'horizontal direction' type."
+  },
+  {
+    "id": "TT_0de64f49",
+    "types": [
+      "radioactive substance"
+    ],
+    "reason": "The term 'radioactivity' refers to the property of substances that emit radiation, fitting the 'radioactive substance' category."
+  },
+  {
+    "id": "TT_d0d2658e",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'triassic' refers to a geological epoch in the Mesozoic era."
+  },
+  {
+    "id": "TT_3747460e",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'pb204' refers to a specific isotope of lead, which is a variant of an element with a particular number of neutrons."
+  },
+  {
+    "id": "TT_40496536",
+    "types": [
+      "solid state"
+    ],
+    "reason": "The term 'crystal' refers to a solid state of matter with a highly ordered atomic structure."
+  },
+  {
+    "id": "TT_73163901",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'dormant' refers to a state of inactivity, commonly used in biological contexts to describe organisms or processes."
+  },
+  {
+    "id": "TT_419a37a9",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'prior' is commonly used to denote a role or position in various contexts."
+  },
+  {
+    "id": "TT_0ccb2235",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'suspended' refers to a state where particles are dispersed in a medium, which aligns with the 'state of matter' concept."
+  },
+  {
+    "id": "TT_154d3230",
+    "types": [
+      "angular coordinate"
+    ],
+    "reason": "Theta is commonly used to represent an angular coordinate in mathematical and scientific contexts."
+  },
+  {
+    "id": "TT_8b5c0524",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'flake' refers to a physical form or state of matter, often describing small, flat pieces."
+  },
+  {
+    "id": "TT_0a916ef2",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "The term 'hydrobromous acid' refers to a specific type of inorganic acid."
+  },
+  {
+    "id": "TT_e8d6b32f",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "UVA refers to ultraviolet A, a type of spectral band in the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_8c4a8268",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'hauterivian' refers to a geological epoch in the Early Cretaceous period."
+  },
+  {
+    "id": "TT_05bf2ab1",
+    "types": [
+      "c class"
+    ],
+    "reason": "The term 'c7 class' is a variant of the 'c class' classification in the context of spectral bands or other categorical systems."
+  },
+  {
+    "id": "TT_53426ba9",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "The term 'orange' is commonly associated with organic compounds, such as in the context of fruits or dyes."
+  },
+  {
+    "id": "TT_d8989b95",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "The term 'peroxy radical' is a type of peroxide, which is a chemical compound containing an oxygen-oxygen single bond."
+  },
+  {
+    "id": "TT_4b6372a6",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '245.9mya' refers to a time measurement in millions of years ago, which aligns with the 'age' type in the ontology."
+  },
+  {
+    "id": "TT_f21c7a7b",
+    "types": [
+      "geosphere"
+    ],
+    "reason": "The term 'geologic' relates to the study of the Earth's physical structure and substance, which falls under the 'geosphere' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_56ae0af3",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'hydrophobic' describes a property related to the interaction of fluids, specifically the repulsion of water."
+  },
+  {
+    "id": "TT_ad1bbe57",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c10h16' is a chemical formula representing a hydrocarbon, as it consists of carbon (C) and hydrogen (H) atoms."
+  },
+  {
+    "id": "TT_1b4c6276",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Silicon dioxide is a well-known inorganic compound, commonly found in nature as quartz."
+  },
+  {
+    "id": "TT_a57744b1",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "The term 'hno3' refers to nitric acid, which is classified as an inorganic acid in chemistry."
+  },
+  {
+    "id": "TT_0c6f7ee7",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'potable' refers to water that is safe to drink, which is a state of fluid."
+  },
+  {
+    "id": "TT_db9a42b9",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'lux' is a unit of illuminance, which fits the 'unit' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_e61af733",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "The term 'enzyme' refers to a biological catalyst, which fits under the 'biochemical state' category in the context of environmental science."
+  },
+  {
+    "id": "TT_7ff90784",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'acceptable' implies a level of trust or approval, fitting the 'trust' category."
+  },
+  {
+    "id": "TT_35d587e7",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'lower' is commonly used to describe a direction or position in spatial contexts."
+  },
+  {
+    "id": "TT_1d45bcb9",
+    "types": [
+      "cfc"
+    ],
+    "reason": "Freon-12 is a type of chlorofluorocarbon (CFC), which is a class of compounds known for their environmental impact."
+  },
+  {
+    "id": "TT_3390cdcb",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'paleogene' refers to a geological epoch in the Cenozoic era."
+  },
+  {
+    "id": "TT_f7bb9b77",
+    "types": [
+      "biological state"
+    ],
+    "reason": "A biomarker is a measurable indicator of a biological state or condition."
+  },
+  {
+    "id": "TT_ba921809",
+    "types": [
+      "federal governing body",
+      "environmental standards body"
+    ],
+    "reason": "The term refers to a government agency responsible for environmental standards and regulations."
+  },
+  {
+    "id": "TT_13327caf",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'serializes' implies a functional or procedural role, fitting the 'role' category."
+  },
+  {
+    "id": "TT_d9536b24",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'brno3' resembles a chemical formula, likely representing an inorganic compound."
+  },
+  {
+    "id": "TT_babaeba5",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x8 class' is a variation of 'x class', which is a known classification in the given ontology."
+  },
+  {
+    "id": "TT_ae9a7394",
+    "types": [
+      "season"
+    ],
+    "reason": "The term 'winter' refers to one of the four seasons in the annual cycle."
+  },
+  {
+    "id": "TT_0f09cf8c",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "PCB stands for polychlorinated biphenyl, which is an organic compound."
+  },
+  {
+    "id": "TT_38841047",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'unpressurized' refers to a state where pressure is not applied, fitting the 'state of matter' category."
+  },
+  {
+    "id": "TT_e179b811",
+    "types": [
+      "binary state"
+    ],
+    "reason": "The term 'even' can be interpreted as a binary state, indicating one of two possible conditions."
+  },
+  {
+    "id": "TT_2c72a2bd",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'precise' is a qualifier indicating specificity or exactness."
+  },
+  {
+    "id": "TT_ea105023",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'maximum entropy' refers to a state in thermodynamics where entropy is maximized, indicating equilibrium."
+  },
+  {
+    "id": "TT_26692b9f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower jurassic' refers to a subdivision of the Jurassic period, which is a geological epoch."
+  },
+  {
+    "id": "TT_fca5f9f9",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'acidify' refers to a process or state involving the increase of acidity, which is a chemical state."
+  },
+  {
+    "id": "TT_4a2916b8",
+    "types": [
+      "vertical coordinate"
+    ],
+    "reason": "The term 'hybrid sigma' refers to a vertical coordinate system commonly used in atmospheric and oceanographic modeling."
+  },
+  {
+    "id": "TT_7e6b4b4a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Thanetian' refers to a geological epoch within the Paleogene period."
+  },
+  {
+    "id": "TT_9e372b05",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Rust is a common term for iron oxide, which is an inorganic compound."
+  },
+  {
+    "id": "TT_61e6d5a1",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'bashkirian' refers to a geological epoch in the Carboniferous period."
+  },
+  {
+    "id": "TT_0e80f3c9",
+    "types": [
+      "horizontal coordinate system"
+    ],
+    "reason": "The term refers to a map projection system used in cartography, which aligns with the 'horizontal coordinate system' type."
+  },
+  {
+    "id": "TT_db0ed17b",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "Micronutrients are essential for biological processes, fitting the biochemical state category."
+  },
+  {
+    "id": "TT_094dc640",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "NFMA stands for National Forest Management Act, which is an environmental law."
+  },
+  {
+    "id": "TT_ba644037",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '391.8mya' refers to a geological age, specifically 391.8 million years ago."
+  },
+  {
+    "id": "TT_422ba0cb",
+    "types": [
+      "cfc"
+    ],
+    "reason": "Dichlorodifluoromethane is a type of chlorofluorocarbon (CFC), which is a class of compounds known for their environmental impact."
+  },
+  {
+    "id": "TT_6e8c3afe",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper jurassic' refers to a specific geological time period, which is classified as an epoch in the geological timescale."
+  },
+  {
+    "id": "TT_dccbed46",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Nitric oxide is a well-known inorganic compound in environmental science."
+  },
+  {
+    "id": "TT_bbd3cfac",
+    "types": [
+      "equilibrium state"
+    ],
+    "reason": "The term 'stationary' implies a state of no movement or change, which aligns with the concept of equilibrium."
+  },
+  {
+    "id": "TT_564eacdc",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'curator' refers to a role or position, typically involving management or oversight."
+  },
+  {
+    "id": "TT_db03f52d",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'dwd' is an abbreviation for 'dry winter climate' based on the provided possible answers."
+  },
+  {
+    "id": "TT_a31e7083",
+    "types": [
+      "interface protocol"
+    ],
+    "reason": "NFS (Network File System) is a protocol for file sharing over a network."
+  },
+  {
+    "id": "TT_186b1f24",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'superadiabatic' refers to a state in thermodynamics where the temperature gradient exceeds the adiabatic lapse rate."
+  },
+  {
+    "id": "TT_a091b375",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'ohm' is a unit of electrical resistance."
+  },
+  {
+    "id": "TT_13acc069",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'c band' refers to a specific range in the electromagnetic spectrum, commonly used in earth and environmental science."
+  },
+  {
+    "id": "TT_fac9ffac",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'unscheduled' implies a classification or role, fitting the 'role' category in the ontology."
+  },
+  {
+    "id": "TT_7f34b856",
+    "types": [
+      "eon"
+    ],
+    "reason": "Siderian is a geologic eon, part of the Precambrian supereon."
+  },
+  {
+    "id": "TT_e984cede",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'trigonal' refers to a geometric shape or configuration, which fits the 'shape' category in the ontology."
+  },
+  {
+    "id": "TT_752b69f1",
+    "types": [
+      "time zone"
+    ],
+    "reason": "The term 'zone code' is commonly associated with time zones, such as UTC or GMT."
+  },
+  {
+    "id": "TT_78770291",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'burn' refers to a chemical process, specifically combustion, which is a chemical state."
+  },
+  {
+    "id": "TT_5216aacc",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'diluted' refers to a state where a substance is mixed with another, typically a solvent, indicating a chemical state."
+  },
+  {
+    "id": "TT_d04ed815",
+    "types": [
+      "visibility"
+    ],
+    "reason": "The term 'clear' is commonly associated with visibility in environmental contexts."
+  },
+  {
+    "id": "TT_d3f17702",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'weekly' refers to a recurring period of time, fitting the 'time frame' category."
+  },
+  {
+    "id": "TT_49557da8",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'millimeter' is a unit of measurement for length."
+  },
+  {
+    "id": "TT_616a783b",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'dapingian' refers to a specific geological epoch in the Earth's history."
+  },
+  {
+    "id": "TT_cc8239f8",
+    "types": [
+      "unit"
+    ],
+    "reason": "Kelvin is a base unit of temperature in the International System of Units (SI)."
+  },
+  {
+    "id": "TT_b4309245",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '422.9mya' refers to a geological age, specifically 422.9 million years ago."
+  },
+  {
+    "id": "TT_6ffae85d",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'concentric' describes a spatial arrangement where objects share a common center, fitting the 'spatial configuration' type."
+  },
+  {
+    "id": "TT_206baa40",
+    "types": [
+      "peroxide"
+    ],
+    "reason": "H2O2 is the chemical formula for hydrogen peroxide, which is classified as a peroxide in the SWEET ontology."
+  },
+  {
+    "id": "TT_bb3cad11",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'sheinwoodian' refers to a specific geological epoch within the Silurian period."
+  },
+  {
+    "id": "TT_85709309",
+    "types": [
+      "ocean gyre"
+    ],
+    "reason": "The term 'sverdrup balance' is related to ocean circulation and gyres, fitting the 'ocean gyre' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_84fd3b77",
+    "types": [
+      "habitat"
+    ],
+    "reason": "The term 'neritic' refers to the shallow part of the ocean near the coast, which is classified as a habitat in environmental science."
+  },
+  {
+    "id": "TT_b003bc45",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'per pascal' suggests a derived unit involving scaling by the pascal unit."
+  },
+  {
+    "id": "TT_9d4b19e1",
+    "types": [
+      "equilibrium state"
+    ],
+    "reason": "The term 'quasi neutral' refers to a state of near equilibrium, often used in plasma physics or chemistry."
+  },
+  {
+    "id": "TT_ac0ff00a",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'biaxial' refers to a physical state, often describing materials or objects with two distinct axes."
+  },
+  {
+    "id": "TT_77a1a730",
+    "types": [
+      "element"
+    ],
+    "reason": "Aluminum is a chemical element in the periodic table."
+  },
+  {
+    "id": "TT_269be637",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'accurate' implies reliability or correctness, which aligns with the 'trust' category in the ontology."
+  },
+  {
+    "id": "TT_594e4c76",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The term 'bsh' refers to the Brazil Current, which is a western boundary current in the South Atlantic Ocean."
+  },
+  {
+    "id": "TT_30fdd67b",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'clono2' refers to chlorine nitrate, which is an inorganic compound."
+  },
+  {
+    "id": "TT_f2483127",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Ozone is a molecule composed of three oxygen atoms, classified as an inorganic compound in environmental science."
+  },
+  {
+    "id": "TT_81671ca6",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'sidereal' refers to a time frame related to the stars, commonly used in astronomy."
+  },
+  {
+    "id": "TT_2ead1d3f",
+    "types": [
+      "vertical extent"
+    ],
+    "reason": "The term 'deep' often refers to a significant vertical extent, such as in oceanography or geology."
+  },
+  {
+    "id": "TT_5c769f64",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "The term 'national forest service' refers to a government agency responsible for managing national forests, fitting the 'federal governing body' type."
+  },
+  {
+    "id": "TT_b7153dff",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term describes a derived unit involving multiplication of watt, meter squared, and kelvin."
+  },
+  {
+    "id": "TT_eade4643",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'archivist' refers to a professional role, fitting the 'role' category in the ontology."
+  },
+  {
+    "id": "TT_0a62e7d6",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'deciduous' refers to a biological state, often describing plants that shed leaves annually."
+  },
+  {
+    "id": "TT_9cdcaa9d",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'cisuralian' refers to a geological epoch in the Permian period."
+  },
+  {
+    "id": "TT_96912c6c",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 's32' resembles an isotope notation, likely referring to a specific isotope of sulfur."
+  },
+  {
+    "id": "TT_a4d6b9e2",
+    "types": [
+      "enhanced fujita scale"
+    ],
+    "reason": "The term 'ef0' is a classification in the Enhanced Fujita Scale, which is used to rate tornado intensity."
+  },
+  {
+    "id": "TT_04e0b6a3",
+    "types": [
+      "atmosphere"
+    ],
+    "reason": "The term 'earth thermosphere' refers to a layer of the Earth's atmosphere, specifically the thermosphere."
+  },
+  {
+    "id": "TT_1e14da83",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'inhomogeneous' describes a state where properties are not uniform, fitting the 'physical state' category."
+  },
+  {
+    "id": "TT_6de53a88",
+    "types": [
+      "transition metal"
+    ],
+    "reason": "Cadmium is a chemical element classified as a transition metal in the periodic table."
+  },
+  {
+    "id": "TT_947c1323",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The Gulf Stream is a well-known western boundary current in the Earth's oceans."
+  },
+  {
+    "id": "TT_44674a24",
+    "types": [
+      "compression method"
+    ],
+    "reason": "The term 'gzip' refers to a file compression method commonly used in computing."
+  },
+  {
+    "id": "TT_5b582857",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'very' is a qualifier used to modify the intensity or degree of another term."
+  },
+  {
+    "id": "TT_e0ae6e29",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x39 class' is a variation of the 'x class' category, which is listed as a possible answer."
+  },
+  {
+    "id": "TT_11eb3e2c",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'recoverable' implies a role or state related to the ability to recover something, fitting the 'role' category."
+  },
+  {
+    "id": "TT_588f1443",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '275.6mya' refers to a geological age, specifically 275.6 million years ago."
+  },
+  {
+    "id": "TT_8a8d0873",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'non methane hydrocarbon' refers to a type of hydrocarbon, specifically excluding methane."
+  },
+  {
+    "id": "TT_ad7dee2c",
+    "types": [
+      "earth eastern boundary current"
+    ],
+    "reason": "The Fram Strait is a known ocean current in the Arctic region, fitting the category of earth eastern boundary current."
+  },
+  {
+    "id": "TT_aaf3d02b",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'miscible' refers to the ability of substances to mix in all proportions, which is a property of fluids."
+  },
+  {
+    "id": "TT_c6e62afd",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Ethene is a simple hydrocarbon, specifically an alkene."
+  },
+  {
+    "id": "TT_22a414e2",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'decomposed' refers to the role of organisms in breaking down organic matter, which is a biological process."
+  },
+  {
+    "id": "TT_724318a8",
+    "types": [
+      "byte order"
+    ],
+    "reason": "The term 'network endian' refers to the byte order used in network communications, which aligns with the 'byte order' type in the ontology."
+  },
+  {
+    "id": "TT_b36eda6e",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'proterozoic' refers to a geological eon in Earth's history."
+  },
+  {
+    "id": "TT_e4c33673",
+    "types": [
+      "ocean gyre"
+    ],
+    "reason": "The term 'north pacific gyre' refers to a large system of circulating ocean currents, which is classified as an ocean gyre in the SWEET Ontology."
+  },
+  {
+    "id": "TT_64729573",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term '2week' refers to a time frame, which aligns with the 'duration' type in the ontology."
+  },
+  {
+    "id": "TT_c2e60131",
+    "types": [
+      "inorganic acid"
+    ],
+    "reason": "HCl is a well-known inorganic acid."
+  },
+  {
+    "id": "TT_5c289d05",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'normal' can refer to a standard or typical state, which aligns with 'state of matter' in scientific contexts."
+  },
+  {
+    "id": "TT_cac64dd4",
+    "types": [
+      "angular coordinate"
+    ],
+    "reason": "An arcminute is a unit of angular measurement, fitting the 'angular coordinate' type."
+  },
+  {
+    "id": "TT_e6a5222b",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'host' typically refers to an organism that harbors another organism, fitting the biological role category."
+  },
+  {
+    "id": "TT_9d88fc3c",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'safe' implies a state of trust or security, aligning with the 'trust' category in the ontology."
+  },
+  {
+    "id": "TT_8f99edaa",
+    "types": [
+      "qualifier"
+    ],
+    "reason": "The term 'slightly' is a qualifier indicating a degree or extent."
+  },
+  {
+    "id": "TT_cc9fca33",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'synoptic' refers to a broad overview or summary, often used in the context of time frames or observational data in environmental science."
+  },
+  {
+    "id": "TT_ba8eaef6",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'archean' refers to a geological eon in Earth's history."
+  },
+  {
+    "id": "TT_6c5c04e8",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'baroclinic' refers to a state of fluid dynamics, specifically related to the stratification of fluids like the atmosphere or ocean."
+  },
+  {
+    "id": "TT_18b98482",
+    "types": [
+      "unit derived by scaling"
+    ],
+    "reason": "The term 'per meter cubed' indicates a unit derived by scaling, specifically volume."
+  },
+  {
+    "id": "TT_d3b1d8d1",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'decadal' refers to a period of ten years, which aligns with the 'time frame' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_7b667ecd",
+    "types": [
+      "biological state"
+    ],
+    "reason": "The term 'endogenous' refers to something originating from within an organism, fitting the 'biological state' category."
+  },
+  {
+    "id": "TT_9b96304e",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'isolated' can refer to a state where a system or substance is separated from its surroundings, fitting the 'state of matter' category."
+  },
+  {
+    "id": "TT_ef43035b",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Carnian' refers to a specific epoch in the Triassic period."
+  },
+  {
+    "id": "TT_7f70976c",
+    "types": [
+      "biochemical state"
+    ],
+    "reason": "The term 'anoxic' refers to a state of being without oxygen, which is a biochemical condition."
+  },
+  {
+    "id": "TT_759d97c4",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'stratified' refers to a layered or structured physical state, often used in environmental science to describe layers in fluids or materials."
+  },
+  {
+    "id": "TT_ce08b1d0",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'shattered' describes a state of matter or physical condition, fitting the 'physical state' category."
+  },
+  {
+    "id": "TT_b0ca24a8",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'tac' is likely an abbreviation or acronym, often used to denote a role or classification in various contexts."
+  },
+  {
+    "id": "TT_44e8bc52",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "Plasma is a distinct state of matter, often referred to as the fourth state, alongside solid, liquid, and gas."
+  },
+  {
+    "id": "TT_d4cab41a",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'fe2.3' resembles a chemical formula, likely representing an inorganic compound."
+  },
+  {
+    "id": "TT_401733cf",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'ccl4' refers to carbon tetrachloride, which is classified as an inorganic compound."
+  },
+  {
+    "id": "TT_4e3c03ca",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'dynamic' often refers to a state of fluidity or change, fitting the 'fluid state' category in earth and environmental science."
+  },
+  {
+    "id": "TT_dcce5f01",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'o16' refers to an isotope of oxygen, specifically oxygen-16."
+  },
+  {
+    "id": "TT_8ecaee8d",
+    "types": [
+      "earth ocean"
+    ],
+    "reason": "The term 'oceanic' refers to something related to the ocean, which fits the 'earth ocean' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ae66becd",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '468.1mya' refers to a time measurement, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_10ffc87b",
+    "types": [
+      "angular coordinate"
+    ],
+    "reason": "Longitude is a measure of angular distance east or west of the prime meridian, fitting the 'angular coordinate' type."
+  },
+  {
+    "id": "TT_876e178a",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'joule' is a unit of energy in the International System of Units (SI)."
+  },
+  {
+    "id": "TT_1e5b21c4",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'hydroxyl' refers to a functional group consisting of oxygen and hydrogen, commonly found in inorganic compounds."
+  },
+  {
+    "id": "TT_0bfde7be",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'unpredictable' relates to uncertainty or lack of predictability, which aligns with the 'trust' category in the ontology."
+  },
+  {
+    "id": "TT_668c3d0d",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'saturate' refers to a state in chemistry where a solution contains the maximum concentration of a solute."
+  },
+  {
+    "id": "TT_b9a6b98f",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Orthorhombic refers to a crystal system, which is a type of physical state in materials science."
+  },
+  {
+    "id": "TT_564cdfe4",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "The term 'clox' is likely an abbreviation or shorthand for a chemical compound, fitting the 'organic compound' category."
+  },
+  {
+    "id": "TT_a512aeb3",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '130.0mya' refers to a time frame, specifically an age in millions of years ago (mya), which fits the 'age' type in the ontology."
+  },
+  {
+    "id": "TT_8bb56661",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'dwb' is an abbreviation for 'dry winter climate', which is a classification in climate studies."
+  },
+  {
+    "id": "TT_9acb6bb0",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "The term refers to a regulatory framework aimed at protecting air quality, fitting the 'environmental law' category."
+  },
+  {
+    "id": "TT_89378cd3",
+    "types": [
+      "activity level"
+    ],
+    "reason": "The term 'evacuated' implies a state of activity or action, fitting the 'activity level' category."
+  },
+  {
+    "id": "TT_a2c7b4bc",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'ediacaran' refers to a geological epoch in the Proterozoic eon."
+  },
+  {
+    "id": "TT_4fb0111d",
+    "types": [
+      "land use"
+    ],
+    "reason": "The term 'buried' is associated with land use in environmental science, referring to materials or objects placed underground."
+  },
+  {
+    "id": "TT_1c18e3bb",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'he304' resembles an isotope notation, where 'he' likely stands for helium and '304' could be a mass number."
+  },
+  {
+    "id": "TT_4e4eef19",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'independent' is commonly associated with roles or classifications in various contexts."
+  },
+  {
+    "id": "TT_d1e324ef",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "CH4 is methane, a simple hydrocarbon."
+  },
+  {
+    "id": "TT_efe6f8c6",
+    "types": [
+      "ion"
+    ],
+    "reason": "The term 'nh4plus' refers to the ammonium ion, which is a positively charged ion (cation)."
+  },
+  {
+    "id": "TT_f47a659c",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'flattened' describes a physical form or shape, which fits the 'shape' category in the ontology."
+  },
+  {
+    "id": "TT_8f2fc778",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "Aphelion refers to the point in an orbit farthest from the sun, fitting the 'orbital configuration' type."
+  },
+  {
+    "id": "TT_cdf20def",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'proven' implies reliability or trustworthiness, fitting the 'trust' category."
+  },
+  {
+    "id": "TT_401ab4fb",
+    "types": [
+      "a class"
+    ],
+    "reason": "The term 'a8 class' is a variation of 'a class', which is a known spectral classification in astronomy."
+  },
+  {
+    "id": "TT_e7695609",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Jurassic is a geological epoch within the Mesozoic era."
+  },
+  {
+    "id": "TT_27c8410a",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'imprecise' relates to the concept of trust or confidence in information."
+  },
+  {
+    "id": "TT_b9cf4a5b",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c12' resembles a hydrocarbon notation, similar to 'c12h8' in the training set."
+  },
+  {
+    "id": "TT_b7fbffd3",
+    "types": [
+      "photic zone"
+    ],
+    "reason": "The term 'earth mesopelagic zone' refers to a specific layer in the ocean, which is part of the photic zone where sunlight penetrates but is dim."
+  },
+  {
+    "id": "TT_c0b1f0dc",
+    "types": [
+      "vertical direction"
+    ],
+    "reason": "The term 'upflow' refers to a direction of movement, specifically upward, which aligns with the concept of vertical direction in earth and environmental science."
+  },
+  {
+    "id": "TT_37268046",
+    "types": [
+      "alkaline earth metal"
+    ],
+    "reason": "Magnesium is classified as an alkaline earth metal in the periodic table."
+  },
+  {
+    "id": "TT_f18536fc",
+    "types": [
+      "state"
+    ],
+    "reason": "The term 'optimal' refers to a state of being the best or most favorable, which aligns with the concept of a state in the ontology."
+  },
+  {
+    "id": "TT_66498bf9",
+    "types": [
+      "electromagnetic quantity"
+    ],
+    "reason": "The refractive index is a measure of how much light bends when passing through a medium, which falls under electromagnetic quantities."
+  },
+  {
+    "id": "TT_2cc3ee4e",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Hydroperoxyl is a chemical compound, specifically an inorganic compound."
+  },
+  {
+    "id": "TT_ae276477",
+    "types": [
+      "isotope"
+    ],
+    "reason": "Th231 is an isotope of thorium, which fits the 'isotope' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_46502cd6",
+    "types": [
+      "format"
+    ],
+    "reason": "The term 'arff' refers to a file format used in machine learning, specifically for datasets."
+  },
+  {
+    "id": "TT_17afa117",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "The term 'psd' is commonly associated with a self-describing format, such as the Photoshop Document (PSD) file format."
+  },
+  {
+    "id": "TT_f097302a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'subordinate' implies a hierarchical or functional role, fitting the 'role' category."
+  },
+  {
+    "id": "TT_dd0074b9",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "The term 'viscous' describes a property related to the flow of fluids, which fits under 'fluid property' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_1004783c",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower cretaceous' refers to a subdivision of the Cretaceous period, which is an epoch in geological time."
+  },
+  {
+    "id": "TT_0175db7e",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "The term 'specific yield' refers to a property related to groundwater and is classified under hydrogeological properties in earth science."
+  },
+  {
+    "id": "TT_796a74a4",
+    "types": [
+      "orbital configuration"
+    ],
+    "reason": "The term 'sun synchronous' refers to a type of orbit where a satellite passes over any given point of the planet's surface at the same local solar time, which is a specific orbital configuration."
+  },
+  {
+    "id": "TT_c36dc3e1",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lower devonian' refers to a subdivision of the Devonian period, which is an epoch in geological time."
+  },
+  {
+    "id": "TT_e19227e5",
+    "types": [
+      "distance"
+    ],
+    "reason": "The term 'million km2' refers to a unit of area, which is a measure of distance squared."
+  },
+  {
+    "id": "TT_498b53c9",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Thermal plasma refers to a state of matter where particles are ionized and exhibit high energy, fitting the 'physical state' category."
+  },
+  {
+    "id": "TT_03502850",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'eoarchean' refers to a geological eon, part of the Archean Eon."
+  },
+  {
+    "id": "TT_9a696758",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "Leaf area index is a dimensionless quantity representing the ratio of leaf area to ground area."
+  },
+  {
+    "id": "TT_e2869a95",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'broad' can refer to a large spatial extent, fitting the 'spatial scale' category."
+  },
+  {
+    "id": "TT_3e9eaf0e",
+    "types": [
+      "saffir simpson scale"
+    ],
+    "reason": "The term 'category4' is commonly associated with the Saffir-Simpson Hurricane Wind Scale, which classifies hurricanes into categories."
+  },
+  {
+    "id": "TT_5d38f17b",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "NO3 is a common inorganic compound, specifically a nitrate ion."
+  },
+  {
+    "id": "TT_7404313a",
+    "types": [
+      "impact"
+    ],
+    "reason": "The term 'disasterous' implies a negative impact, which aligns with the 'impact' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_fb12991a",
+    "types": [
+      "halon"
+    ],
+    "reason": "The term 'halon1211' refers to a specific type of halon, which is a class of compounds used in fire suppression systems."
+  },
+  {
+    "id": "TT_a7863b9a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'regular' is a general descriptor often used to denote a standard or typical role or state."
+  },
+  {
+    "id": "TT_13fc695d",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'visible' refers to the visible light spectrum, which is a type of spectral band."
+  },
+  {
+    "id": "TT_0bf5fc0b",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x28 class' is likely a typographical error or variant of 'x class', which is a known spectral classification in astronomy."
+  },
+  {
+    "id": "TT_e147d398",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'bwk' refers to a K\u00f6ppen climate classification for dry winter climates."
+  },
+  {
+    "id": "TT_ea11cc8f",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'meter squared per kilogram' is a derived unit formed by the product of meters squared and the inverse of kilograms, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_1b3f402d",
+    "types": [
+      "frequency"
+    ],
+    "reason": "The term 'frequent' relates to the concept of how often something occurs, which aligns with 'frequency'."
+  },
+  {
+    "id": "TT_ba270c97",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Hexachlorobiphenyl is a chlorinated organic compound, fitting the 'organic compound' type."
+  },
+  {
+    "id": "TT_75bcd3a5",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'rigid' describes a physical state of matter where the substance maintains a fixed shape and volume."
+  },
+  {
+    "id": "TT_c3122e54",
+    "types": [
+      "spectral line"
+    ],
+    "reason": "The term 'hbeta' refers to the H-beta spectral line in astronomy, which is a specific emission line of hydrogen."
+  },
+  {
+    "id": "TT_0d0e9987",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'indirect' suggests a role or qualifier in a process or system, aligning with the 'role' category in the ontology."
+  },
+  {
+    "id": "TT_ae016874",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '510mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_6c7c19aa",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'violet' refers to a color in the visible spectrum, which is a type of spectral band."
+  },
+  {
+    "id": "TT_727b2aef",
+    "types": [
+      "moisture state"
+    ],
+    "reason": "The term 'humid' refers to the state of moisture in the environment, which aligns with the 'moisture state' type in the ontology."
+  },
+  {
+    "id": "TT_0d16d6ef",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'emerging' is commonly used to describe a role or status in various contexts, including environmental science."
+  },
+  {
+    "id": "TT_a6279275",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "NOx refers to nitrogen oxides, which are inorganic compounds."
+  },
+  {
+    "id": "TT_55705978",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'dfc' corresponds to the 'dry winter climate' classification in the given context."
+  },
+  {
+    "id": "TT_a9eb0505",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'past' refers to a period of time, which aligns with the 'time frame' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_eda17fd6",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'priabonian' refers to a specific epoch in the geologic timescale."
+  },
+  {
+    "id": "TT_43cd8189",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper triassic' refers to a subdivision of the Triassic period, which is a geological epoch."
+  },
+  {
+    "id": "TT_8e56cd85",
+    "types": [
+      "element"
+    ],
+    "reason": "Lead is a chemical element with the symbol Pb and atomic number 82."
+  },
+  {
+    "id": "TT_a7579eb1",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'unacceptable' relates to a judgment of trust or acceptability, fitting the 'trust' category."
+  },
+  {
+    "id": "TT_9e99064e",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'ku band' refers to a specific range of frequencies in the electromagnetic spectrum, commonly used in satellite communication."
+  },
+  {
+    "id": "TT_68e541dd",
+    "types": [
+      "distance range km"
+    ],
+    "reason": "The term 'pt3million_km2' suggests a measurement of distance or area, fitting the 'distance range km' type."
+  },
+  {
+    "id": "TT_ff499be0",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "Hysteresis is a property often associated with fluids and materials, describing lagging effects in response to changes in forces or conditions."
+  },
+  {
+    "id": "TT_96809d66",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x31 class' is a variation of 'x class', which is a spectral classification for stars."
+  },
+  {
+    "id": "TT_00532fc2",
+    "types": [
+      "unit derived by product"
+    ],
+    "reason": "The term 'farad per meter' is a derived unit in the SI system, representing capacitance per unit length."
+  },
+  {
+    "id": "TT_93b3fbeb",
+    "types": [
+      "habitat"
+    ],
+    "reason": "The term 'spawning ground' refers to a specific area where organisms reproduce, fitting the 'habitat' category."
+  },
+  {
+    "id": "TT_9a8b99a3",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'pb206' refers to an isotope of lead (Pb), specifically lead-206."
+  },
+  {
+    "id": "TT_3c00485a",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'recent' refers to a period or time frame, fitting within the context of temporal classifications."
+  },
+  {
+    "id": "TT_5e2d045f",
+    "types": [
+      "era"
+    ],
+    "reason": "The term 'tertiary' refers to a geological era in the Earth's history."
+  },
+  {
+    "id": "TT_6924dd35",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'spectral' is commonly associated with spectral bands in earth and environmental science."
+  },
+  {
+    "id": "TT_e0cf60cf",
+    "types": [
+      "physical property"
+    ],
+    "reason": "Anisotropic refers to a property that varies with direction, which is a physical characteristic."
+  },
+  {
+    "id": "TT_0670c288",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '199.6mya' refers to a time measurement in millions of years ago, which aligns with the 'age' type in the ontology."
+  },
+  {
+    "id": "TT_3b6eae65",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'nearest neighbor' refers to a spatial arrangement or configuration of objects or points."
+  },
+  {
+    "id": "TT_7e9f2338",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term describes a climate type characterized by low latitude and desert conditions, fitting the 'dry winter climate' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_ef6bdb73",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "Sulfate is a chemical compound consisting of sulfur and oxygen, classified as an inorganic compound."
+  },
+  {
+    "id": "TT_53a8c1d7",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '0mya' refers to a time measurement, likely 'million years ago', which falls under the 'age' category."
+  },
+  {
+    "id": "TT_14c9c5fa",
+    "types": [
+      "byte order"
+    ],
+    "reason": "The term 'big endian' refers to a byte order format in computing."
+  },
+  {
+    "id": "TT_8eba593b",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "The term 'cl2o2' refers to chlorine dioxide, which is an inorganic compound."
+  },
+  {
+    "id": "TT_1c3ef1e4",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'submitter' refers to a role or function, similar to other role-based terms in the examples."
+  },
+  {
+    "id": "TT_824659f4",
+    "types": [
+      "equilibrium state"
+    ],
+    "reason": "The term 'free oscillation' refers to a state of equilibrium in a system where it oscillates without external forces."
+  },
+  {
+    "id": "TT_c4f21e14",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'triaxial' refers to a configuration involving three axes, which aligns with the concept of spatial configuration."
+  },
+  {
+    "id": "TT_d3c6a0f8",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'dirty' can refer to a state of matter, such as dirty water or dirty air, indicating contamination or impurity."
+  },
+  {
+    "id": "TT_57ed716e",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'global scale' refers to a large spatial extent, fitting the 'spatial scale' category."
+  },
+  {
+    "id": "TT_8ca71121",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "The term 'hydraulic gradient' refers to the change in hydraulic head per unit distance, which is a property related to hydrogeology."
+  },
+  {
+    "id": "TT_6cb0388a",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'void' refers to an empty or unoccupied space, which aligns with the concept of spatial configuration in environmental science."
+  },
+  {
+    "id": "TT_7ca28dc2",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '850mya' refers to a time frame, specifically an age in millions of years ago."
+  },
+  {
+    "id": "TT_21576447",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '237.0mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_18b12175",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper ordovician' refers to a specific geological time period, which falls under the category of 'epoch' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_87ea5142",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term 'minute' refers to a unit of time, which falls under the category of duration."
+  },
+  {
+    "id": "TT_87174f1a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Gelasian is a geological epoch within the Quaternary period."
+  },
+  {
+    "id": "TT_efe70492",
+    "types": [
+      "spatial configuration"
+    ],
+    "reason": "The term 'basin groups' refers to a spatial arrangement or grouping of basins, which aligns with the concept of spatial configuration in earth science."
+  },
+  {
+    "id": "TT_fe68f28c",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "Microwave is a type of electromagnetic radiation, fitting under the 'spectral band' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_a2f64713",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "NetCDF4 is a self-describing data format commonly used in earth and environmental science for storing multidimensional data."
+  },
+  {
+    "id": "TT_7a75248d",
+    "types": [
+      "earth ocean"
+    ],
+    "reason": "The term 'arctic ocean' refers to one of the Earth's oceans, fitting the 'earth ocean' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_391a36c6",
+    "types": [
+      "reference frame"
+    ],
+    "reason": "The term 'lagrangian' refers to a reference frame used in physics and earth sciences to describe fluid motion."
+  },
+  {
+    "id": "TT_a2e8c926",
+    "types": [
+      "environmental standard"
+    ],
+    "reason": "The term 'pollutant standards index' refers to a standard used to measure air quality, fitting the 'environmental standard' category."
+  },
+  {
+    "id": "TT_0c637e6b",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'coulomb meter' represents a derived unit formed by the product of coulomb and meter, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_b40f6e8c",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "A reagent is a substance used in chemical reactions, fitting the 'chemical role' category."
+  },
+  {
+    "id": "TT_b6835c45",
+    "types": [
+      "land use"
+    ],
+    "reason": "The term 'continental' refers to land-related concepts, fitting the 'land use' category in environmental science."
+  },
+  {
+    "id": "TT_84664adb",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'amorphous' refers to a state of matter lacking a definite form or structure, fitting the 'physical state' category."
+  },
+  {
+    "id": "TT_f255806a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'moscovian' refers to a geological epoch within the Carboniferous period."
+  },
+  {
+    "id": "TT_2091a92f",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '268.0mya' refers to a time measurement, likely indicating an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_35930fb1",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'non stationary' refers to a state or condition of a system that is not fixed or unchanging, which aligns with the concept of system state in the SWEET ontology."
+  },
+  {
+    "id": "TT_66903bd5",
+    "types": [
+      "solid state"
+    ],
+    "reason": "The term 'indurated' refers to a hardened or solidified state, which aligns with the concept of 'solid state' in earth and environmental science."
+  },
+  {
+    "id": "TT_e0f6581a",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The Antarctic Circumpolar Current is a major ocean current that flows around Antarctica, fitting the 'earth western boundary current' type."
+  },
+  {
+    "id": "TT_0132cc6e",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'wuchiapingian' refers to a geological epoch in the Permian period."
+  },
+  {
+    "id": "TT_66f8101d",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'lte' is commonly associated with spectral bands in environmental science, particularly in remote sensing."
+  },
+  {
+    "id": "TT_879d6c41",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'tilted' refers to a direction or orientation, which fits the 'direction' type in the ontology."
+  },
+  {
+    "id": "TT_bda5805a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'dominant' implies a role or classification in a context, fitting the 'role' category in SWEET Ontology."
+  },
+  {
+    "id": "TT_50a38da7",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'upwind' refers to the direction from which the wind is blowing, fitting the 'direction' category."
+  },
+  {
+    "id": "TT_d77621e8",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "The term 'c2h6s' is a chemical formula representing an organic compound."
+  },
+  {
+    "id": "TT_fdf6296a",
+    "types": [
+      "fluid property"
+    ],
+    "reason": "Desalinization is a process related to altering the properties of fluids, specifically removing salt from water."
+  },
+  {
+    "id": "TT_4b97f1ec",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'clockwise' describes a rotational direction, fitting the 'direction' type."
+  },
+  {
+    "id": "TT_89cc5306",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term 'paleoarchean' refers to a geologic eon, specifically part of the Archean Eon."
+  },
+  {
+    "id": "TT_26b1777c",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'dwb' matches the abbreviation for 'dry winter climate' in the provided list of possible answers."
+  },
+  {
+    "id": "TT_258b7310",
+    "types": [
+      "isotope"
+    ],
+    "reason": "U238 refers to Uranium-238, which is an isotope of uranium."
+  },
+  {
+    "id": "TT_82c035d5",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x16 class' is a variant of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_195151ca",
+    "types": [
+      "time frame"
+    ],
+    "reason": "A century is a unit of time representing 100 years, fitting the 'time frame' category."
+  },
+  {
+    "id": "TT_18388d26",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'kilogram radian per second' is a derived unit formed by the product of kilogram, radian, and second, fitting the definition of a unit defined by product."
+  },
+  {
+    "id": "TT_e634b4e0",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'random' is often used to describe a role or state in various contexts, but without additional context, 'role' is the most general classification."
+  },
+  {
+    "id": "TT_46a5c696",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 's36' resembles an isotope notation, where 's' could indicate a specific isotope of an element."
+  },
+  {
+    "id": "TT_c35addc3",
+    "types": [
+      "biological role"
+    ],
+    "reason": "The term 'anadromous' refers to a type of migratory behavior in fish, which is a biological role."
+  },
+  {
+    "id": "TT_689a2c23",
+    "types": [
+      "environmental law"
+    ],
+    "reason": "The Montreal Protocol is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion, fitting the 'environmental law' category."
+  },
+  {
+    "id": "TT_fa75de12",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c6h6' is benzene, a well-known hydrocarbon."
+  },
+  {
+    "id": "TT_c45088ab",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'contained' implies a role or relationship within a system or context."
+  },
+  {
+    "id": "TT_478b6356",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'al26' refers to an isotope of aluminum, specifically Aluminum-26."
+  },
+  {
+    "id": "TT_4ea59887",
+    "types": [
+      "enhanced fujita scale"
+    ],
+    "reason": "The term 'severe' is commonly associated with the Enhanced Fujita Scale, which categorizes the intensity of tornadoes."
+  },
+  {
+    "id": "TT_5d844340",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'sensible' refers to a state or property related to physical conditions, often used in environmental science."
+  },
+  {
+    "id": "TT_ac3340ac",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The Reynolds number is a dimensionless quantity used to predict flow patterns in fluid dynamics."
+  },
+  {
+    "id": "TT_408846c2",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper pleistocene' refers to a specific geological epoch within the Pleistocene period."
+  },
+  {
+    "id": "TT_1c3cb20d",
+    "types": [
+      "system state"
+    ],
+    "reason": "The term 'disturbed' suggests a state of disruption or imbalance, fitting the 'system state' category."
+  },
+  {
+    "id": "TT_664dd05f",
+    "types": [
+      "vertical coordinate"
+    ],
+    "reason": "The term 'hybrid height' refers to a vertical coordinate system used in atmospheric and earth science modeling."
+  },
+  {
+    "id": "TT_95b328fb",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'upslope' refers to a direction, specifically upward along a slope."
+  },
+  {
+    "id": "TT_99aa35a9",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'instance' is commonly used to refer to an occurrence or example of something, fitting the 'role' category."
+  },
+  {
+    "id": "TT_abc41f06",
+    "types": [
+      "era"
+    ],
+    "reason": "The term 'paleozoic' refers to a geological era, which is a major division of geological time."
+  },
+  {
+    "id": "TT_9dd26ab9",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Aquitanian is a geological epoch within the Miocene epoch."
+  },
+  {
+    "id": "TT_4eda8ff9",
+    "types": [
+      "noble gas"
+    ],
+    "reason": "Neon is a noble gas in the periodic table."
+  },
+  {
+    "id": "TT_59ddd3ff",
+    "types": [
+      "self describing format"
+    ],
+    "reason": "NetCDF is a self-describing format commonly used in earth and environmental science for storing multidimensional data."
+  },
+  {
+    "id": "TT_9a890078",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'neogene' refers to a geological epoch in the Earth's history."
+  },
+  {
+    "id": "TT_c3a6dee5",
+    "types": [
+      "a class"
+    ],
+    "reason": "The term 'a7 class' is a variation of 'a class', which is a spectral classification in astronomy."
+  },
+  {
+    "id": "TT_7f5f4a19",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'pb202' resembles an isotope notation, where 'pb' stands for lead and '202' is the mass number."
+  },
+  {
+    "id": "TT_a4fc1bf8",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'anthropogenic' refers to human influence or origin, fitting the 'role' category in environmental science."
+  },
+  {
+    "id": "TT_9fcdfe3e",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The term 'sonic mach number' refers to a ratio of speeds, which is dimensionless."
+  },
+  {
+    "id": "TT_13835c44",
+    "types": [
+      "environmental standard"
+    ],
+    "reason": "The term 'hazard' is commonly associated with environmental standards and regulations."
+  },
+  {
+    "id": "TT_55f474ac",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'transit' refers to a role or function in various contexts, such as transportation or astronomy."
+  },
+  {
+    "id": "TT_1838b11c",
+    "types": [
+      "prefix"
+    ],
+    "reason": "The term 'deca' is a metric prefix denoting a factor of ten."
+  },
+  {
+    "id": "TT_211e9755",
+    "types": [
+      "physical constant"
+    ],
+    "reason": "The term 'newtonian' refers to a concept related to physical constants, specifically in the context of Newtonian mechanics."
+  },
+  {
+    "id": "TT_fd1d6b94",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'inert' refers to a chemical property where a substance is unreactive under certain conditions."
+  },
+  {
+    "id": "TT_a167723a",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'o18' refers to Oxygen-18, which is an isotope of oxygen."
+  },
+  {
+    "id": "TT_7a51dc0e",
+    "types": [
+      "eon"
+    ],
+    "reason": "The term '503mya' refers to a time frame in geological history, specifically an eon."
+  },
+  {
+    "id": "TT_71b92c17",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '2300mya' refers to an age, specifically 2300 million years ago, which is a temporal measurement."
+  },
+  {
+    "id": "TT_d90aaa2a",
+    "types": [
+      "halocarbon"
+    ],
+    "reason": "The term 'dibromotetrafluoroethane' is a type of halocarbon, which is a class of organic compounds containing halogens."
+  },
+  {
+    "id": "TT_1e9ed9ae",
+    "types": [
+      "distance range km"
+    ],
+    "reason": "The term 'far field' refers to a region of space where the distance from a source is significant, often used in physics and engineering."
+  },
+  {
+    "id": "TT_6e26f239",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'tenuous' describes a rarefied or thin state, which aligns with the concept of 'state of matter' in environmental science."
+  },
+  {
+    "id": "TT_366ad7df",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "The Rossby number is a dimensionless quantity used in fluid dynamics to describe the relative importance of inertial forces to Coriolis forces."
+  },
+  {
+    "id": "TT_290dc01c",
+    "types": [
+      "duration"
+    ],
+    "reason": "The term '1day' refers to a time frame or duration, which fits the 'duration' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_d03eec09",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'photodissociate' refers to a chemical process where molecules are broken down by light, fitting the 'chemical state' category."
+  },
+  {
+    "id": "TT_366ae90f",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x45 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_e090a1fc",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "Ultraviolet refers to a specific range of the electromagnetic spectrum, classified as a spectral band."
+  },
+  {
+    "id": "TT_77ee9e2c",
+    "types": [
+      "frequency"
+    ],
+    "reason": "Terahertz refers to a unit of frequency, specifically in the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_703bd7c8",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'down' refers to a vertical direction, which is a type of direction in the SWEET Ontology."
+  },
+  {
+    "id": "TT_207122bf",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'neutralize' refers to a chemical process where an acid and a base react to form water and a salt, fitting the 'chemical role' category."
+  },
+  {
+    "id": "TT_e57fb4fb",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "Non-thermal plasma is a distinct state of matter where the electron temperature is much higher than the temperature of heavy species."
+  },
+  {
+    "id": "TT_5782aa24",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'trusted' relates to the concept of trust, which is a predefined type in the ontology."
+  },
+  {
+    "id": "TT_feec0db3",
+    "types": [
+      "spectral band"
+    ],
+    "reason": "The term 'v band' refers to a specific spectral band in the electromagnetic spectrum."
+  },
+  {
+    "id": "TT_7092fa8b",
+    "types": [
+      "solid state"
+    ],
+    "reason": "Dry ice is the solid form of carbon dioxide, hence classified under 'solid state'."
+  },
+  {
+    "id": "TT_8e352005",
+    "types": [
+      "shape"
+    ],
+    "reason": "The term 'spherical' refers to a geometric shape, specifically a three-dimensional round shape."
+  },
+  {
+    "id": "TT_081502f5",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'passive' is commonly used to describe a role or state in various contexts, including environmental science."
+  },
+  {
+    "id": "TT_449c56bb",
+    "types": [
+      "connectivity"
+    ],
+    "reason": "The term 'connected' refers to a state or property of being linked or joined, which aligns with the concept of connectivity in the given ontology."
+  },
+  {
+    "id": "TT_2496d964",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term 'ice cap climate' refers to a specific type of climate characterized by permanent ice and snow, which falls under the broader category of dry winter climates."
+  },
+  {
+    "id": "TT_b64a0544",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'furongian stage9' refers to a geological time period, which is classified as an epoch in earth science."
+  },
+  {
+    "id": "TT_e3c314db",
+    "types": [
+      "horizontal direction"
+    ],
+    "reason": "The term 'eastward' refers to a direction along the horizontal plane, specifically towards the east."
+  },
+  {
+    "id": "TT_1ee8de3d",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'undefendable' implies a lack of reliability or trustworthiness, fitting the 'trust' category."
+  },
+  {
+    "id": "TT_11ac2bd4",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'acenaphthylene' is a polycyclic aromatic hydrocarbon, fitting the 'hydrocarbon' type."
+  },
+  {
+    "id": "TT_67841b01",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'vulnerable' is associated with a state of trust or reliability in environmental contexts."
+  },
+  {
+    "id": "TT_485cb62f",
+    "types": [
+      "dimensionless ratio"
+    ],
+    "reason": "ppm (parts per million) is a dimensionless ratio used to describe concentrations in environmental science."
+  },
+  {
+    "id": "TT_cd08f314",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '265.8mya' refers to a time frame, specifically an age measured in millions of years ago."
+  },
+  {
+    "id": "TT_9acace53",
+    "types": [
+      "unit derived by product"
+    ],
+    "reason": "The term describes a derived unit involving multiple base units (kilogram, meter, second, kelvin) combined multiplicatively."
+  },
+  {
+    "id": "TT_35a67213",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term 'thermodynamic equilibrium' refers to a state in thermodynamics where a system's properties no longer change over time, fitting the 'thermodynamic state' category."
+  },
+  {
+    "id": "TT_c99b05db",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The Benguela Current is a known western boundary current in the Earth's ocean system."
+  },
+  {
+    "id": "TT_4ff65db6",
+    "types": [
+      "state of matter"
+    ],
+    "reason": "The term 'translucent' describes a physical state where light passes through but is diffused."
+  },
+  {
+    "id": "TT_4db26c71",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'visean' refers to a specific geological epoch within the Carboniferous period."
+  },
+  {
+    "id": "TT_2d6bbd7d",
+    "types": [
+      "enhanced fujita scale"
+    ],
+    "reason": "The term 'ef5' is a classification in the Enhanced Fujita Scale, used to rate tornado intensity."
+  },
+  {
+    "id": "TT_52f53eb6",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Acrylonitrile is a chemical compound classified as an organic compound due to its carbon-based structure."
+  },
+  {
+    "id": "TT_6812e41f",
+    "types": [
+      "time frame"
+    ],
+    "reason": "The term 'day' refers to a unit of time, fitting the 'time frame' category."
+  },
+  {
+    "id": "TT_b463247f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Permian' refers to a specific geological epoch in Earth's history."
+  },
+  {
+    "id": "TT_ec452f99",
+    "types": [
+      "thermodynamic state"
+    ],
+    "reason": "The term refers to a state in thermodynamics where local conditions are in equilibrium."
+  },
+  {
+    "id": "TT_597ec3d6",
+    "types": [
+      "unit defined by product"
+    ],
+    "reason": "The term 'joule per mole per kelvin' is a derived unit representing a product of multiple base units."
+  },
+  {
+    "id": "TT_057105f0",
+    "types": [
+      "earth western boundary current"
+    ],
+    "reason": "The California Current is a known western boundary current in the Earth's ocean system."
+  },
+  {
+    "id": "TT_c7f6cba8",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '443.7mya' refers to a time measurement in millions of years ago, which is categorized as 'age' in the SWEET Ontology."
+  },
+  {
+    "id": "TT_2d5075a6",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'seaward' refers to a direction toward the sea, which fits the 'direction' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_02158935",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Acrolein is an organic compound, specifically an unsaturated aldehyde."
+  },
+  {
+    "id": "TT_cb331185",
+    "types": [
+      "inorganic compound"
+    ],
+    "reason": "HCN (hydrogen cyanide) is classified as an inorganic compound due to its chemical structure and properties."
+  },
+  {
+    "id": "TT_2bbcc3cb",
+    "types": [
+      "alkali metal"
+    ],
+    "reason": "The term 'cak' is not explicitly defined in the provided examples or possible answers, but it resembles an abbreviation or code for an alkali metal, such as calcium (Ca) or potassium (K)."
+  },
+  {
+    "id": "TT_a8e341cb",
+    "types": [
+      "halon"
+    ],
+    "reason": "Halon2402 is a type of halon, which is a group of organic compounds containing bromine and fluorine."
+  },
+  {
+    "id": "TT_621d98b1",
+    "types": [
+      "component"
+    ],
+    "reason": "The term 'segment' refers to a part or component of a larger entity, fitting the definition of 'component'."
+  },
+  {
+    "id": "TT_48d53d50",
+    "types": [
+      "halon"
+    ],
+    "reason": "The term 'halon1301' refers to a type of halon, which is a category of organic compounds used in fire suppression systems."
+  },
+  {
+    "id": "TT_eaf26b59",
+    "types": [
+      "isotope"
+    ],
+    "reason": "Deuterium is an isotope of hydrogen."
+  },
+  {
+    "id": "TT_238f77a8",
+    "types": [
+      "size"
+    ],
+    "reason": "The term 'tiny' refers to a small size, which fits the 'size' category in the ontology."
+  },
+  {
+    "id": "TT_83d744bc",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Kungurian' refers to a specific epoch in the geologic timescale."
+  },
+  {
+    "id": "TT_6b380c65",
+    "types": [
+      "isotope"
+    ],
+    "reason": "The term 'he3' refers to Helium-3, which is an isotope of helium."
+  },
+  {
+    "id": "TT_2eae24b7",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '133.9mya' refers to a geological age, specifically 133.9 million years ago."
+  },
+  {
+    "id": "TT_4363869f",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'compact' refers to a state of matter or physical configuration, fitting the 'physical state' type."
+  },
+  {
+    "id": "TT_29a10f10",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'analyzed' implies a role or function in a process, fitting the 'role' category."
+  },
+  {
+    "id": "TT_e03d6775",
+    "types": [
+      "trust"
+    ],
+    "reason": "The term 'suboptimal' implies a level of trust or confidence in the quality or performance of something."
+  },
+  {
+    "id": "TT_045d5490",
+    "types": [
+      "unit"
+    ],
+    "reason": "Farad is the SI unit of capacitance, fitting the 'unit' category."
+  },
+  {
+    "id": "TT_639a7302",
+    "types": [
+      "chemical state"
+    ],
+    "reason": "The term 'poision' likely refers to a chemical state or substance, given its context in environmental science."
+  },
+  {
+    "id": "TT_fb95f603",
+    "types": [
+      "spatial scale"
+    ],
+    "reason": "The term 'mesoscale' refers to a spatial scale in earth and environmental science, typically intermediate between microscale and macroscale."
+  },
+  {
+    "id": "TT_cfa5f1e6",
+    "types": [
+      "horizontal coordinate system"
+    ],
+    "reason": "The term 'azimuthal equidistant' refers to a type of map projection, which is a horizontal coordinate system."
+  },
+  {
+    "id": "TT_226a0085",
+    "types": [
+      "direction"
+    ],
+    "reason": "The term 'opposition' refers to a directional relationship, often used in astronomy or spatial contexts."
+  },
+  {
+    "id": "TT_f7fad713",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "NMHC stands for Non-Methane Hydrocarbon, which is a type of hydrocarbon."
+  },
+  {
+    "id": "TT_04bcd131",
+    "types": [
+      "hydrogeological property"
+    ],
+    "reason": "The term 'specific retention' refers to a property related to water retention in hydrogeology."
+  },
+  {
+    "id": "TT_fda19db9",
+    "types": [
+      "radioactive substance"
+    ],
+    "reason": "The term 'radioactive decay' refers to a process involving radioactive substances."
+  },
+  {
+    "id": "TT_d5288fcb",
+    "types": [
+      "angular coordinate"
+    ],
+    "reason": "Latitude is a measure of angular distance from the equator, fitting the 'angular coordinate' type."
+  },
+  {
+    "id": "TT_633af82a",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'surplus' is commonly used to describe a role or state in economic or environmental contexts."
+  },
+  {
+    "id": "TT_f16225dc",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'h10' follows the pattern of hydrocarbon notation (e.g., c12h8)."
+  },
+  {
+    "id": "TT_e457ad55",
+    "types": [
+      "land use"
+    ],
+    "reason": "The term 'irrigated' refers to a method of land use involving the artificial application of water to land."
+  },
+  {
+    "id": "TT_b4ab2f6c",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'lutetian' refers to a geological epoch within the Eocene series."
+  },
+  {
+    "id": "TT_c6825c5c",
+    "types": [
+      "moisture state"
+    ],
+    "reason": "The term 'brackish' refers to a state of water that is a mix of fresh and saltwater, fitting the 'moisture state' category."
+  },
+  {
+    "id": "TT_599f422e",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Methane is a simple hydrocarbon consisting of one carbon atom and four hydrogen atoms."
+  },
+  {
+    "id": "TT_7ea00ec3",
+    "types": [
+      "compression method"
+    ],
+    "reason": "The term 'bzip2' refers to a data compression algorithm, which fits the 'compression method' type."
+  },
+  {
+    "id": "TT_2ebbbf3e",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '2.588mya' refers to a time frame, specifically an age in millions of years ago."
+  },
+  {
+    "id": "TT_c31e8a87",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '635mya' refers to a time frame, specifically 635 million years ago, which is categorized as 'age' in the context of earth and environmental science."
+  },
+  {
+    "id": "TT_590b4d40",
+    "types": [
+      "physical state"
+    ],
+    "reason": "Plastic refers to a material's physical state, often malleable and deformable."
+  },
+  {
+    "id": "TT_54e29617",
+    "types": [
+      "role"
+    ],
+    "reason": "The term 'published' refers to a role or status, often associated with documents or works."
+  },
+  {
+    "id": "TT_bfd638aa",
+    "types": [
+      "ion"
+    ],
+    "reason": "The term 'co3minusminus' refers to the carbonate ion, which is a charged particle (ion) in chemistry."
+  },
+  {
+    "id": "TT_4610dbef",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c2h6' refers to ethane, which is a hydrocarbon."
+  },
+  {
+    "id": "TT_772516cd",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'Sinemurian' refers to a geological epoch within the Jurassic period."
+  },
+  {
+    "id": "TT_693428c6",
+    "types": [
+      "organic compound"
+    ],
+    "reason": "Ethanol is a well-known organic compound."
+  },
+  {
+    "id": "TT_2a962967",
+    "types": [
+      "solstice"
+    ],
+    "reason": "The term 'winter solstice' refers to a specific astronomical event marking the shortest day of the year, which falls under the 'solstice' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_228c9a24",
+    "types": [
+      "season"
+    ],
+    "reason": "Autumn is one of the four seasons in the Earth's annual cycle."
+  },
+  {
+    "id": "TT_175c85af",
+    "types": [
+      "latitude band"
+    ],
+    "reason": "The term 'tropics' refers to the region of the Earth near the equator, which is a specific latitude band."
+  },
+  {
+    "id": "TT_1e29ff2b",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'gzhelian' refers to a specific geological epoch in the Earth's history."
+  },
+  {
+    "id": "TT_9b23cc92",
+    "types": [
+      "dry winter climate"
+    ],
+    "reason": "The term describes a climate type characterized by cold temperatures and midlatitude desert conditions, fitting the 'dry winter climate' category."
+  },
+  {
+    "id": "TT_de983990",
+    "types": [
+      "federal governing body"
+    ],
+    "reason": "The term refers to a government agency overseeing aviation, fitting the 'federal governing body' category."
+  },
+  {
+    "id": "TT_f7557642",
+    "types": [
+      "unit"
+    ],
+    "reason": "The term 'micron' refers to a unit of length, specifically one millionth of a meter."
+  },
+  {
+    "id": "TT_a28f8d1b",
+    "types": [
+      "wet summer dry winter climate"
+    ],
+    "reason": "The term 'tropical savanna climate' is associated with a climate type characterized by wet summers and dry winters."
+  },
+  {
+    "id": "TT_c03ee39c",
+    "types": [
+      "age"
+    ],
+    "reason": "The term '1.806mya' refers to a time frame, specifically an age in millions of years ago (mya)."
+  },
+  {
+    "id": "TT_c28bffeb",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "Ethane is a simple hydrocarbon compound."
+  },
+  {
+    "id": "TT_ec20605d",
+    "types": [
+      "fluid state"
+    ],
+    "reason": "The term 'ageostrophic' refers to a state of fluid motion that deviates from geostrophic balance, commonly used in atmospheric and oceanic studies."
+  },
+  {
+    "id": "TT_389427ae",
+    "types": [
+      "temperature range"
+    ],
+    "reason": "The term 'cold' refers to a state or range of temperature, fitting the 'temperature range' category in the ontology."
+  },
+  {
+    "id": "TT_de3b52c2",
+    "types": [
+      "speed state"
+    ],
+    "reason": "The term 'subsonic' refers to a speed state, specifically speeds below the speed of sound."
+  },
+  {
+    "id": "TT_49de527d",
+    "types": [
+      "physical state"
+    ],
+    "reason": "The term 'pan' refers to a physical state or form of a substance, such as a container or a flat surface."
+  },
+  {
+    "id": "TT_03554dcb",
+    "types": [
+      "consumer"
+    ],
+    "reason": "The term 'primary consumer' refers to an organism that consumes producers, fitting the 'consumer' type in the ontology."
+  },
+  {
+    "id": "TT_132cec32",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Sakmarian is a geological epoch within the Permian period."
+  },
+  {
+    "id": "TT_eddfe9d3",
+    "types": [
+      "x class"
+    ],
+    "reason": "The term 'x24 class' is a variation of 'x class', which is a classification in the SWEET Ontology."
+  },
+  {
+    "id": "TT_613ffa4a",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'upper cretaceous' refers to a specific geological time period, which is classified as an epoch."
+  },
+  {
+    "id": "TT_e58fc888",
+    "types": [
+      "speed state"
+    ],
+    "reason": "The term 'slow' describes a state of speed, which fits the 'speed state' category in the SWEET Ontology."
+  },
+  {
+    "id": "TT_d937cdce",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'chattian' refers to a geological epoch within the Cenozoic era."
+  },
+  {
+    "id": "TT_6e4530c0",
+    "types": [
+      "hydrocarbon"
+    ],
+    "reason": "The term 'c14' is likely a hydrocarbon, as it follows the pattern of hydrocarbon naming conventions (e.g., 'c12h8')."
+  },
+  {
+    "id": "TT_41ca3c25",
+    "types": [
+      "chemical role"
+    ],
+    "reason": "The term 'noy' is likely a chemical term, possibly referring to a role in chemical processes."
+  },
+  {
+    "id": "TT_997f0b42",
+    "types": [
+      "spatial reference system"
+    ],
+    "reason": "The term 'stereographic' refers to a method of projection used in spatial reference systems."
+  },
+  {
+    "id": "TT_9ef7cab0",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Kimmeridgian is a geological epoch within the Jurassic period."
+  },
+  {
+    "id": "TT_81173ce7",
+    "types": [
+      "epoch"
+    ],
+    "reason": "The term 'cambrian stage3' refers to a specific time frame in geological history, which aligns with the 'epoch' type in the SWEET Ontology."
+  },
+  {
+    "id": "TT_d5cdb49f",
+    "types": [
+      "epoch"
+    ],
+    "reason": "Serravallian is a geological epoch in the Miocene era."
+  }
+]
