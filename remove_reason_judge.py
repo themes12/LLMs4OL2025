@@ -30,23 +30,37 @@ def main():
 
     print(f"Processing datasets: {datasets_to_process} with models: {models}")
 
-    for dataset_name in datasets_to_process:
-        for model_name in models:
-            filename = RESULT_DIR.joinpath(model_name).joinpath(f"{dataset_name.lower()}_results.json")
-            if not filename.exists():
-                print(f"File {filename} does not exist. Skipping...")
-                continue
+    for model_name in models:
+        model_result_dir = RESULT_DIR.joinpath(model_name)
+        if not model_result_dir.exists() or not model_result_dir.is_dir():
+            print(f"Directory {model_result_dir} does not exist. Skipping...")
+            continue
+        
+        # Get all JSON files in the directory
+        json_files = list(model_result_dir.glob("*.json"))
+        if not json_files:
+            print(f"No JSON files found in {model_result_dir}. Skipping...")
+            continue
+        
+        print(f"Processing {len(json_files)} files for model {model_name}...")
+        
+        # Create output directory
+        output_dir = RESULT_FOR_SUBMIT.joinpath(model_name)
+        os.makedirs(output_dir, exist_ok=True)
+        
+        for json_file in json_files:
+            print(f"Processing file: {json_file.name}")
             
-            with open(filename, "r") as f:
+            with open(json_file, "r") as f:
                 data = json.load(f)
-
-            print(f"Processing {dataset_name} with {model_name}...")
-
-            result_filename = RESULT_FOR_SUBMIT.joinpath(model_name).joinpath(f"{dataset_name.lower()}_results_for_submit.json")
-            os.makedirs(result_filename.parent, exist_ok=True)
             
+            # Determine output filename
+            output_filename = output_dir.joinpath(f"{json_file.stem}_for_submit.json")
+            
+            # Transform data
             formatted_results = [{"id": item["id"], "types": item["types"]} for item in data]
-            with open(result_filename, "w") as f:
+            
+            with open(output_filename, "w") as f:
                 json.dump(formatted_results, f, indent=2)
 
 if __name__ == "__main__":
