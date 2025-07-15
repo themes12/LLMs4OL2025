@@ -16,7 +16,7 @@ AVAILABLE_DATASETS = ["MatOnto", "OBI", "SWEET"]
 OUTPUT_DIR = Path("../processed_datasets_judge")
 RESULT_DIR = Path("../results_judge")
 MODEL_NAME = "gemini-2.5-pro"
-MAX_CONCURRENT = 1
+MAX_CONCURRENT = 2
 
 client = genai.Client(api_key=api_key)
 client = instructor.from_genai(client)

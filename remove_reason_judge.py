@@ -55,7 +55,7 @@ def main():
                 data = json.load(f)
             
             # Determine output filename
-            output_filename = output_dir.joinpath(f"{json_file.stem}_for_submit.json")
+            output_filename = output_dir.joinpath(f"{json_file.stem}_{model_name}.json")
             
             # Transform data
             formatted_results = [{"id": item["id"], "types": item["types"]} for item in data]
